@@ -1,0 +1,83 @@
+LOG [0] (14 : 54 : 13 : 8793) -> LOGS METHANISATION APP (logs\19-04-14__02-54-13.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 54 : 13 : 878362~~ >> 
+LOG [1] (14 : 54 : 13 : 8803) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (14 : 54 : 13 : 8803) -> INIT end
+LOG [3] (14 : 54 : 13 : 8803) -> Application.EnableVisualStyles()
+LOG [4] (14 : 54 : 13 : 8813) -> success
+LOG [5] (14 : 54 : 13 : 8823) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (14 : 54 : 13 : 8823) -> success
+LOG [7] (14 : 54 : 13 : 8833) -> Instanciation of MainForm object
+LOG [8] (14 : 54 : 13 : 9633) -> mainForm.Text = ...
+LOG [9] (14 : 54 : 13 : 9643) -> Loading lists...
+LOG [10] (14 : 54 : 14 : 0604) -> Application.Run(new MainForm())
+LOG [11] (14 : 54 : 14 : 8295) -> Show CHF _win_
+LOG [12] (14 : 54 : 14 : 8405) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/2
+LOG [13] (14 : 54 : 14 : 8415) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/2
+LOG [14] (14 : 54 : 17 : 8398) -> Form closing
+LOG [15] (14 : 55 : 37 : 7646) -> MSG_BOX #INFO > CDGWD - d1.r.count = 5 d2.r.count = 5 > OK
+LOG [16] (14 : 55 : 37 : 9444) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [17] (14 : 55 : 38 : 8352) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [18] (14 : 55 : 38 : 9955) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [19] (14 : 55 : 39 : 1747) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [20] (14 : 55 : 39 : 3743) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [21] (14 : 55 : 39 : 6149) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [22] (14 : 55 : 39 : 8447) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [23] (14 : 55 : 40 : 0050) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [24] (14 : 55 : 40 : 2053) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [25] (14 : 55 : 40 : 6465) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [26] (14 : 55 : 40 : 8565) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [27] (14 : 55 : 41 : 1761) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [28] (14 : 55 : 41 : 6560) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [29] (14 : 55 : 42 : 0558) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [30] (14 : 55 : 42 : 2764) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [31] (14 : 55 : 42 : 6269) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [32] (14 : 55 : 42 : 8873) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [33] (14 : 55 : 43 : 1080) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [34] (14 : 55 : 43 : 4167) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [35] (14 : 55 : 43 : 7502) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [36] (14 : 55 : 48 : 7180) -> Show CHF _win_
+LOG [37] (14 : 55 : 48 : 7240) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/2
+LOG [38] (14 : 55 : 48 : 7250) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/2
+LOG [39] (14 : 55 : 54 : 0888) -> Form closing
+LOG [40] (14 : 56 : 33 : 5850) -> MSG_BOX #INFO > CDGWD - d1.r.count = 9 d2.r.count = 9 > OK
+LOG [41] (14 : 56 : 33 : 7863) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [42] (14 : 56 : 34 : 0256) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [43] (14 : 56 : 34 : 2061) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [44] (14 : 56 : 34 : 4060) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [45] (14 : 56 : 34 : 5668) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [46] (14 : 56 : 34 : 7360) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [47] (14 : 56 : 35 : 0554) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [48] (14 : 56 : 35 : 2174) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [49] (14 : 56 : 35 : 3967) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [50] (14 : 56 : 35 : 7181) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [51] (14 : 56 : 35 : 9766) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [52] (14 : 56 : 36 : 3172) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [53] (14 : 56 : 36 : 4572) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [54] (14 : 56 : 36 : 6174) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [55] (14 : 56 : 36 : 9692) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [56] (14 : 56 : 37 : 2275) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [57] (14 : 56 : 37 : 7075) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [58] (14 : 56 : 37 : 8509) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [59] (14 : 56 : 38 : 0092) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [60] (14 : 56 : 38 : 3788) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [61] (14 : 56 : 38 : 6589) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [62] (14 : 56 : 38 : 9392) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [63] (14 : 56 : 39 : 1186) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [64] (14 : 56 : 39 : 2686) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [65] (14 : 56 : 39 : 5790) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [66] (14 : 56 : 39 : 8607) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [67] (14 : 56 : 40 : 1200) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [68] (14 : 56 : 40 : 3100) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [69] (14 : 56 : 40 : 4902) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [70] (14 : 56 : 40 : 7603) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [71] (14 : 56 : 40 : 9909) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [72] (14 : 56 : 41 : 2718) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [73] (14 : 56 : 41 : 5817) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [74] (14 : 56 : 42 : 3012) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [75] (14 : 56 : 42 : 5100) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [76] (14 : 56 : 42 : 7197) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val =  d2.r[i].c[j].val =  > OK
+LOG [77] (14 : 56 : 52 : 8905) -> START finish with success result.
+LOG [78] (14 : 56 : 52 : 8915) -> Saving lists...
+LOG [79] (14 : 56 : 52 : 8975) -> Application stopping...
+LOG [80] (14 : 56 : 52 : 8985) -> Closing opened forms...
+LOG [81] (14 : 56 : 52 : 8985) -> application STOPED.

@@ -1,0 +1,35 @@
+LOG [0] (13:14:20) -> LOGS METHANISATION logs\mardi-9-avril-2019__13-14-20__855__.txt :: 
+LOG [0] (13:14:22) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/5
+LOG [0] (13:14:22) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/5
+LOG [0] (13:14:22) -> new exploitation loaded (Methanisation.Exploitation) -> f# 3/5
+LOG [0] (13:14:22) -> new exploitation loaded (Methanisation.Exploitation) -> f# 4/5
+LOG [0] (13:14:22) -> new exploitation loaded (Methanisation.Exploitation) -> f# 5/5
+LOG [0] (13:14:28) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (13:14:28) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (13:14:28) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (13:14:28) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (13:14:28) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (13:14:28) -> new fumier loaded ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ]) -> f# 1/4
+LOG [0] (13:14:28) -> new fumier loaded ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ]) -> f# 2/4
+LOG [0] (13:14:28) -> new fumier loaded ([ fumier nom::  qsd, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/4
+LOG [0] (13:14:28) -> new fumier loaded ([ fumier nom::non défini, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/4
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::  qsd, poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:35) -> new fumier saved ([ fumier nom::non défini, poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ]) -> f# 1/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ]) -> f# 2/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::  qsd, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 5/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 6/7
+LOG [0] (13:14:36) -> new fumier loaded ([ fumier nom::non défini, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 7/7
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ])
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ])
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::  qsd, poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:14:50) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])

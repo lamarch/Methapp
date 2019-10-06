@@ -1,0 +1,10 @@
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\bin\Debug\Methanisation_2.exe.config
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\bin\Debug\Methanisation_2.exe
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\bin\Debug\Methanisation_2.pdb
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.Properties.Resources.resources
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.exe
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.pdb
+C:\Users\Xavier\source\repos\Methanisation_2\Methanisation_2\obj\Debug\Methanisation_2.DGW_Base.resources

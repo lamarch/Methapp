@@ -1,0 +1,20 @@
+LOG [0] (12 : 07 : 24 : 3870) -> LOGS METHANISATION APP (logs\19-04-16__12-07-24.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 12 [+02:00 / +02:00] : 07 : 24 : 386078~~ >> 
+LOG [1] (12 : 07 : 24 : 3880) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (12 : 07 : 24 : 3880) -> INIT LISTS...
+LOG [3] (12 : 07 : 24 : 3920) -> INIT end
+LOG [4] (12 : 07 : 24 : 3920) -> Application.EnableVisualStyles()
+LOG [5] (12 : 07 : 24 : 3940) -> success
+LOG [6] (12 : 07 : 24 : 3940) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (12 : 07 : 24 : 3950) -> success
+LOG [8] (12 : 07 : 24 : 3960) -> Instanciation of MainForm object
+LOG [9] (12 : 07 : 24 : 4640) -> mainForm.Text = ...
+LOG [10] (12 : 07 : 24 : 4650) -> Loading lists...
+LOG [11] (12 : 07 : 24 : 5501) -> Application.Run(new MainForm())
+LOG [12] (12 : 07 : 27 : 3641) -> Show BLWin _win_
+LOG [13] (12 : 07 : 30 : 4453) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [14] (12 : 07 : 39 : 0355) -> START finish with success result.
+LOG [15] (12 : 07 : 39 : 0355) -> Saving lists...
+LOG [16] (12 : 07 : 39 : 0465) -> Application stopping...
+LOG [17] (12 : 07 : 39 : 0475) -> Closing opened forms...
+LOG [18] (12 : 07 : 39 : 0475) -> application STOPED.

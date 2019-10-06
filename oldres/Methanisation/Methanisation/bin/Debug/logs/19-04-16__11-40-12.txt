@@ -1,0 +1,20 @@
+LOG [0] (11 : 40 : 12 : 9590) -> LOGS METHANISATION APP (logs\19-04-16__11-40-12.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 40 : 12 : 959066~~ >> 
+LOG [1] (11 : 40 : 12 : 9600) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 40 : 12 : 9600) -> INIT LISTS...
+LOG [3] (11 : 40 : 12 : 9630) -> INIT end
+LOG [4] (11 : 40 : 12 : 9630) -> Application.EnableVisualStyles()
+LOG [5] (11 : 40 : 12 : 9640) -> success
+LOG [6] (11 : 40 : 12 : 9650) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (11 : 40 : 12 : 9650) -> success
+LOG [8] (11 : 40 : 12 : 9660) -> Instanciation of MainForm object
+LOG [9] (11 : 40 : 13 : 0570) -> mainForm.Text = ...
+LOG [10] (11 : 40 : 13 : 0570) -> Loading lists...
+LOG [11] (11 : 40 : 13 : 1871) -> Application.Run(new MainForm())
+LOG [12] (11 : 40 : 13 : 7792) -> Show BLWin _win_
+LOG [13] (11 : 40 : 15 : 2763) -> MSG_BOX #INFO > -> E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier) // E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)) > OK
+LOG [14] (11 : 40 : 22 : 1200) -> START finish with success result.
+LOG [15] (11 : 40 : 22 : 1200) -> Saving lists...
+LOG [16] (11 : 40 : 22 : 1300) -> Application stopping...
+LOG [17] (11 : 40 : 22 : 1300) -> Closing opened forms...
+LOG [18] (11 : 40 : 22 : 1310) -> application STOPED.

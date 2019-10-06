@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFumier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>45</Poids>
+    <Nom>caca de mouton</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+</ArrayOfFumier>

@@ -1,0 +1,14 @@
+LOG [0] (17 : 18 : 21 : 4563) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-18-21__455__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 18 : 21 : 456357 >> 
+LOG [1] (17 : 18 : 21 : 4573) -> START ::
+LOG [2] (17 : 18 : 21 : 4573) -> Init files & dir : 
+LOG [3] (17 : 18 : 21 : 4583) -> CREATE DIR
+LOG [4] (17 : 18 : 21 : 4593) -> success
+LOG [5] (17 : 18 : 21 : 4593) -> Application.EnableVisualStyles()
+LOG [6] (17 : 18 : 21 : 4603) -> success
+LOG [7] (17 : 18 : 21 : 4613) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 18 : 21 : 4673) -> success
+LOG [9] (17 : 18 : 21 : 4683) -> Application.Run(new MainForm())
+LOG [10] (17 : 18 : 21 : 4683) -> START finish with success result.
+LOG [11] (17 : 18 : 22 : 8147) -> Show CHF _win_
+LOG [12] (17 : 18 : 36 : 4910) -> STOP application.

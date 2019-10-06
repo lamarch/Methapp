@@ -1,0 +1,21 @@
+LOGS :: 
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=0 }
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=0 }
+item : 1/2
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }
+item : 1/2
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=1 }

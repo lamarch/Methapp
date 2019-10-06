@@ -1,0 +1,31 @@
+LOG [0] (17 : 11 : 51 : 6862) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-11-51__685__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 11 : 51 : 686216 >> 
+LOG [1] (17 : 11 : 51 : 6872) -> START ::
+LOG [2] (17 : 11 : 51 : 6872) -> Init files & dir : 
+LOG [3] (17 : 11 : 51 : 6882) -> CREATE DIR
+LOG [4] (17 : 11 : 51 : 6882) -> success
+LOG [5] (17 : 11 : 51 : 6892) -> Application.EnableVisualStyles()
+LOG [6] (17 : 11 : 51 : 6902) -> success
+LOG [7] (17 : 11 : 51 : 6902) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 11 : 51 : 6912) -> success
+LOG [9] (17 : 11 : 51 : 6912) -> Application.Run(new MainForm())
+LOG [10] (17 : 11 : 51 : 6912) -> START finish with success result.
+LOG [11] (17 : 11 : 53 : 4622) -> Show CHF _win_
+LOG [12] (17 : 11 : 54 : 6807) -> BOX #WARNING > CHFs System.Collections.Generic.List`1[Methanisation.Chauffeur]
+LOG [13] (17 : 11 : 56 : 4476) -> end save cancelFormClose = False
+LOG [14] (17 : 11 : 56 : 4476) -> Form closing
+LOG [15] (17 : 11 : 57 : 2835) -> Show CHF _win_
+LOG [16] (17 : 11 : 59 : 4451) -> new chauffeur saved (CHAUFFEUR non defini (1) non defini (1) description-.)
+LOG [17] (17 : 11 : 59 : 4461) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-.
+LOG [18] (17 : 12 : 05 : 0728) -> new chauffeur saved (CHAUFFEUR non defini (2) non defini (2) description-.)
+LOG [19] (17 : 12 : 05 : 0738) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-.
+LOG [20] (17 : 12 : 08 : 0253) -> new chauffeur saved (CHAUFFEUR non defini (3) non defini (3) description-.)
+LOG [21] (17 : 12 : 08 : 0263) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-. - CHAUFFEUR non defini (3) non defini (3) description-.
+LOG [22] (17 : 12 : 13 : 3787) -> BOX #WARNING > CHFs System.Collections.Generic.List`1[Methanisation.Chauffeur]
+LOG [23] (17 : 12 : 15 : 6511) -> end save cancelFormClose = False
+LOG [24] (17 : 12 : 15 : 6511) -> Form closing
+LOG [25] (17 : 12 : 19 : 5489) -> Show CHF _win_
+LOG [26] (17 : 12 : 20 : 7085) -> BOX #WARNING > CHFs System.Collections.Generic.List`1[Methanisation.Chauffeur]
+LOG [27] (17 : 12 : 21 : 9523) -> end save cancelFormClose = False
+LOG [28] (17 : 12 : 21 : 9533) -> Form closing
+LOG [29] (17 : 12 : 23 : 5886) -> STOP application.

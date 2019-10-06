@@ -1,0 +1,11 @@
+LOG [0] (14:32:39) -> LOGS METHANISATION logs\mardi-9-avril-2019__14-32-39__59__.txt :: 
+LOG [1] (14:32:39) -> START ::
+LOG [2] (14:32:39) -> Init files & dir : 
+LOG [3] (14:32:39) -> success
+LOG [4] (14:32:39) -> Application.EnableVisualStyles()
+LOG [5] (14:32:39) -> success
+LOG [6] (14:32:39) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (14:32:39) -> success
+LOG [8] (14:32:39) -> Application.Run(new MainForm())
+LOG [9] (14:32:40) -> success
+LOG [10] (14:32:40) -> START finish with success result.

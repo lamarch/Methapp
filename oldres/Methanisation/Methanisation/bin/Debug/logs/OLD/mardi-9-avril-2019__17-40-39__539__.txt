@@ -1,0 +1,101 @@
+LOG [0] (17 : 40 : 39 : 5404) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-40-39__539__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 40 : 39 : 540472 >> 
+LOG [1] (17 : 40 : 39 : 5414) -> START ::
+LOG [2] (17 : 40 : 39 : 5414) -> Init files & dir : 
+LOG [3] (17 : 40 : 39 : 5424) -> CREATE DIR
+LOG [4] (17 : 40 : 39 : 5424) -> success
+LOG [5] (17 : 40 : 39 : 5434) -> Application.EnableVisualStyles()
+LOG [6] (17 : 40 : 39 : 5444) -> success
+LOG [7] (17 : 40 : 39 : 5444) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 40 : 39 : 5454) -> success
+LOG [9] (17 : 40 : 39 : 5464) -> Application.Run(new MainForm())
+LOG [10] (17 : 40 : 39 : 5464) -> START finish with success result.
+LOG [11] (17 : 40 : 41 : 1939) -> Show CHF _win_
+LOG [12] (17 : 40 : 41 : 2719) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/9
+LOG [13] (17 : 40 : 41 : 2729) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/9
+LOG [14] (17 : 40 : 41 : 2729) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 3/9
+LOG [15] (17 : 40 : 41 : 2739) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 4/9
+LOG [16] (17 : 40 : 41 : 2749) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/9
+LOG [17] (17 : 40 : 41 : 2749) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 6/9
+LOG [18] (17 : 40 : 41 : 2759) -> new chauffeur loaded (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".) -> f# 7/9
+LOG [19] (17 : 40 : 41 : 2759) -> new chauffeur loaded (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".) -> f# 8/9
+LOG [20] (17 : 40 : 41 : 2769) -> new chauffeur loaded (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".) -> f# 9/9
+LOG [21] (17 : 40 : 45 : 3660) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [22] (17 : 42 : 45 : 5077) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [23] (17 : 42 : 57 : 2779) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [24] (17 : 43 : 00 : 1466) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [25] (17 : 43 : 03 : 0092) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [26] (17 : 43 : 09 : 6486) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [27] (17 : 43 : 10 : 9283) -> new chauffeur saved (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".)
+LOG [28] (17 : 43 : 12 : 1478) -> new chauffeur saved (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".)
+LOG [29] (17 : 43 : 13 : 3340) -> new chauffeur saved (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".)
+LOG [30] (17 : 43 : 14 : 5663) -> new chauffeur saved (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".)
+LOG [31] (17 : 43 : 15 : 7599) -> new chauffeur saved (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".)
+LOG [32] (17 : 43 : 17 : 0482) -> new chauffeur saved (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".)
+LOG [33] (17 : 43 : 18 : 2325) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [34] (17 : 43 : 20 : 5353) -> end save cancelFormClose = False
+LOG [35] (17 : 43 : 20 : 7363) -> Form closing
+LOG [36] (17 : 43 : 24 : 2899) -> Show CHF _win_
+LOG [37] (17 : 43 : 24 : 2989) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/13
+LOG [38] (17 : 43 : 24 : 2999) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/13
+LOG [39] (17 : 43 : 24 : 3029) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 3/13
+LOG [40] (17 : 43 : 24 : 3029) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 4/13
+LOG [41] (17 : 43 : 24 : 3039) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/13
+LOG [42] (17 : 43 : 24 : 3049) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 6/13
+LOG [43] (17 : 43 : 24 : 3059) -> new chauffeur loaded (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".) -> f# 7/13
+LOG [44] (17 : 43 : 24 : 3059) -> new chauffeur loaded (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".) -> f# 8/13
+LOG [45] (17 : 43 : 24 : 3069) -> new chauffeur loaded (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".) -> f# 9/13
+LOG [46] (17 : 43 : 24 : 3079) -> new chauffeur loaded (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".) -> f# 10/13
+LOG [47] (17 : 43 : 24 : 3079) -> new chauffeur loaded (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".) -> f# 11/13
+LOG [48] (17 : 43 : 24 : 3089) -> new chauffeur loaded (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".) -> f# 12/13
+LOG [49] (17 : 43 : 24 : 3089) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 13/13
+LOG [50] (17 : 43 : 33 : 8160) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [51] (17 : 43 : 42 : 8769) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [52] (17 : 43 : 45 : 2596) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [53] (17 : 43 : 46 : 4773) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [54] (17 : 43 : 47 : 6516) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [55] (17 : 43 : 48 : 9289) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [56] (17 : 43 : 50 : 1322) -> new chauffeur saved (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".)
+LOG [57] (17 : 43 : 58 : 0949) -> new chauffeur saved (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".)
+LOG [58] (17 : 44 : 01 : 3255) -> new chauffeur saved (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".)
+LOG [59] (17 : 44 : 03 : 5674) -> new chauffeur saved (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".)
+LOG [60] (17 : 44 : 06 : 6360) -> new chauffeur saved (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".)
+LOG [61] (17 : 44 : 08 : 1378) -> new chauffeur saved (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".)
+LOG [62] (17 : 44 : 10 : 0889) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [63] (17 : 44 : 12 : 5458) -> new chauffeur saved (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".)
+LOG [64] (17 : 44 : 13 : 8498) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [65] (17 : 44 : 30 : 0496) -> new chauffeur saved (CHAUFFEUR nom : non defini (16), prenom : non defini (16), description : "-".)
+LOG [66] (17 : 44 : 31 : 4920) -> end save cancelFormClose = False
+LOG [67] (17 : 44 : 31 : 4920) -> Form closing
+LOG [68] (17 : 44 : 34 : 1927) -> Show CHF _win_
+LOG [69] (17 : 44 : 34 : 2018) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/16
+LOG [70] (17 : 44 : 34 : 2027) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/16
+LOG [71] (17 : 44 : 34 : 2027) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 3/16
+LOG [72] (17 : 44 : 34 : 2037) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 4/16
+LOG [73] (17 : 44 : 34 : 2047) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/16
+LOG [74] (17 : 44 : 34 : 2047) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 6/16
+LOG [75] (17 : 44 : 34 : 2057) -> new chauffeur loaded (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".) -> f# 7/16
+LOG [76] (17 : 44 : 34 : 2057) -> new chauffeur loaded (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".) -> f# 8/16
+LOG [77] (17 : 44 : 34 : 2067) -> new chauffeur loaded (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".) -> f# 9/16
+LOG [78] (17 : 44 : 34 : 2077) -> new chauffeur loaded (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".) -> f# 10/16
+LOG [79] (17 : 44 : 34 : 2077) -> new chauffeur loaded (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".) -> f# 11/16
+LOG [80] (17 : 44 : 34 : 2087) -> new chauffeur loaded (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".) -> f# 12/16
+LOG [81] (17 : 44 : 34 : 2097) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 13/16
+LOG [82] (17 : 44 : 34 : 2097) -> new chauffeur loaded (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".) -> f# 14/16
+LOG [83] (17 : 44 : 34 : 2107) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 15/16
+LOG [84] (17 : 44 : 34 : 2107) -> new chauffeur loaded (CHAUFFEUR nom : non defini (16), prenom : non defini (16), description : "-".) -> f# 16/16
+LOG [85] (17 : 45 : 04 : 2036) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [86] (17 : 45 : 06 : 1051) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [87] (17 : 45 : 32 : 5841) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [88] (17 : 45 : 37 : 3320) -> new chauffeur saved (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".)
+LOG [89] (17 : 45 : 42 : 7165) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [90] (17 : 45 : 48 : 0956) -> end save cancelFormClose = False
+LOG [91] (17 : 45 : 50 : 2154) -> Form closing
+LOG [92] (17 : 45 : 52 : 2768) -> Show CHF _win_
+LOG [93] (17 : 45 : 52 : 2818) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/5
+LOG [94] (17 : 45 : 52 : 2828) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/5
+LOG [95] (17 : 45 : 52 : 2828) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".) -> f# 3/5
+LOG [96] (17 : 45 : 52 : 2838) -> new chauffeur loaded (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".) -> f# 4/5
+LOG [97] (17 : 45 : 52 : 2848) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/5
+LOG [98] (17 : 46 : 09 : 7581) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [99] (17 : 46 : 27 : 8958) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)

@@ -1,0 +1,10 @@
+LOGS :: 
+Cpt rows (==) -- r#1 :: f#1
+Cpt rows (<) -- r#1 :: f#8
+rows added (1) -- r#1 :: f#8
+rows added (2) -- r#2 :: f#8
+rows added (3) -- r#3 :: f#8
+rows added (4) -- r#4 :: f#8
+rows added (5) -- r#5 :: f#8
+rows added (6) -- r#6 :: f#8
+rows added (7) -- r#7 :: f#8

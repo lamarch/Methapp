@@ -1,0 +1,170 @@
+LOG [0] (18 : 13 : 30 : 3082) -> LOGS METHANISATION APP (logs\19-04-16__06-13-30.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 13 : 30 : 307204~~ >> 
+LOG [1] (18 : 13 : 30 : 3092) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 13 : 30 : 3092) -> Application.EnableVisualStyles()
+LOG [3] (18 : 13 : 30 : 3102) -> success
+LOG [4] (18 : 13 : 30 : 3112) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 13 : 30 : 3112) -> success
+LOG [6] (18 : 13 : 30 : 3122) -> INIT...
+LOG [7] (18 : 13 : 30 : 3122) -> Lists...
+LOG [8] (18 : 13 : 30 : 3142) -> OK
+LOG [9] (18 : 13 : 30 : 3152) -> Objects...
+LOG [10] (18 : 13 : 30 : 3902) -> OK
+LOG [11] (18 : 13 : 30 : 3912) -> Delegates...
+LOG [12] (18 : 13 : 30 : 3912) -> OK
+LOG [13] (18 : 13 : 30 : 3912) -> INIT end
+LOG [14] (18 : 13 : 30 : 3922) -> Loading lists...
+LOG [15] (18 : 13 : 30 : 5382) -> Application.Run(new MainForm())
+LOG [16] (18 : 13 : 40 : 3880) -> saving..
+LOG [17] (18 : 13 : 43 : 6387) -> Show Fumier _win_
+LOG [18] (18 : 13 : 43 : 6507) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 1/5
+LOG [19] (18 : 13 : 43 : 6507) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 2/5
+LOG [20] (18 : 13 : 43 : 6507) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 3/5
+LOG [21] (18 : 13 : 43 : 6517) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 4/5
+LOG [22] (18 : 13 : 43 : 6517) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 5/5
+LOG [23] (18 : 13 : 50 : 3860) -> saving..
+LOG [24] (18 : 14 : 00 : 3897) -> saving..
+LOG [25] (18 : 14 : 04 : 3030) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [26] (18 : 14 : 04 : 3030) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [27] (18 : 14 : 04 : 3050) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [28] (18 : 14 : 04 : 3050) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [29] (18 : 14 : 04 : 3060) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [30] (18 : 14 : 10 : 3871) -> saving..
+LOG [31] (18 : 14 : 20 : 3869) -> saving..
+LOG [32] (18 : 14 : 21 : 0235) -> MSG_BOX #ERROR > La valeur entrée dans la cellule ligne : 6 colonne : 3, n'est pas valide. Verifiez que ce soit bien un nombre ! > OK
+LOG [33] (18 : 14 : 24 : 7358) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez  : OK > OK
+LOG [34] (18 : 14 : 28 : 1974) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [35] (18 : 14 : 28 : 1984) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [36] (18 : 14 : 28 : 1984) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [37] (18 : 14 : 28 : 1984) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [38] (18 : 14 : 28 : 1994) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [39] (18 : 14 : 29 : 6819) -> MSG_BOX #ERROR > La valeur entrée dans la cellule ligne : 6 colonne : 3, n'est pas valide. Verifiez que ce soit bien un nombre ! > OK
+LOG [40] (18 : 14 : 30 : 2027) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez  : OK > OK
+LOG [41] (18 : 14 : 30 : 3864) -> saving..
+LOG [42] (18 : 14 : 34 : 1526) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [43] (18 : 14 : 34 : 1536) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [44] (18 : 14 : 34 : 1536) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [45] (18 : 14 : 34 : 1536) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [46] (18 : 14 : 34 : 1546) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [47] (18 : 14 : 34 : 1546) -> new fumier saved (F caca de mouton poids : 45, mSeche : 1,212121E+07, txCh4 : 0, valeur : 0)
+LOG [48] (18 : 14 : 35 : 2335) -> Form closing
+LOG [49] (18 : 14 : 35 : 2335) -> Waiting form closing because unsaved
+LOG [50] (18 : 14 : 36 : 7187) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [51] (18 : 14 : 36 : 7197) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [52] (18 : 14 : 36 : 7197) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [53] (18 : 14 : 36 : 7197) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [54] (18 : 14 : 36 : 7207) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [55] (18 : 14 : 36 : 7207) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [56] (18 : 14 : 36 : 7207) -> new fumier saved (F caca de mouton poids : 45, mSeche : 1,212121E+07, txCh4 : 0, valeur : 0)
+LOG [57] (18 : 14 : 37 : 6970) -> Show Expl _win_
+LOG [58] (18 : 14 : 37 : 7210) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/22
+LOG [59] (18 : 14 : 37 : 7220) -> new exploitation loaded (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard)) -> f# 2/22
+LOG [60] (18 : 14 : 37 : 7230) -> new exploitation loaded (E #<ID_defaut_F3C9> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 3/22
+LOG [61] (18 : 14 : 37 : 7240) -> new exploitation loaded (E #<ID_defaut_782> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 4/22
+LOG [62] (18 : 14 : 37 : 7240) -> new exploitation loaded (E #<ID_defaut_50B> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 5/22
+LOG [63] (18 : 14 : 37 : 7250) -> new exploitation loaded (E #<ID_defaut_A376> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 6/22
+LOG [64] (18 : 14 : 37 : 7260) -> new exploitation loaded (E #<ID_defaut_586D> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 7/22
+LOG [65] (18 : 14 : 37 : 7270) -> new exploitation loaded (E #<ID_defaut_67FD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 8/22
+LOG [66] (18 : 14 : 37 : 7280) -> new exploitation loaded (E #<ID_defaut_3EC0> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 9/22
+LOG [67] (18 : 14 : 37 : 7280) -> new exploitation loaded (E #<ID_defaut_8DDB> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 10/22
+LOG [68] (18 : 14 : 37 : 7290) -> new exploitation loaded (E #<ID_defaut_6A4A> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 11/22
+LOG [69] (18 : 14 : 37 : 7300) -> new exploitation loaded (E #<ID_defaut_DEFD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 12/22
+LOG [70] (18 : 14 : 37 : 7310) -> new exploitation loaded (E #<ID_defaut_5E48> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 13/22
+LOG [71] (18 : 14 : 37 : 7320) -> new exploitation loaded (E #<ID_defaut_303E> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 14/22
+LOG [72] (18 : 14 : 37 : 7330) -> new exploitation loaded (E #<ID_defaut_74C5> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 15/22
+LOG [73] (18 : 14 : 37 : 7330) -> new exploitation loaded (E #<ID_defaut_DF87> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 16/22
+LOG [74] (18 : 14 : 37 : 7340) -> new exploitation loaded (E #<ID_defaut_AF7F> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 17/22
+LOG [75] (18 : 14 : 37 : 7350) -> new exploitation loaded (E #<ID_defaut_D9BA> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 18/22
+LOG [76] (18 : 14 : 37 : 7360) -> new exploitation loaded (E #<ID_defaut_4671> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 19/22
+LOG [77] (18 : 14 : 37 : 7370) -> new exploitation loaded (E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 20/22
+LOG [78] (18 : 14 : 37 : 7380) -> new exploitation loaded (E #<ID_defaut_6C59> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 21/22
+LOG [79] (18 : 14 : 37 : 7390) -> new exploitation loaded (E #<ID_defaut_39C1> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 22/22
+LOG [80] (18 : 14 : 40 : 3870) -> saving..
+LOG [81] (18 : 14 : 42 : 0603) -> Form closing
+LOG [82] (18 : 14 : 42 : 0603) -> Waiting form closing because unsaved
+LOG [83] (18 : 14 : 43 : 0237) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [84] (18 : 14 : 43 : 0247) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [85] (18 : 14 : 43 : 0257) -> new exploitation saved (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard))
+LOG [86] (18 : 14 : 43 : 0257) -> new exploitation saved (E #<ID_defaut_F3C9> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [87] (18 : 14 : 43 : 0257) -> new exploitation saved (E #<ID_defaut_782> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [88] (18 : 14 : 43 : 0267) -> new exploitation saved (E #<ID_defaut_50B> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [89] (18 : 14 : 43 : 0267) -> new exploitation saved (E #<ID_defaut_A376> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [90] (18 : 14 : 43 : 0267) -> new exploitation saved (E #<ID_defaut_586D> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [91] (18 : 14 : 43 : 0277) -> new exploitation saved (E #<ID_defaut_67FD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [92] (18 : 14 : 43 : 0277) -> new exploitation saved (E #<ID_defaut_3EC0> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [93] (18 : 14 : 43 : 0277) -> new exploitation saved (E #<ID_defaut_8DDB> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [94] (18 : 14 : 43 : 0287) -> new exploitation saved (E #<ID_defaut_6A4A> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [95] (18 : 14 : 43 : 0287) -> new exploitation saved (E #<ID_defaut_DEFD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [96] (18 : 14 : 43 : 0287) -> new exploitation saved (E #<ID_defaut_5E48> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [97] (18 : 14 : 43 : 0297) -> new exploitation saved (E #<ID_defaut_303E> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [98] (18 : 14 : 43 : 0297) -> new exploitation saved (E #<ID_defaut_74C5> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [99] (18 : 14 : 43 : 0297) -> new exploitation saved (E #<ID_defaut_DF87> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [100] (18 : 14 : 43 : 0307) -> new exploitation saved (E #<ID_defaut_AF7F> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [101] (18 : 14 : 43 : 0307) -> new exploitation saved (E #<ID_defaut_D9BA> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [102] (18 : 14 : 43 : 0307) -> new exploitation saved (E #<ID_defaut_4671> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [103] (18 : 14 : 43 : 0317) -> new exploitation saved (E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [104] (18 : 14 : 43 : 0317) -> new exploitation saved (E #<ID_defaut_6C59> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [105] (18 : 14 : 43 : 0317) -> new exploitation saved (E #<ID_defaut_39C1> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [106] (18 : 14 : 43 : 7733) -> Show CHF _win_
+LOG [107] (18 : 14 : 43 : 7853) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 1/15
+LOG [108] (18 : 14 : 43 : 7873) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 2/15
+LOG [109] (18 : 14 : 43 : 7873) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 3/15
+LOG [110] (18 : 14 : 43 : 7883) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 4/15
+LOG [111] (18 : 14 : 43 : 7883) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 5/15
+LOG [112] (18 : 14 : 43 : 7893) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 6/15
+LOG [113] (18 : 14 : 43 : 7903) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 7/15
+LOG [114] (18 : 14 : 43 : 7903) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 8/15
+LOG [115] (18 : 14 : 43 : 7913) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 9/15
+LOG [116] (18 : 14 : 43 : 7913) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 10/15
+LOG [117] (18 : 14 : 43 : 7923) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 11/15
+LOG [118] (18 : 14 : 43 : 7933) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 12/15
+LOG [119] (18 : 14 : 43 : 7933) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 13/15
+LOG [120] (18 : 14 : 43 : 7943) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 14/15
+LOG [121] (18 : 14 : 43 : 7953) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 15/15
+LOG [122] (18 : 14 : 50 : 3886) -> saving..
+LOG [123] (18 : 14 : 53 : 4236) -> new chauffeur saved (C jean sqd ("27ans").)
+LOG [124] (18 : 14 : 53 : 4236) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [125] (18 : 14 : 53 : 4236) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [126] (18 : 14 : 53 : 4246) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [127] (18 : 14 : 53 : 4256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [128] (18 : 14 : 53 : 4256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [129] (18 : 14 : 53 : 4256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [130] (18 : 14 : 53 : 4256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [131] (18 : 14 : 53 : 4266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [132] (18 : 14 : 53 : 4266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [133] (18 : 14 : 53 : 4266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [134] (18 : 14 : 53 : 4276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [135] (18 : 14 : 53 : 4276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [136] (18 : 14 : 53 : 4276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [137] (18 : 14 : 53 : 4276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [138] (18 : 14 : 54 : 5041) -> Form closing
+LOG [139] (18 : 14 : 54 : 5051) -> Waiting form closing because unsaved
+LOG [140] (18 : 14 : 55 : 5300) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [141] (18 : 14 : 55 : 5300) -> new chauffeur saved (C jean sqd ("27ans").)
+LOG [142] (18 : 14 : 55 : 5300) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [143] (18 : 14 : 55 : 5310) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [144] (18 : 14 : 55 : 5310) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [145] (18 : 14 : 55 : 5320) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [146] (18 : 14 : 55 : 5320) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [147] (18 : 14 : 55 : 5320) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [148] (18 : 14 : 55 : 5330) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [149] (18 : 14 : 55 : 5330) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [150] (18 : 14 : 55 : 5330) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [151] (18 : 14 : 55 : 5330) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [152] (18 : 14 : 55 : 5340) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [153] (18 : 14 : 55 : 5340) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [154] (18 : 14 : 55 : 5340) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [155] (18 : 14 : 55 : 5350) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [156] (18 : 14 : 57 : 0872) -> Show BLWin _win_
+LOG [157] (18 : 15 : 00 : 3896) -> saving..
+LOG [158] (18 : 15 : 10 : 3857) -> saving..
+LOG [159] (18 : 15 : 20 : 3858) -> saving..
+LOG [160] (18 : 15 : 30 : 3916) -> saving..
+LOG [161] (18 : 15 : 40 : 3879) -> saving..
+LOG [162] (18 : 15 : 46 : 0243) -> MSG_BOX #INFO > BON DE LIVRAISON #4BF test  du " 04/04/2019 " à " 17 h 02 " fait le " 16/04/2019 " à " 18 h 15 " (exploitation : " E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier) " , chauffeur : " C jean sqd ("27ans"). ", fumier : " F caca de mouton poids : 45, mSeche : 1,212121E+07, txCh4 : 0, valeur : 0 "). > OK
+LOG [163] (18 : 15 : 50 : 0939) -> START finish with success result.
+LOG [164] (18 : 15 : 50 : 0939) -> Saving lists...
+LOG [165] (18 : 15 : 50 : 0949) -> saving..
+LOG [166] (18 : 15 : 50 : 1019) -> Application stopping...
+LOG [167] (18 : 15 : 50 : 1019) -> Closing opened forms...
+LOG [168] (18 : 15 : 50 : 1029) -> application STOPED.

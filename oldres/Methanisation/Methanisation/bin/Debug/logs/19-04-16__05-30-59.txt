@@ -1,0 +1,21 @@
+LOG [0] (17 : 30 : 59 : 5536) -> LOGS METHANISATION APP (logs\19-04-16__05-30-59.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 17 [+02:00 / +02:00] : 30 : 59 : 552700~~ >> 
+LOG [1] (17 : 30 : 59 : 5536) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 30 : 59 : 5547) -> INIT LISTS...
+LOG [3] (17 : 30 : 59 : 5567) -> INIT end
+LOG [4] (17 : 30 : 59 : 5567) -> Application.EnableVisualStyles()
+LOG [5] (17 : 30 : 59 : 5577) -> success
+LOG [6] (17 : 30 : 59 : 5587) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (17 : 30 : 59 : 5587) -> success
+LOG [8] (17 : 30 : 59 : 5657) -> Instanciation of MainForm object
+LOG [9] (17 : 30 : 59 : 6377) -> mainForm.Text = ...
+LOG [10] (17 : 30 : 59 : 6387) -> Loading lists...
+LOG [11] (17 : 30 : 59 : 7207) -> Application.Run(new MainForm())
+LOG [12] (17 : 31 : 00 : 9030) -> Show BLWin _win_
+LOG [13] (17 : 31 : 04 : 8774) -> MSG_BOX #INFO > BON DE LIVRAISON #1D8 1D7 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 31 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [14] (17 : 31 : 07 : 7188) -> MSG_BOX #INFO > BON DE LIVRAISON #1DA 1D9 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 31 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [15] (17 : 31 : 10 : 6751) -> START finish with success result.
+LOG [16] (17 : 31 : 10 : 6761) -> Saving lists...
+LOG [17] (17 : 31 : 10 : 6811) -> Application stopping...
+LOG [18] (17 : 31 : 10 : 6811) -> Closing opened forms...
+LOG [19] (17 : 31 : 10 : 6821) -> application STOPED.

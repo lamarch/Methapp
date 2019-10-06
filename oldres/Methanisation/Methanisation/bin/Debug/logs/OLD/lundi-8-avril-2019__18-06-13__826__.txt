@@ -1,0 +1,7 @@
+LOG [0] (18:06:13) -> LOGS METHANISATION logs\lundi-8-avril-2019__18-06-13__826__.txt :: 
+LOG [0] (18:06:15) -> new fumier loaded ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ]) -> f# 1/3
+LOG [0] (18:06:15) -> new fumier loaded ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ]) -> f# 2/3
+LOG [0] (18:06:15) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/3
+LOG [0] (18:06:32) -> new fumier saved ([ fumier nom::pepdqf, poids::  785, mSeche::   45, txCh4::    0 ])
+LOG [0] (18:06:32) -> new fumier saved ([ fumier nom::  456, poids::  456, mSeche::  456, txCh4::    0 ])
+LOG [0] (18:06:32) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ])

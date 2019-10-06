@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BonLivraison xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>&lt;NOM_defaut_6M6DKZ00C&gt;</Nom>
+  <LivraisonTime>2019-04-14T02:02:00</LivraisonTime>
+  <CreateTime>2019-05-17T18:46:58.2832748+02:00</CreateTime>
+  <Exploitation>
+    <Nom>EARL du grand moulin</Nom>
+    <Adresse>9 rue de bezange</Adresse>
+    <Cle>45-89</Cle>
+    <Exploitants>xavier</Exploitants>
+  </Exploitation>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>45</Poids>
+    <Nom>caca de mouton</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Chauffeur>
+    <Nom>jean</Nom>
+    <Prenom>sqd</Prenom>
+    <Description>27ans</Description>
+  </Chauffeur>
+</BonLivraison>

@@ -1,0 +1,39 @@
+LOG [0] (18 : 37 : 26 : 1599) -> LOGS METHANISATION APP (logs\19-04-16__06-37-26.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 37 : 26 : 158988~~ >> 
+LOG [1] (18 : 37 : 26 : 1609) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 37 : 26 : 1609) -> Application.EnableVisualStyles()
+LOG [3] (18 : 37 : 26 : 1619) -> success
+LOG [4] (18 : 37 : 26 : 1629) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 37 : 26 : 1629) -> success
+LOG [6] (18 : 37 : 26 : 1639) -> INIT...
+LOG [7] (18 : 37 : 26 : 1639) -> Lists...
+LOG [8] (18 : 37 : 26 : 1659) -> OK
+LOG [9] (18 : 37 : 26 : 1659) -> Objects...
+LOG [10] (18 : 37 : 26 : 2440) -> OK
+LOG [11] (18 : 37 : 26 : 2440) -> Delegates...
+LOG [12] (18 : 37 : 26 : 2450) -> OK
+LOG [13] (18 : 37 : 26 : 2450) -> INIT end
+LOG [14] (18 : 37 : 26 : 2450) -> Loading lists...
+LOG [15] (18 : 37 : 26 : 3310) -> Application.Run(new MainForm())
+LOG [16] (18 : 37 : 28 : 7121) -> Show BLWin _win_
+LOG [17] (18 : 37 : 36 : 2324) -> saving..
+LOG [18] (18 : 37 : 36 : 2394) -> saving..
+LOG [19] (18 : 37 : 36 : 2404) -> tick !
+LOG [20] (18 : 37 : 46 : 2389) -> saving..
+LOG [21] (18 : 37 : 46 : 2419) -> saving..
+LOG [22] (18 : 37 : 46 : 2419) -> tick !
+LOG [23] (18 : 37 : 56 : 2353) -> saving..
+LOG [24] (18 : 37 : 56 : 2403) -> saving..
+LOG [25] (18 : 37 : 56 : 2403) -> tick !
+LOG [26] (18 : 38 : 06 : 2317) -> saving..
+LOG [27] (18 : 38 : 06 : 2337) -> saving..
+LOG [28] (18 : 38 : 06 : 2347) -> tick !
+LOG [29] (18 : 38 : 16 : 2325) -> saving..
+LOG [30] (18 : 38 : 16 : 2355) -> saving..
+LOG [31] (18 : 38 : 16 : 2355) -> tick !
+LOG [32] (18 : 38 : 26 : 2303) -> saving..
+LOG [33] (18 : 38 : 26 : 2333) -> saving..
+LOG [34] (18 : 38 : 26 : 2333) -> tick !
+LOG [35] (18 : 38 : 36 : 2312) -> saving..
+LOG [36] (18 : 38 : 36 : 2332) -> saving..
+LOG [37] (18 : 38 : 36 : 2342) -> tick !

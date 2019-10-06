@@ -1,0 +1,37 @@
+LOG [0] (14 : 46 : 50 : 6613) -> LOGS METHANISATION >>
+(logs\vendredi-12-avril-2019__14-46-50__659__.txt)2019 -> avril (#04) -> vendredi(#12) -> 14 [+02:00 / +02:00] : 46 : 50 : 660328 >> 
+LOG [1] (14 : 46 : 50 : 6613) -> application[version = " 0.0.37 "] STARTING ::
+LOG [2] (14 : 46 : 50 : 6623) -> Init files & dir : 
+LOG [3] (14 : 46 : 50 : 6623) -> CREATE DIR
+LOG [4] (14 : 46 : 50 : 6633) -> success
+LOG [5] (14 : 46 : 50 : 6633) -> Application.EnableVisualStyles()
+LOG [6] (14 : 46 : 50 : 6643) -> success
+LOG [7] (14 : 46 : 50 : 6653) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (14 : 46 : 50 : 6663) -> success
+LOG [9] (14 : 46 : 50 : 6663) -> Application.Run(new MainForm())
+LOG [10] (14 : 46 : 50 : 6663) -> Instanciation of MainForm object
+LOG [11] (14 : 46 : 50 : 7313) -> mainForm.Text = ...
+LOG [12] (14 : 46 : 50 : 7323) -> Loading lists...
+LOG [13] (14 : 46 : 50 : 8213) -> START finish with success result.
+LOG [14] (14 : 46 : 51 : 7485) -> Show CHF _win_
+LOG [15] (14 : 46 : 51 : 7585) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/3
+LOG [16] (14 : 46 : 51 : 7595) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/3
+LOG [17] (14 : 46 : 51 : 7605) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : ef, description : "-".) -> f# 3/3
+LOG [18] (14 : 46 : 53 : 2519) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [19] (14 : 46 : 53 : 2529) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [20] (14 : 46 : 53 : 2529) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : ef, description : "-".)
+LOG [21] (14 : 46 : 54 : 1235) -> Form closing
+LOG [22] (14 : 46 : 54 : 1235) -> Waiting form closing
+LOG [23] (14 : 46 : 54 : 1245) -> BOX #WARNING > Voulez-vous quitter avant de sauvegarder ?
+LOG [24] (14 : 46 : 57 : 9254) -> Form closing
+LOG [25] (14 : 46 : 57 : 9254) -> Waiting form closing
+LOG [26] (14 : 46 : 57 : 9254) -> BOX #WARNING > Voulez-vous quitter avant de sauvegarder ?
+LOG [27] (14 : 46 : 58 : 7607) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [28] (14 : 46 : 58 : 7617) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [29] (14 : 46 : 58 : 7617) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : ef, description : "-".)
+LOG [30] (14 : 46 : 59 : 5851) -> Saving lists...
+LOG [31] (14 : 46 : 59 : 5921) -> BOX #ERROR > Il y a eu une erreur lors de la sauvegarde de la liste des exploitations [EXCPETION E = .
+LOG [32] (14 : 47 : 01 : 5030) -> BOX #ERROR > Il y a eu une erreur lors de la sauvegarde de la liste des fumiers [EXCPETION E = .
+LOG [33] (14 : 47 : 05 : 4318) -> Application stopping...
+LOG [34] (14 : 47 : 05 : 4328) -> Closing opened forms...
+LOG [35] (14 : 47 : 05 : 4328) -> application STOPED.

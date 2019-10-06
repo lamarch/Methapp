@@ -1,0 +1,15 @@
+LOG [0] (18 : 11 : 21 : 9585) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__18-11-21__956__.txt)2019 -> avril (#04) -> mardi(#09) -> 18 [+02:00 / +02:00] : 11 : 21 : 957565 >> 
+LOG [1] (18 : 11 : 21 : 9595) -> START ::
+LOG [2] (18 : 11 : 21 : 9605) -> Init files & dir : 
+LOG [3] (18 : 11 : 21 : 9605) -> CREATE DIR
+LOG [4] (18 : 11 : 21 : 9615) -> success
+LOG [5] (18 : 11 : 21 : 9625) -> Application.EnableVisualStyles()
+LOG [6] (18 : 11 : 21 : 9635) -> success
+LOG [7] (18 : 11 : 21 : 9635) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (18 : 11 : 21 : 9645) -> success
+LOG [9] (18 : 11 : 21 : 9655) -> Application.Run(new MainForm())
+LOG [10] (18 : 11 : 21 : 9655) -> START finish with success result.
+LOG [11] (18 : 11 : 23 : 4540) -> Show BLWin _win_
+LOG [12] (18 : 11 : 23 : 4749) -> BOX #NOT_IMPLEMENTED
+LOG [13] (18 : 11 : 39 : 6410) -> STOP application.

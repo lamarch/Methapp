@@ -1,0 +1,57 @@
+LOG [0] (18 : 45 : 34 : 1537) -> LOGS METHANISATION APP (logs\19-04-16__06-45-34.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 45 : 34 : 152711~~ >> 
+LOG [1] (18 : 45 : 34 : 1537) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 45 : 34 : 1547) -> Application.EnableVisualStyles()
+LOG [3] (18 : 45 : 34 : 1557) -> success
+LOG [4] (18 : 45 : 34 : 1567) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 45 : 34 : 1567) -> success
+LOG [6] (18 : 45 : 34 : 1577) -> INIT...
+LOG [7] (18 : 45 : 34 : 1577) -> Lists...
+LOG [8] (18 : 45 : 34 : 1658) -> OK
+LOG [9] (18 : 45 : 34 : 1658) -> Objects...
+LOG [10] (18 : 45 : 34 : 2357) -> OK
+LOG [11] (18 : 45 : 34 : 2357) -> Delegates...
+LOG [12] (18 : 45 : 34 : 2367) -> OK
+LOG [13] (18 : 45 : 34 : 2367) -> INIT end
+LOG [14] (18 : 45 : 34 : 2367) -> Loading lists...
+LOG [15] (18 : 45 : 34 : 3617) -> Application.Run(new MainForm())
+LOG [16] (18 : 45 : 36 : 7660) -> Show CHF _win_
+LOG [17] (18 : 45 : 36 : 7800) -> new chauffeur loaded (C jean sqd ("27ans").) -> f# 1/15
+LOG [18] (18 : 45 : 36 : 7810) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 2/15
+LOG [19] (18 : 45 : 36 : 7810) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 3/15
+LOG [20] (18 : 45 : 36 : 7820) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 4/15
+LOG [21] (18 : 45 : 36 : 7830) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 5/15
+LOG [22] (18 : 45 : 36 : 7830) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 6/15
+LOG [23] (18 : 45 : 36 : 7840) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 7/15
+LOG [24] (18 : 45 : 36 : 7840) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 8/15
+LOG [25] (18 : 45 : 36 : 7850) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 9/15
+LOG [26] (18 : 45 : 36 : 7860) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 10/15
+LOG [27] (18 : 45 : 36 : 7860) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 11/15
+LOG [28] (18 : 45 : 36 : 7870) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 12/15
+LOG [29] (18 : 45 : 36 : 7880) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 13/15
+LOG [30] (18 : 45 : 36 : 7880) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 14/15
+LOG [31] (18 : 45 : 36 : 7890) -> new chauffeur loaded (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").) -> f# 15/15
+LOG [32] (18 : 45 : 38 : 2569) -> Form closing
+LOG [33] (18 : 45 : 38 : 2579) -> Waiting form closing because unsaved
+LOG [34] (18 : 45 : 39 : 5216) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [35] (18 : 45 : 39 : 5226) -> new chauffeur saved (C jean sqd ("27ans").)
+LOG [36] (18 : 45 : 39 : 5236) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [37] (18 : 45 : 39 : 5236) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [38] (18 : 45 : 39 : 5236) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [39] (18 : 45 : 39 : 5246) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [40] (18 : 45 : 39 : 5246) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [41] (18 : 45 : 39 : 5246) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [42] (18 : 45 : 39 : 5256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [43] (18 : 45 : 39 : 5256) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [44] (18 : 45 : 39 : 5266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [45] (18 : 45 : 39 : 5266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [46] (18 : 45 : 39 : 5266) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [47] (18 : 45 : 39 : 5276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [48] (18 : 45 : 39 : 5276) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [49] (18 : 45 : 39 : 5286) -> new chauffeur saved (C <nom indéfini> <prenom indéfini> ("<description indéfinie>").)
+LOG [50] (18 : 45 : 40 : 8203) -> Show BLModifWin _win_
+LOG [51] (18 : 45 : 42 : 6478) -> START finish with success result.
+LOG [52] (18 : 45 : 42 : 6478) -> Saving lists...
+LOG [53] (18 : 45 : 42 : 6588) -> Application stopping...
+LOG [54] (18 : 45 : 42 : 6598) -> Closing opened forms...
+LOG [55] (18 : 45 : 42 : 6598) -> application STOPED.

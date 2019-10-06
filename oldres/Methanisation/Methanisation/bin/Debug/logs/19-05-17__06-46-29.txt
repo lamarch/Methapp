@@ -1,0 +1,25 @@
+LOG [0] (18 : 46 : 29 : 9095) -> LOGS METHANISATION APP (logs\19-05-17__06-46-29.txt)>>
+~~2019 -> mai (#05) -> vendredi(#17) -> 18 [+02:00 / +02:00] : 46 : 29 : 908507~~ >> 
+LOG [1] (18 : 46 : 29 : 9095) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 46 : 29 : 9105) -> Application.EnableVisualStyles()
+LOG [3] (18 : 46 : 29 : 9115) -> success
+LOG [4] (18 : 46 : 29 : 9115) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 46 : 29 : 9125) -> success
+LOG [6] (18 : 46 : 29 : 9125) -> INIT...
+LOG [7] (18 : 46 : 29 : 9135) -> Objects...
+LOG [8] (18 : 46 : 29 : 9725) -> OK
+LOG [9] (18 : 46 : 29 : 9725) -> Delegates...
+LOG [10] (18 : 46 : 29 : 9735) -> OK
+LOG [11] (18 : 46 : 29 : 9735) -> INIT end
+LOG [12] (18 : 46 : 29 : 9735) -> Loading lists...
+LOG [13] (18 : 46 : 30 : 0825) -> Application.Run(new MainForm())
+LOG [14] (18 : 46 : 32 : 0243) -> Show BLWin _win_
+LOG [15] (18 : 47 : 00 : 2706) -> MSG_BOX #INFO > #210F <NOM_defaut_6M6DKZ00C> du " 14/04/2019 " à " 02 h 02 " fait le " 17/05/2019 " à " 18 h 46 " (exploitation : " Methanisation.Exploitation " , chauffeur : " Methanisation.Chauffeur ", fumier : " Methanisation.Fumier "). > OK
+LOG [16] (18 : 47 : 01 : 7260) -> MSG_BOX #INFO > #2110 <NOM_defaut_6M6DKZ00C> du " 14/04/2019 " à " 02 h 02 " fait le " 17/05/2019 " à " 18 h 47 " (exploitation : " Methanisation.Exploitation " , chauffeur : " Methanisation.Chauffeur ", fumier : " Methanisation.Fumier "). > OK
+LOG [17] (18 : 47 : 06 : 1093) -> ShowInExplorer()
+LOG [18] (18 : 47 : 09 : 4963) -> Show Options _win_
+LOG [19] (18 : 47 : 19 : 7938) -> START finish with success result.
+LOG [20] (18 : 47 : 19 : 7948) -> Saving lists...
+LOG [21] (18 : 47 : 19 : 7978) -> Application stopping...
+LOG [22] (18 : 47 : 19 : 7988) -> Closing opened forms...
+LOG [23] (18 : 47 : 19 : 7988) -> application STOPED.

@@ -1,0 +1,20 @@
+LOGS :: 
+0/4
+0/4
+0/4
+0/4
+0/4
+Fumier nom:a, poids:0, mSeche:0, txCh4:0 .
+1/4
+1/4
+1/4
+1/4
+1/4
+Fumier nom:a, poids:0, mSeche:0, txCh4:0 .
+2/4
+2/4
+2/4
+2/4
+2/4
+Fumier nom:b, poids:0, mSeche:0, txCh4:0 .
+Fumier nom:, poids:0, mSeche:0, txCh4:0 .

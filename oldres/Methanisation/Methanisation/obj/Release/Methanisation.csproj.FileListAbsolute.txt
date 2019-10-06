@@ -1,0 +1,13 @@
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Release\Methanisation.exe.config
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Release\Methanisation.exe
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Release\Methanisation.pdb
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.MainForm.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.FormBL.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.FormExpl.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.FormFumiers.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.FormOptions.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.Properties.Resources.resources
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.exe
+C:\Users\Xavier\source\repos\Methanisation\Methanisation\obj\Release\Methanisation.pdb

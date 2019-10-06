@@ -1,0 +1,56 @@
+﻿<Window x:Class="MethApp.win_EXP"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MethApp"
+        mc:Ignorable="d"
+        Title="Exploitations" Background="Gray" Width="1000" Height="1000" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Window.Resources>
+        <Style x:Key="bts">
+            <Setter Property="Button.FontSize" Value="15"/>
+            <Setter Property="Button.FontWeight" Value="DemiBold"/>
+            <Setter Property="Button.Height" Value="35"/>
+            <Setter Property="Button.Margin" Value="15,5"/>
+        </Style>
+    </Window.Resources>
+    <DockPanel Margin="10" LastChildFill="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
+        <WrapPanel DockPanel.Dock="Bottom" ItemWidth="350" HorizontalAlignment="Center">
+            <Button x:Name="newobj_bt" Click="Newobj_bt_Click" Style="{DynamicResource ResourceKey=bts}">Ajouter une exploitation</Button>
+            <Button x:Name="delobj_bt" Click="Delobj_bt_Click" Style="{DynamicResource ResourceKey=bts}">Supprimer une exploitation</Button>
+            <Button x:Name="savels_bt" Click="Savels_bt_Click" Style="{DynamicResource ResourceKey=bts}" Visibility="Hidden">Sauvegarder les exploitations</Button>
+            <Button x:Name="return_bt" Click="Return_bt_Click" Style="{DynamicResource ResourceKey=bts}" Visibility="Hidden">Annuler</Button>
+        </WrapPanel>
+
+        <DataGrid Name="datag" IsReadOnly="False" DockPanel.Dock="Top"
+              Background="LightGray" Margin="10" FontSize="17"
+              ColumnHeaderHeight="30" RowHeight="30" MinColumnWidth="200"
+              GridLinesVisibility="Horizontal"
+              HeadersVisibility="Column"
+              RowBackground="White" AlternatingRowBackground="LightGray"
+              BorderBrush="Black" BorderThickness="2"
+              VerticalScrollBarVisibility="Auto"
+              HorizontalScrollBarVisibility="Auto" 
+              ItemsSource="{Binding Ex}"
+              AutoGenerateColumns="False"
+              SelectionMode="Extended"
+              CanUserAddRows="False"
+              >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Nom}" Header="Nom :"/>
+                <DataGridTextColumn Binding="{Binding Adresse}" Header="Adresse :"/>
+                <DataGridTextColumn Binding="{Binding Exploitants}" Header="Exploitants :"/>
+            </DataGrid.Columns>
+            
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <TextBlock Background="Bisque" Text="{Binding LongDesc}"/>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+        </DataGrid>
+
+
+    </DockPanel>
+</Window>

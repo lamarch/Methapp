@@ -1,0 +1,16 @@
+LOG [0] (17 : 01 : 18 : 8277) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-01-18__826__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 01 : 18 : 827728 >> 
+LOG [1] (17 : 01 : 18 : 8287) -> START ::
+LOG [2] (17 : 01 : 18 : 8287) -> Init files & dir : 
+LOG [3] (17 : 01 : 18 : 8297) -> CREATE DIR
+LOG [4] (17 : 01 : 18 : 8307) -> success
+LOG [5] (17 : 01 : 18 : 8307) -> Application.EnableVisualStyles()
+LOG [6] (17 : 01 : 18 : 8327) -> success
+LOG [7] (17 : 01 : 18 : 8327) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 01 : 18 : 8337) -> success
+LOG [9] (17 : 01 : 18 : 8347) -> Application.Run(new MainForm())
+LOG [10] (17 : 01 : 21 : 1799) -> Show CHF _win_
+LOG [11] (17 : 01 : 43 : 2557) -> new chauffeur saved (Methanisation.Chauffeur)
+LOG [12] (17 : 01 : 44 : 3947) -> Show CHF _win_
+LOG [13] (17 : 01 : 46 : 3114) -> success
+LOG [14] (17 : 01 : 46 : 3124) -> START finish with success result.

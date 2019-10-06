@@ -1,0 +1,16 @@
+LOG [0] (19 : 05 : 13 : 2266) -> LOGS METHANISATION APP (logs\19-05-17__07-05-13.txt)>>
+~~2019 -> mai (#05) -> vendredi(#17) -> 19 [+02:00 / +02:00] : 05 : 13 : 226604~~ >> 
+LOG [1] (19 : 05 : 13 : 2276) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (19 : 05 : 13 : 2286) -> Application.EnableVisualStyles()
+LOG [3] (19 : 05 : 13 : 2296) -> success
+LOG [4] (19 : 05 : 13 : 2296) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (19 : 05 : 13 : 2306) -> success
+LOG [6] (19 : 05 : 13 : 2306) -> INIT...
+LOG [7] (19 : 05 : 13 : 2316) -> Objects...
+LOG [8] (19 : 05 : 13 : 3156) -> OK
+LOG [9] (19 : 05 : 13 : 3166) -> Delegates...
+LOG [10] (19 : 05 : 13 : 3166) -> OK
+LOG [11] (19 : 05 : 13 : 3176) -> INIT end
+LOG [12] (19 : 05 : 13 : 3176) -> Loading lists...
+LOG [13] (19 : 05 : 13 : 4516) -> Application.Run(new MainForm())
+LOG [14] (19 : 05 : 23 : 0103) -> ShowInExplorer()

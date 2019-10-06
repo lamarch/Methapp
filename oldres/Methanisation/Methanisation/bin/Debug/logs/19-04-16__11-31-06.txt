@@ -1,0 +1,42 @@
+LOG [0] (11 : 31 : 07 : 0006) -> LOGS METHANISATION APP (logs\19-04-16__11-31-06.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 31 : 06 : 999669~~ >> 
+LOG [1] (11 : 31 : 07 : 0016) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 31 : 07 : 0016) -> INIT LISTS...
+LOG [3] (11 : 31 : 08 : 0279) -> MSG_BOX #INFO > System.Collections.Generic.List`1[Methanisation.Fumier] > OK
+LOG [4] (11 : 31 : 08 : 0289) -> INIT end
+LOG [5] (11 : 31 : 08 : 0299) -> Application.EnableVisualStyles()
+LOG [6] (11 : 31 : 08 : 0309) -> success
+LOG [7] (11 : 31 : 08 : 0319) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (11 : 31 : 08 : 0389) -> success
+LOG [9] (11 : 31 : 08 : 0389) -> Instanciation of MainForm object
+LOG [10] (11 : 31 : 08 : 1049) -> mainForm.Text = ...
+LOG [11] (11 : 31 : 08 : 1059) -> Loading lists...
+LOG [12] (11 : 31 : 09 : 1145) -> MSG_BOX #ERROR > Il y a eu une erreur lors du chargements de la liste des fumiers. > OK
+LOG [13] (11 : 31 : 09 : 1165) -> Application.Run(new MainForm())
+LOG [14] (11 : 31 : 10 : 1438) -> Show Fumier _win_
+LOG [15] (11 : 31 : 13 : 9970) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [16] (11 : 31 : 13 : 9980) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [17] (11 : 31 : 13 : 9980) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [18] (11 : 31 : 13 : 9990) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [19] (11 : 31 : 13 : 9990) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [20] (11 : 31 : 17 : 0453) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez > OK
+LOG [21] (11 : 31 : 18 : 5979) -> Form closing
+LOG [22] (11 : 31 : 18 : 5979) -> Waiting form closing because unsaved
+LOG [23] (11 : 31 : 19 : 9053) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [24] (11 : 31 : 19 : 9053) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [25] (11 : 31 : 19 : 9063) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [26] (11 : 31 : 19 : 9063) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [27] (11 : 31 : 19 : 9063) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [28] (11 : 31 : 19 : 9073) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [29] (11 : 31 : 20 : 9471) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez > OK
+LOG [30] (11 : 31 : 33 : 6053) -> Show Fumier _win_
+LOG [31] (11 : 31 : 37 : 0573) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez > OK
+LOG [32] (11 : 31 : 38 : 3692) -> Form closing
+LOG [33] (11 : 31 : 38 : 3692) -> Waiting form closing because unsaved
+LOG [34] (11 : 31 : 39 : 4144) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [35] (11 : 31 : 40 : 8778) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez > OK
+LOG [36] (11 : 31 : 41 : 7653) -> START finish with success result.
+LOG [37] (11 : 31 : 41 : 7653) -> Saving lists...
+LOG [38] (11 : 31 : 41 : 7923) -> Application stopping...
+LOG [39] (11 : 31 : 41 : 7923) -> Closing opened forms...
+LOG [40] (11 : 31 : 41 : 7933) -> application STOPED.

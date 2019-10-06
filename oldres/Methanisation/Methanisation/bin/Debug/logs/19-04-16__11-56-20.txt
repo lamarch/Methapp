@@ -1,0 +1,21 @@
+LOG [0] (11 : 56 : 20 : 9980) -> LOGS METHANISATION APP (logs\19-04-16__11-56-20.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 56 : 20 : 997095~~ >> 
+LOG [1] (11 : 56 : 20 : 9990) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 56 : 20 : 9990) -> INIT LISTS...
+LOG [3] (11 : 56 : 21 : 0020) -> INIT end
+LOG [4] (11 : 56 : 21 : 0030) -> Application.EnableVisualStyles()
+LOG [5] (11 : 56 : 21 : 0040) -> success
+LOG [6] (11 : 56 : 21 : 0040) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (11 : 56 : 21 : 0050) -> success
+LOG [8] (11 : 56 : 21 : 0060) -> Instanciation of MainForm object
+LOG [9] (11 : 56 : 21 : 0831) -> mainForm.Text = ...
+LOG [10] (11 : 56 : 21 : 0841) -> Loading lists...
+LOG [11] (11 : 56 : 21 : 1951) -> Application.Run(new MainForm())
+LOG [12] (11 : 56 : 27 : 2874) -> MSG_BOX #INFO > test > OK
+LOG [13] (11 : 56 : 32 : 1638) -> MSG_BOX #INFO > test > OK
+LOG [14] (11 : 56 : 37 : 5302) -> MSG_BOX #INFO > test > OK
+LOG [15] (11 : 56 : 38 : 5401) -> START finish with success result.
+LOG [16] (11 : 56 : 38 : 5411) -> Saving lists...
+LOG [17] (11 : 56 : 38 : 5521) -> Application stopping...
+LOG [18] (11 : 56 : 38 : 5531) -> Closing opened forms...
+LOG [19] (11 : 56 : 38 : 5541) -> application STOPED.

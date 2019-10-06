@@ -1,0 +1,67 @@
+LOG [0] (13 : 43 : 55 : 1564) -> LOGS METHANISATION APP (logs\19-04-16__01-43-55.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 13 [+02:00 / +02:00] : 43 : 55 : 155454~~ >> 
+LOG [1] (13 : 43 : 55 : 1564) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (13 : 43 : 55 : 1574) -> INIT LISTS...
+LOG [3] (13 : 43 : 55 : 1596) -> INIT end
+LOG [4] (13 : 43 : 55 : 1596) -> Application.EnableVisualStyles()
+LOG [5] (13 : 43 : 55 : 1614) -> success
+LOG [6] (13 : 43 : 55 : 1614) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (13 : 43 : 55 : 1614) -> success
+LOG [8] (13 : 43 : 55 : 1624) -> Instanciation of MainForm object
+LOG [9] (13 : 43 : 55 : 2404) -> mainForm.Text = ...
+LOG [10] (13 : 43 : 55 : 2414) -> Loading lists...
+LOG [11] (13 : 43 : 55 : 3374) -> Application.Run(new MainForm())
+LOG [12] (13 : 43 : 56 : 1726) -> Show BLWin _win_
+LOG [13] (13 : 44 : 03 : 0355) -> Show Expl _win_
+LOG [14] (13 : 44 : 03 : 0566) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/22
+LOG [15] (13 : 44 : 03 : 0576) -> new exploitation loaded (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard)) -> f# 2/22
+LOG [16] (13 : 44 : 03 : 0586) -> new exploitation loaded (E #<ID_defaut_F3C9> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 3/22
+LOG [17] (13 : 44 : 03 : 0596) -> new exploitation loaded (E #<ID_defaut_782> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 4/22
+LOG [18] (13 : 44 : 03 : 0606) -> new exploitation loaded (E #<ID_defaut_50B> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 5/22
+LOG [19] (13 : 44 : 03 : 0606) -> new exploitation loaded (E #<ID_defaut_A376> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 6/22
+LOG [20] (13 : 44 : 03 : 0616) -> new exploitation loaded (E #<ID_defaut_586D> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 7/22
+LOG [21] (13 : 44 : 03 : 0626) -> new exploitation loaded (E #<ID_defaut_67FD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 8/22
+LOG [22] (13 : 44 : 03 : 0636) -> new exploitation loaded (E #<ID_defaut_3EC0> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 9/22
+LOG [23] (13 : 44 : 03 : 0646) -> new exploitation loaded (E #<ID_defaut_8DDB> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 10/22
+LOG [24] (13 : 44 : 03 : 0656) -> new exploitation loaded (E #<ID_defaut_6A4A> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 11/22
+LOG [25] (13 : 44 : 03 : 0656) -> new exploitation loaded (E #<ID_defaut_DEFD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 12/22
+LOG [26] (13 : 44 : 03 : 0666) -> new exploitation loaded (E #<ID_defaut_5E48> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 13/22
+LOG [27] (13 : 44 : 03 : 0676) -> new exploitation loaded (E #<ID_defaut_303E> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 14/22
+LOG [28] (13 : 44 : 03 : 0706) -> new exploitation loaded (E #<ID_defaut_74C5> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 15/22
+LOG [29] (13 : 44 : 03 : 0716) -> new exploitation loaded (E #<ID_defaut_DF87> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 16/22
+LOG [30] (13 : 44 : 03 : 0726) -> new exploitation loaded (E #<ID_defaut_AF7F> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 17/22
+LOG [31] (13 : 44 : 03 : 0736) -> new exploitation loaded (E #<ID_defaut_D9BA> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 18/22
+LOG [32] (13 : 44 : 03 : 0736) -> new exploitation loaded (E #<ID_defaut_4671> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 19/22
+LOG [33] (13 : 44 : 03 : 0746) -> new exploitation loaded (E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 20/22
+LOG [34] (13 : 44 : 03 : 0756) -> new exploitation loaded (E #<ID_defaut_6C59> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 21/22
+LOG [35] (13 : 44 : 03 : 0766) -> new exploitation loaded (E #<ID_defaut_39C1> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>)) -> f# 22/22
+LOG [36] (13 : 44 : 06 : 5762) -> Form closing
+LOG [37] (13 : 44 : 06 : 5772) -> Waiting form closing because unsaved
+LOG [38] (13 : 44 : 08 : 0750) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [39] (13 : 44 : 08 : 0760) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [40] (13 : 44 : 08 : 0760) -> new exploitation saved (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard))
+LOG [41] (13 : 44 : 08 : 0770) -> new exploitation saved (E #<ID_defaut_F3C9> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [42] (13 : 44 : 08 : 0770) -> new exploitation saved (E #<ID_defaut_782> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [43] (13 : 44 : 08 : 0780) -> new exploitation saved (E #<ID_defaut_50B> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [44] (13 : 44 : 08 : 0780) -> new exploitation saved (E #<ID_defaut_A376> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [45] (13 : 44 : 08 : 0780) -> new exploitation saved (E #<ID_defaut_586D> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [46] (13 : 44 : 08 : 0790) -> new exploitation saved (E #<ID_defaut_67FD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [47] (13 : 44 : 08 : 0790) -> new exploitation saved (E #<ID_defaut_3EC0> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [48] (13 : 44 : 08 : 0790) -> new exploitation saved (E #<ID_defaut_8DDB> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [49] (13 : 44 : 08 : 0800) -> new exploitation saved (E #<ID_defaut_6A4A> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [50] (13 : 44 : 08 : 0800) -> new exploitation saved (E #<ID_defaut_DEFD> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [51] (13 : 44 : 08 : 0800) -> new exploitation saved (E #<ID_defaut_5E48> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [52] (13 : 44 : 08 : 0810) -> new exploitation saved (E #<ID_defaut_303E> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [53] (13 : 44 : 08 : 0810) -> new exploitation saved (E #<ID_defaut_74C5> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [54] (13 : 44 : 08 : 0810) -> new exploitation saved (E #<ID_defaut_DF87> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [55] (13 : 44 : 08 : 0820) -> new exploitation saved (E #<ID_defaut_AF7F> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [56] (13 : 44 : 08 : 0820) -> new exploitation saved (E #<ID_defaut_D9BA> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [57] (13 : 44 : 08 : 0830) -> new exploitation saved (E #<ID_defaut_4671> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [58] (13 : 44 : 08 : 0830) -> new exploitation saved (E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [59] (13 : 44 : 08 : 0830) -> new exploitation saved (E #<ID_defaut_6C59> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [60] (13 : 44 : 08 : 0840) -> new exploitation saved (E #<ID_defaut_39C1> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>))
+LOG [61] (13 : 44 : 09 : 7220) -> START finish with success result.
+LOG [62] (13 : 44 : 09 : 7230) -> Saving lists...
+LOG [63] (13 : 44 : 09 : 7350) -> Application stopping...
+LOG [64] (13 : 44 : 09 : 7350) -> Closing opened forms...
+LOG [65] (13 : 44 : 09 : 7360) -> application STOPED.

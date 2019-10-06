@@ -1,0 +1,65 @@
+LOG [0] (14 : 57 : 37 : 3689) -> LOGS METHANISATION APP (logs\19-04-14__02-57-37.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 57 : 37 : 367941~~ >> 
+LOG [1] (14 : 57 : 37 : 3699) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (14 : 57 : 37 : 3699) -> INIT end
+LOG [3] (14 : 57 : 37 : 3699) -> Application.EnableVisualStyles()
+LOG [4] (14 : 57 : 37 : 3709) -> success
+LOG [5] (14 : 57 : 37 : 3719) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (14 : 57 : 37 : 3719) -> success
+LOG [7] (14 : 57 : 37 : 3729) -> Instanciation of MainForm object
+LOG [8] (14 : 57 : 37 : 4549) -> mainForm.Text = ...
+LOG [9] (14 : 57 : 37 : 4559) -> Loading lists...
+LOG [10] (14 : 57 : 37 : 5489) -> Application.Run(new MainForm())
+LOG [11] (14 : 57 : 38 : 7341) -> Show CHF _win_
+LOG [12] (14 : 57 : 38 : 7431) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/2
+LOG [13] (14 : 57 : 38 : 7431) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/2
+LOG [14] (14 : 57 : 39 : 9941) -> Form closing
+LOG [15] (14 : 57 : 39 : 9950) -> Waiting form closing because unsaved
+LOG [16] (14 : 57 : 41 : 8588) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [17] (14 : 57 : 41 : 8598) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [18] (14 : 57 : 41 : 8608) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [19] (14 : 57 : 42 : 8583) -> MSG_BOX #INFO > sDGW changed ! > OK
+LOG [20] (14 : 57 : 44 : 1767) -> Show CHF _win_
+LOG [21] (14 : 57 : 44 : 1807) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/2
+LOG [22] (14 : 57 : 44 : 1817) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/2
+LOG [23] (14 : 57 : 47 : 0681) -> Form closing
+LOG [24] (14 : 57 : 47 : 0690) -> Waiting form closing because unsaved
+LOG [25] (14 : 57 : 48 : 1547) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [26] (14 : 57 : 48 : 1547) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [27] (14 : 57 : 48 : 1557) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [28] (14 : 57 : 48 : 1557) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [29] (14 : 57 : 48 : 1567) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [30] (14 : 57 : 48 : 1567) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [31] (14 : 57 : 48 : 1567) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [32] (14 : 57 : 48 : 1597) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [33] (14 : 57 : 49 : 3426) -> MSG_BOX #INFO > sDGW changed ! > OK
+LOG [34] (14 : 57 : 50 : 1001) -> Show CHF _win_
+LOG [35] (14 : 57 : 50 : 1061) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/7
+LOG [36] (14 : 57 : 50 : 1071) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/7
+LOG [37] (14 : 57 : 50 : 1071) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 3/7
+LOG [38] (14 : 57 : 50 : 1081) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 4/7
+LOG [39] (14 : 57 : 50 : 1081) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 5/7
+LOG [40] (14 : 57 : 50 : 1091) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 6/7
+LOG [41] (14 : 57 : 50 : 1101) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 7/7
+LOG [42] (14 : 57 : 53 : 1323) -> Form closing
+LOG [43] (14 : 57 : 53 : 1323) -> Waiting form closing because unsaved
+LOG [44] (14 : 57 : 55 : 5165) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > No
+LOG [45] (14 : 57 : 56 : 2244) -> Show CHF _win_
+LOG [46] (14 : 57 : 56 : 2304) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/7
+LOG [47] (14 : 57 : 56 : 2314) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/7
+LOG [48] (14 : 57 : 56 : 2324) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 3/7
+LOG [49] (14 : 57 : 56 : 2324) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 4/7
+LOG [50] (14 : 57 : 56 : 2334) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 5/7
+LOG [51] (14 : 57 : 56 : 2344) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 6/7
+LOG [52] (14 : 57 : 56 : 2344) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 7/7
+LOG [53] (14 : 57 : 57 : 1839) -> Form closing
+LOG [54] (14 : 57 : 57 : 1849) -> Waiting form closing because unsaved
+LOG [55] (14 : 57 : 58 : 1089) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Cancel
+LOG [56] (14 : 57 : 59 : 0454) -> Form closing
+LOG [57] (14 : 57 : 59 : 0463) -> Waiting form closing because unsaved
+LOG [58] (14 : 57 : 59 : 8486) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > No
+LOG [59] (14 : 58 : 02 : 1238) -> START finish with success result.
+LOG [60] (14 : 58 : 02 : 1248) -> Saving lists...
+LOG [61] (14 : 58 : 02 : 1328) -> Application stopping...
+LOG [62] (14 : 58 : 02 : 1338) -> Closing opened forms...
+LOG [63] (14 : 58 : 02 : 1338) -> application STOPED.

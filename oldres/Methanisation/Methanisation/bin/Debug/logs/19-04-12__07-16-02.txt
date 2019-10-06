@@ -1,0 +1,18 @@
+LOG [4] (19 : 16 : 02 : 9940) -> 	success
+LOG [5] (19 : 16 : 02 : 9950) -> 	LOGS FILES -> Debug
+LOG [6] (19 : 16 : 02 : 9960) -> LOGS METHANISATION APP (logs\19-04-12__07-16-02)>>
+~~2019 -> avril (#04) -> vendredi(#12) -> 19 [+02:00 / +02:00] : 16 : 02 : 995058~~ >> 
+LOG [7] (19 : 16 : 02 : 9960) -> 	success
+LOG [8] (19 : 16 : 02 : 9970) -> Application.EnableVisualStyles()
+LOG [9] (19 : 16 : 02 : 9980) -> success
+LOG [10] (19 : 16 : 02 : 9990) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [11] (19 : 16 : 02 : 9990) -> success
+LOG [12] (19 : 16 : 03 : 0000) -> Instanciation of MainForm object
+LOG [13] (19 : 16 : 03 : 0490) -> mainForm.Text = ...
+LOG [14] (19 : 16 : 03 : 0490) -> Loading lists...
+LOG [15] (19 : 16 : 03 : 1210) -> Application.Run(new MainForm())
+LOG [16] (19 : 16 : 04 : 4708) -> START finish with success result.
+LOG [17] (19 : 16 : 04 : 4718) -> Saving lists...
+LOG [18] (19 : 16 : 04 : 4818) -> Application stopping...
+LOG [19] (19 : 16 : 04 : 4828) -> Closing opened forms...
+LOG [20] (19 : 16 : 04 : 4828) -> application STOPED.

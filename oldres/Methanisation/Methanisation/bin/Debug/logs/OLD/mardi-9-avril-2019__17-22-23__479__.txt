@@ -1,0 +1,23 @@
+LOG [0] (17 : 22 : 23 : 4807) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-22-23__479__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 22 : 23 : 480722 >> 
+LOG [1] (17 : 22 : 23 : 4817) -> START ::
+LOG [2] (17 : 22 : 23 : 4827) -> Init files & dir : 
+LOG [3] (17 : 22 : 23 : 4827) -> CREATE DIR
+LOG [4] (17 : 22 : 23 : 4837) -> success
+LOG [5] (17 : 22 : 23 : 4837) -> Application.EnableVisualStyles()
+LOG [6] (17 : 22 : 23 : 4847) -> success
+LOG [7] (17 : 22 : 23 : 4847) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 22 : 23 : 4857) -> success
+LOG [9] (17 : 22 : 23 : 4857) -> Application.Run(new MainForm())
+LOG [10] (17 : 22 : 23 : 4867) -> START finish with success result.
+LOG [11] (17 : 22 : 30 : 2286) -> Show CHF _win_
+LOG [12] (17 : 22 : 30 : 3006) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "test".) -> f# 1/3
+LOG [13] (17 : 22 : 30 : 3016) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "test".) -> f# 2/3
+LOG [14] (17 : 22 : 30 : 3016) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "test".) -> f# 3/3
+LOG [15] (17 : 22 : 57 : 3388) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [16] (17 : 22 : 57 : 3427) -> BOX #WARNING > la sauvegarde est ok!
+LOG [17] (17 : 22 : 58 : 5793) -> end save cancelFormClose = False
+LOG [18] (17 : 22 : 58 : 5803) -> Form closing
+LOG [19] (17 : 22 : 59 : 7173) -> Show CHF _win_
+LOG [20] (17 : 22 : 59 : 7223) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/1
+LOG [21] (17 : 23 : 04 : 2886) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)

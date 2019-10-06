@@ -1,0 +1,19 @@
+LOG [0] (12 : 00 : 11 : 7847) -> LOGS METHANISATION APP (logs\19-04-15__12-00-11.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 12 [+02:00 / +02:00] : 00 : 11 : 784770~~ >> 
+LOG [1] (12 : 00 : 11 : 7857) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (12 : 00 : 11 : 7867) -> INIT end
+LOG [3] (12 : 00 : 11 : 7867) -> Application.EnableVisualStyles()
+LOG [4] (12 : 00 : 11 : 7877) -> success
+LOG [5] (12 : 00 : 11 : 7887) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (12 : 00 : 11 : 7887) -> success
+LOG [7] (12 : 00 : 11 : 7887) -> Instanciation of MainForm object
+LOG [8] (12 : 00 : 11 : 8647) -> mainForm.Text = ...
+LOG [9] (12 : 00 : 11 : 8657) -> Loading lists...
+LOG [10] (12 : 00 : 11 : 9668) -> Application.Run(new MainForm())
+LOG [11] (12 : 00 : 17 : 4552) -> Show BLWin _win_
+LOG [12] (12 : 01 : 01 : 2304) -> MSG_BOX #ERROR > ERREUR IRRECUPERABLE ! > OK
+LOG [13] (12 : 01 : 01 : 2404) -> ERREUR.
+LOG [14] (12 : 01 : 01 : 2414) -> Saving lists...
+LOG [15] (12 : 01 : 01 : 2434) -> Application stopping...
+LOG [16] (12 : 01 : 01 : 2444) -> Closing opened forms...
+LOG [17] (12 : 01 : 01 : 2444) -> application STOPED.

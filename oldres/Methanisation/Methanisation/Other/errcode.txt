@@ -1,0 +1,35 @@
+﻿
+EX : C2x89
+
+2 premiers(ex : C2) :
+
+représente la classe
+
+S A = Program
+
+S B = Debug
+
+S C1 = BonLivraison
+S C2 = Chauffeur
+S C3 = DGW_util
+S C4 = Exploitation
+S C5 = Fumier
+S C6 = Serialisateur
+
+S D = DataCore
+
+S E = Ref
+
+S F1 = FormBL
+S F2 = FormBLmodif
+S F3 = FormCHF
+S F4 = FormEXPL
+S F5 = FormFumiers
+S F6 = FormOptions
+S F7 = MainForm
+
+S G = ID_Store
+
+après 'x'(ex : 089) :
+
+représente la ligne

@@ -1,0 +1,26 @@
+LOG [0] (18:01) -> LOGS :: 
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 0/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 1/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 2/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 5/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 6/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 7/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 8/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 9/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 10/12
+LOG [0] (18:01) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 11/12
+LOG [0] (18:01) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 0/1
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 0/1
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 1/2
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::    0, mSeche::    4, txCh4::    0 ]) -> f# 2/3
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/4
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 0/1
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 1/2
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::   al, poids::    0, mSeche::    4, txCh4::    0 ]) -> f# 2/3
+LOG [0] (18:02) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/4
+LOG [0] (18:02) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 0/4
+LOG [0] (18:02) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 1/4
+LOG [0] (18:02) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    4, txCh4::    0 ]) -> f# 2/4
+LOG [0] (18:02) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/4

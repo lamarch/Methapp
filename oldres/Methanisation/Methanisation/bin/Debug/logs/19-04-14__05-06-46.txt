@@ -1,0 +1,87 @@
+LOG [0] (17 : 06 : 46 : 3927) -> LOGS METHANISATION APP (logs\19-04-14__05-06-46.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 17 [+02:00 / +02:00] : 06 : 46 : 392764~~ >> 
+LOG [1] (17 : 06 : 46 : 3937) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 06 : 46 : 3937) -> INIT end
+LOG [3] (17 : 06 : 46 : 3947) -> Application.EnableVisualStyles()
+LOG [4] (17 : 06 : 46 : 3957) -> success
+LOG [5] (17 : 06 : 46 : 3957) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (17 : 06 : 46 : 3957) -> success
+LOG [7] (17 : 06 : 46 : 3967) -> Instanciation of MainForm object
+LOG [8] (17 : 06 : 46 : 4817) -> mainForm.Text = ...
+LOG [9] (17 : 06 : 46 : 4827) -> Loading lists...
+LOG [10] (17 : 06 : 46 : 5668) -> Application.Run(new MainForm())
+LOG [11] (17 : 06 : 48 : 4081) -> Show Expl _win_
+LOG [12] (17 : 06 : 48 : 4181) -> new exploitation loaded (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 1/3
+LOG [13] (17 : 06 : 48 : 4191) -> new exploitation loaded (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/3
+LOG [14] (17 : 06 : 48 : 4191) -> new exploitation loaded (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 3/3
+LOG [15] (17 : 06 : 54 : 1939) -> new exploitation saved (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [16] (17 : 06 : 54 : 1949) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [17] (17 : 06 : 54 : 1949) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [18] (17 : 06 : 54 : 1949) -> new exploitation saved (exploitation #ID_defaut_AF6 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [19] (17 : 06 : 54 : 1959) -> new exploitation saved (exploitation #ID_defaut_610 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [20] (17 : 06 : 54 : 1959) -> new exploitation saved (exploitation #ID_defaut_DBA - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [21] (17 : 06 : 55 : 0430) -> Form closing
+LOG [22] (17 : 06 : 55 : 0440) -> Waiting form closing because unsaved
+LOG [23] (17 : 06 : 56 : 2073) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [24] (17 : 06 : 56 : 2083) -> new exploitation saved (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [25] (17 : 06 : 56 : 2083) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [26] (17 : 06 : 56 : 2083) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [27] (17 : 06 : 56 : 2093) -> new exploitation saved (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [28] (17 : 06 : 56 : 2093) -> new exploitation saved (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [29] (17 : 06 : 56 : 2093) -> new exploitation saved (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [30] (17 : 06 : 57 : 1660) -> Show Expl _win_
+LOG [31] (17 : 06 : 57 : 1751) -> new exploitation loaded (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 1/6
+LOG [32] (17 : 06 : 57 : 1760) -> new exploitation loaded (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/6
+LOG [33] (17 : 06 : 57 : 1769) -> new exploitation loaded (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 3/6
+LOG [34] (17 : 06 : 57 : 1779) -> new exploitation loaded (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 4/6
+LOG [35] (17 : 06 : 57 : 1790) -> new exploitation loaded (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 5/6
+LOG [36] (17 : 06 : 57 : 1790) -> new exploitation loaded (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 6/6
+LOG [37] (17 : 07 : 00 : 7777) -> Form closing
+LOG [38] (17 : 07 : 00 : 7787) -> Waiting form closing because unsaved
+LOG [39] (17 : 07 : 01 : 6813) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [40] (17 : 07 : 01 : 6823) -> new exploitation saved (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [41] (17 : 07 : 01 : 6823) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [42] (17 : 07 : 01 : 6833) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [43] (17 : 07 : 01 : 6833) -> new exploitation saved (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [44] (17 : 07 : 01 : 6833) -> new exploitation saved (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [45] (17 : 07 : 01 : 6843) -> new exploitation saved (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [46] (17 : 07 : 02 : 4797) -> Show BLWin _win_
+LOG [47] (17 : 07 : 10 : 0969) -> Show Expl _win_
+LOG [48] (17 : 07 : 10 : 1029) -> new exploitation loaded (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 1/6
+LOG [49] (17 : 07 : 10 : 1039) -> new exploitation loaded (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/6
+LOG [50] (17 : 07 : 10 : 1049) -> new exploitation loaded (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 3/6
+LOG [51] (17 : 07 : 10 : 1049) -> new exploitation loaded (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 4/6
+LOG [52] (17 : 07 : 10 : 1059) -> new exploitation loaded (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 5/6
+LOG [53] (17 : 07 : 10 : 1069) -> new exploitation loaded (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 6/6
+LOG [54] (17 : 07 : 32 : 4325) -> Form closing
+LOG [55] (17 : 07 : 32 : 4335) -> Waiting form closing because unsaved
+LOG [56] (17 : 07 : 33 : 9267) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [57] (17 : 07 : 33 : 9277) -> new exploitation saved (exploitation #ID_defaut_904 - EARL du grand moulin à 9 rue de bezange (xavier))
+LOG [58] (17 : 07 : 33 : 9277) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [59] (17 : 07 : 33 : 9277) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [60] (17 : 07 : 33 : 9287) -> new exploitation saved (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [61] (17 : 07 : 33 : 9287) -> new exploitation saved (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [62] (17 : 07 : 33 : 9287) -> new exploitation saved (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [63] (17 : 07 : 37 : 3489) -> Show BLWin _win_
+LOG [64] (17 : 08 : 01 : 7344) -> Show Expl _win_
+LOG [65] (17 : 08 : 01 : 7404) -> new exploitation loaded (exploitation #ID_defaut_904 - EARL du grand moulin à 9 rue de bezange (xavier)) -> f# 1/6
+LOG [66] (17 : 08 : 01 : 7414) -> new exploitation loaded (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/6
+LOG [67] (17 : 08 : 01 : 7424) -> new exploitation loaded (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 3/6
+LOG [68] (17 : 08 : 01 : 7434) -> new exploitation loaded (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 4/6
+LOG [69] (17 : 08 : 01 : 7444) -> new exploitation loaded (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 5/6
+LOG [70] (17 : 08 : 01 : 7444) -> new exploitation loaded (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s))) -> f# 6/6
+LOG [71] (17 : 08 : 08 : 6205) -> Form closing
+LOG [72] (17 : 08 : 08 : 6205) -> Waiting form closing because unsaved
+LOG [73] (17 : 08 : 09 : 5118) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [74] (17 : 08 : 09 : 5128) -> new exploitation saved (exploitation #45-89 - EARL du grand moulin à 9 rue de bezange (xavier))
+LOG [75] (17 : 08 : 09 : 5128) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [76] (17 : 08 : 09 : 5128) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [77] (17 : 08 : 09 : 5138) -> new exploitation saved (exploitation #ID_defaut_BE5 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [78] (17 : 08 : 09 : 5138) -> new exploitation saved (exploitation #ID_defaut_D35 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [79] (17 : 08 : 09 : 5138) -> new exploitation saved (exploitation #ID_defaut_1CD - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [80] (17 : 08 : 10 : 4118) -> Show BLWin _win_
+LOG [81] (17 : 08 : 16 : 9938) -> START finish with success result.
+LOG [82] (17 : 08 : 16 : 9948) -> Saving lists...
+LOG [83] (17 : 08 : 17 : 0018) -> Application stopping...
+LOG [84] (17 : 08 : 17 : 0028) -> Closing opened forms...
+LOG [85] (17 : 08 : 17 : 0028) -> application STOPED.

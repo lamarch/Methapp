@@ -1,0 +1,31 @@
+LOG [0] (17 : 12 : 42 : 0242) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-12-42__22__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 12 : 42 : 023261 >> 
+LOG [1] (17 : 12 : 42 : 0242) -> START ::
+LOG [2] (17 : 12 : 42 : 0252) -> Init files & dir : 
+LOG [3] (17 : 12 : 42 : 0262) -> CREATE DIR
+LOG [4] (17 : 12 : 42 : 0272) -> success
+LOG [5] (17 : 12 : 42 : 0272) -> Application.EnableVisualStyles()
+LOG [6] (17 : 12 : 42 : 0292) -> success
+LOG [7] (17 : 12 : 42 : 0292) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 12 : 42 : 0302) -> success
+LOG [9] (17 : 12 : 42 : 0302) -> Application.Run(new MainForm())
+LOG [10] (17 : 12 : 42 : 0312) -> START finish with success result.
+LOG [11] (17 : 12 : 43 : 5640) -> Show CHF _win_
+LOG [12] (17 : 12 : 45 : 2301) -> BOX #WARNING > ser ok
+LOG [13] (17 : 12 : 46 : 4280) -> end save cancelFormClose = False
+LOG [14] (17 : 12 : 46 : 4310) -> Form closing
+LOG [15] (17 : 12 : 47 : 4661) -> Show CHF _win_
+LOG [16] (17 : 12 : 50 : 1962) -> new chauffeur saved (CHAUFFEUR non defini (1) non defini (1) description-.)
+LOG [17] (17 : 12 : 50 : 1972) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-.
+LOG [18] (17 : 12 : 52 : 1006) -> new chauffeur saved (CHAUFFEUR non defini (2) non defini (2) description-.)
+LOG [19] (17 : 12 : 52 : 1016) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-.
+LOG [20] (17 : 12 : 52 : 8802) -> new chauffeur saved (CHAUFFEUR non defini (3) non defini (3) description-.)
+LOG [21] (17 : 12 : 52 : 8812) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-. - CHAUFFEUR non defini (3) non defini (3) description-.
+LOG [22] (17 : 12 : 54 : 1115) -> new chauffeur saved (CHAUFFEUR non defini (4) non defini (4) description-.)
+LOG [23] (17 : 12 : 54 : 1115) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-. - CHAUFFEUR non defini (3) non defini (3) description-. - CHAUFFEUR non defini (4) non defini (4) description-.
+LOG [24] (17 : 12 : 55 : 0724) -> new chauffeur saved (CHAUFFEUR non defini (5) non defini (5) description-.)
+LOG [25] (17 : 12 : 55 : 0724) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-. - CHAUFFEUR non defini (3) non defini (3) description-. - CHAUFFEUR non defini (4) non defini (4) description-. - CHAUFFEUR non defini (5) non defini (5) description-.
+LOG [26] (17 : 12 : 56 : 2143) -> BOX #WARNING > ser ok
+LOG [27] (17 : 12 : 57 : 3345) -> end save cancelFormClose = False
+LOG [28] (17 : 12 : 57 : 3355) -> Form closing
+LOG [29] (17 : 12 : 59 : 8775) -> STOP application.

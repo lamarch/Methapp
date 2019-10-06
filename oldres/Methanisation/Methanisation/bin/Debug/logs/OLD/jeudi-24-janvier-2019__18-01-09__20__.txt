@@ -1,0 +1,4 @@
+LOGS :: 
+Fumier nom:a, poids:2, mSeche:3, txCh4:4 .
+Fumier nom:b, poids:0, mSeche:0, txCh4:0 .
+Fumier nom:, poids:0, mSeche:0, txCh4:0 .

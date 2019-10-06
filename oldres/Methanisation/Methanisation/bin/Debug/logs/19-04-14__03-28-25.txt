@@ -1,0 +1,39 @@
+LOG [0] (15 : 28 : 25 : 1622) -> LOGS METHANISATION APP (logs\19-04-14__03-28-25.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 15 [+02:00 / +02:00] : 28 : 25 : 162207~~ >> 
+LOG [1] (15 : 28 : 25 : 1632) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (15 : 28 : 25 : 1632) -> INIT end
+LOG [3] (15 : 28 : 25 : 1642) -> Application.EnableVisualStyles()
+LOG [4] (15 : 28 : 25 : 1652) -> success
+LOG [5] (15 : 28 : 25 : 1652) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (15 : 28 : 25 : 1662) -> success
+LOG [7] (15 : 28 : 25 : 1662) -> Instanciation of MainForm object
+LOG [8] (15 : 28 : 25 : 2442) -> mainForm.Text = ...
+LOG [9] (15 : 28 : 25 : 2452) -> Loading lists...
+LOG [10] (15 : 28 : 25 : 3372) -> Application.Run(new MainForm())
+LOG [11] (15 : 28 : 26 : 5177) -> Show CHF _win_
+LOG [12] (15 : 28 : 26 : 5287) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/1
+LOG [13] (15 : 28 : 27 : 7787) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [14] (15 : 28 : 28 : 8417) -> MSG_BOX #INFO > sDGW changed ! > OK
+LOG [15] (15 : 28 : 29 : 9328) -> MSG_BOX #INFO > val cell r 0 k 0:  nom non défini > OK
+LOG [16] (15 : 28 : 30 : 5511) -> MSG_BOX #INFO > val cell r 0 k 1:  prenom non défini > OK
+LOG [17] (15 : 28 : 31 : 1425) -> MSG_BOX #INFO > val cell r 0 k 2:  - > OK
+LOG [18] (15 : 28 : 32 : 3708) -> Form closing
+LOG [19] (15 : 28 : 32 : 3718) -> Waiting form closing because unsaved
+LOG [20] (15 : 28 : 33 : 5934) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [21] (15 : 28 : 33 : 5944) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [22] (15 : 28 : 34 : 3541) -> MSG_BOX #INFO > sDGW changed ! > OK
+LOG [23] (15 : 28 : 35 : 2648) -> MSG_BOX #INFO > val cell r 0 k 0:  nom non défini > OK
+LOG [24] (15 : 28 : 35 : 5243) -> MSG_BOX #INFO > val cell r 0 k 1:  prenom non défini > OK
+LOG [25] (15 : 28 : 36 : 2637) -> MSG_BOX #INFO > val cell r 0 k 2:  - > OK
+LOG [26] (15 : 28 : 37 : 4122) -> Show CHF _win_
+LOG [27] (15 : 28 : 37 : 4162) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/1
+LOG [28] (15 : 28 : 39 : 2610) -> Form closing
+LOG [29] (15 : 28 : 40 : 4349) -> MSG_BOX #INFO > CDGWD - d1.r.count = 1 d2.r.count = 1 > OK
+LOG [30] (15 : 28 : 40 : 8756) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [31] (15 : 28 : 40 : 8766) -> Waiting form closing because unsaved
+LOG [32] (15 : 28 : 41 : 8753) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > No
+LOG [33] (15 : 28 : 43 : 0891) -> START finish with success result.
+LOG [34] (15 : 28 : 43 : 0901) -> Saving lists...
+LOG [35] (15 : 28 : 43 : 0971) -> Application stopping...
+LOG [36] (15 : 28 : 43 : 0971) -> Closing opened forms...
+LOG [37] (15 : 28 : 43 : 0981) -> application STOPED.

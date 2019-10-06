@@ -1,0 +1,36 @@
+LOG [0] (18 : 24 : 19 : 6095) -> LOGS METHANISATION APP (logs\19-04-16__06-24-19.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 24 : 19 : 608521~~ >> 
+LOG [1] (18 : 24 : 19 : 6105) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 24 : 19 : 6105) -> Application.EnableVisualStyles()
+LOG [3] (18 : 24 : 19 : 6165) -> success
+LOG [4] (18 : 24 : 19 : 6175) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 24 : 19 : 6175) -> success
+LOG [6] (18 : 24 : 19 : 6175) -> INIT...
+LOG [7] (18 : 24 : 19 : 6185) -> Lists...
+LOG [8] (18 : 24 : 19 : 6195) -> OK
+LOG [9] (18 : 24 : 19 : 6205) -> Objects...
+LOG [10] (18 : 24 : 19 : 7045) -> OK
+LOG [11] (18 : 24 : 19 : 7055) -> Delegates...
+LOG [12] (18 : 24 : 19 : 7055) -> OK
+LOG [13] (18 : 24 : 19 : 7055) -> INIT end
+LOG [14] (18 : 24 : 19 : 7065) -> Loading lists...
+LOG [15] (18 : 24 : 19 : 9666) -> Application.Run(new MainForm())
+LOG [16] (18 : 24 : 21 : 6739) -> Show BLWin _win_
+LOG [17] (18 : 24 : 29 : 6987) -> saving..
+LOG [18] (18 : 24 : 39 : 7030) -> saving..
+LOG [19] (18 : 24 : 49 : 7034) -> saving..
+LOG [20] (18 : 24 : 59 : 6995) -> saving..
+LOG [21] (18 : 25 : 00 : 1447) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [22] (18 : 25 : 04 : 5381) -> MSG_BOX #INFO > BON DE LIVRAISON #839 <NOM_defaut_7SO5OES8Y> du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 18 h 25 " (exploitation : " E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [23] (18 : 25 : 09 : 0330) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [24] (18 : 25 : 09 : 6995) -> saving..
+LOG [25] (18 : 25 : 13 : 0988) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [26] (18 : 25 : 19 : 7020) -> saving..
+LOG [27] (18 : 25 : 20 : 4284) -> MSG_BOX #INFO > BON DE LIVRAISON #83A <NOM_defaut_7SO5OES8Y> du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 18 h 25 " (exploitation : " E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [28] (18 : 25 : 29 : 6991) -> saving..
+LOG [29] (18 : 25 : 33 : 4667) -> START finish with success result.
+LOG [30] (18 : 25 : 33 : 4667) -> Saving lists...
+LOG [31] (18 : 25 : 33 : 4677) -> saving..
+LOG [32] (18 : 25 : 33 : 6867) -> Application stopping...
+LOG [33] (18 : 25 : 33 : 6867) -> Closing opened forms...
+LOG [34] (18 : 25 : 33 : 6877) -> application STOPED.

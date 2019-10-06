@@ -1,0 +1,14 @@
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\bin\Debug\MethanisationProject.exe.config
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\bin\Debug\MethanisationProject.exe
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\bin\Debug\MethanisationProject.pdb
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MainWindow.g.cs
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\App.g.cs
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject_MarkupCompile.cache
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject_MarkupCompile.lref
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MainWindow.baml
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.g.resources
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.Properties.Resources.resources
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.exe
+C:\Users\Xavier\source\repos\MethanisationProject\MethanisationProject\obj\Debug\MethanisationProject.pdb

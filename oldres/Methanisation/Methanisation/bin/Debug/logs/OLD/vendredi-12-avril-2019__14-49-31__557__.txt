@@ -1,0 +1,39 @@
+LOG [0] (14 : 49 : 31 : 5587) -> LOGS METHANISATION >>
+(logs\vendredi-12-avril-2019__14-49-31__557__.txt)2019 -> avril (#04) -> vendredi(#12) -> 14 [+02:00 / +02:00] : 49 : 31 : 558765 >> 
+LOG [1] (14 : 49 : 31 : 5597) -> application[version = " 0.0.37 "] STARTING ::
+LOG [2] (14 : 49 : 31 : 5607) -> Init files & dir : 
+LOG [3] (14 : 49 : 31 : 5617) -> CREATE DIR
+LOG [4] (14 : 49 : 31 : 5627) -> success
+LOG [5] (14 : 49 : 31 : 5627) -> Application.EnableVisualStyles()
+LOG [6] (14 : 49 : 31 : 5647) -> success
+LOG [7] (14 : 49 : 31 : 5647) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (14 : 49 : 31 : 5657) -> success
+LOG [9] (14 : 49 : 31 : 5657) -> Application.Run(new MainForm())
+LOG [10] (14 : 49 : 31 : 5667) -> Instanciation of MainForm object
+LOG [11] (14 : 49 : 31 : 6457) -> mainForm.Text = ...
+LOG [12] (14 : 49 : 31 : 6467) -> Loading lists...
+LOG [13] (14 : 49 : 31 : 7478) -> START finish with success result.
+LOG [14] (14 : 49 : 32 : 7410) -> Show CHF _win_
+LOG [15] (14 : 49 : 32 : 7510) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/2
+LOG [16] (14 : 49 : 32 : 7520) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/2
+LOG [17] (14 : 49 : 34 : 5257) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [18] (14 : 49 : 34 : 5267) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [19] (14 : 49 : 34 : 7072) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [20] (14 : 49 : 34 : 7072) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [21] (14 : 49 : 36 : 3030) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [22] (14 : 49 : 36 : 3030) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [23] (14 : 49 : 36 : 3040) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [24] (14 : 49 : 36 : 3040) -> new chauffeur saved (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".)
+LOG [25] (14 : 49 : 36 : 3040) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [26] (14 : 49 : 37 : 0627) -> Form closing
+LOG [27] (14 : 49 : 37 : 0637) -> Waiting form closing
+LOG [28] (14 : 49 : 37 : 0637) -> BOX #WARNING > Voulez-vous sauvegarder avant de quitter ?
+LOG [29] (14 : 49 : 38 : 2708) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [30] (14 : 49 : 38 : 2708) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [31] (14 : 49 : 38 : 2708) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [32] (14 : 49 : 38 : 2718) -> new chauffeur saved (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".)
+LOG [33] (14 : 49 : 38 : 2718) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [34] (14 : 49 : 39 : 3364) -> Saving lists...
+LOG [35] (14 : 49 : 39 : 3494) -> Application stopping...
+LOG [36] (14 : 49 : 39 : 3504) -> Closing opened forms...
+LOG [37] (14 : 49 : 39 : 3504) -> application STOPED.

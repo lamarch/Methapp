@@ -1,0 +1,325 @@
+LOG [0] (17 : 53 : 22 : 3509) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-53-22__348__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 53 : 22 : 349947 >> 
+LOG [1] (17 : 53 : 22 : 3519) -> START ::
+LOG [2] (17 : 53 : 22 : 3519) -> Init files & dir : 
+LOG [3] (17 : 53 : 22 : 3529) -> CREATE DIR
+LOG [4] (17 : 53 : 22 : 3539) -> success
+LOG [5] (17 : 53 : 22 : 3539) -> Application.EnableVisualStyles()
+LOG [6] (17 : 53 : 22 : 3559) -> success
+LOG [7] (17 : 53 : 22 : 3569) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 53 : 22 : 3579) -> success
+LOG [9] (17 : 53 : 22 : 3579) -> Application.Run(new MainForm())
+LOG [10] (17 : 53 : 22 : 3589) -> START finish with success result.
+LOG [11] (17 : 53 : 25 : 5641) -> Show BLWin _win_
+LOG [12] (17 : 53 : 25 : 5701) -> BOX #NOT_IMPLEMENTED
+LOG [13] (17 : 53 : 28 : 6265) -> Show BLModifWin _win_
+LOG [14] (17 : 53 : 28 : 6275) -> BOX #NOT_IMPLEMENTED
+LOG [15] (17 : 53 : 31 : 2182) -> Show BLModifWin _win_
+LOG [16] (17 : 53 : 31 : 2182) -> BOX #NOT_IMPLEMENTED
+LOG [17] (17 : 53 : 34 : 1301) -> Show Expl _win_
+LOG [18] (17 : 53 : 34 : 2151) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/53
+LOG [19] (17 : 53 : 34 : 2161) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/53
+LOG [20] (17 : 53 : 34 : 2161) -> new exploitation loaded (Methanisation.Exploitation) -> f# 3/53
+LOG [21] (17 : 53 : 34 : 2171) -> new exploitation loaded (Methanisation.Exploitation) -> f# 4/53
+LOG [22] (17 : 53 : 34 : 2171) -> new exploitation loaded (Methanisation.Exploitation) -> f# 5/53
+LOG [23] (17 : 53 : 34 : 2181) -> new exploitation loaded (Methanisation.Exploitation) -> f# 6/53
+LOG [24] (17 : 53 : 34 : 2191) -> new exploitation loaded (Methanisation.Exploitation) -> f# 7/53
+LOG [25] (17 : 53 : 34 : 2191) -> new exploitation loaded (Methanisation.Exploitation) -> f# 8/53
+LOG [26] (17 : 53 : 34 : 2201) -> new exploitation loaded (Methanisation.Exploitation) -> f# 9/53
+LOG [27] (17 : 53 : 34 : 2201) -> new exploitation loaded (Methanisation.Exploitation) -> f# 10/53
+LOG [28] (17 : 53 : 34 : 2211) -> new exploitation loaded (Methanisation.Exploitation) -> f# 11/53
+LOG [29] (17 : 53 : 34 : 2211) -> new exploitation loaded (Methanisation.Exploitation) -> f# 12/53
+LOG [30] (17 : 53 : 34 : 2221) -> new exploitation loaded (Methanisation.Exploitation) -> f# 13/53
+LOG [31] (17 : 53 : 34 : 2231) -> new exploitation loaded (Methanisation.Exploitation) -> f# 14/53
+LOG [32] (17 : 53 : 34 : 2231) -> new exploitation loaded (Methanisation.Exploitation) -> f# 15/53
+LOG [33] (17 : 53 : 34 : 2241) -> new exploitation loaded (Methanisation.Exploitation) -> f# 16/53
+LOG [34] (17 : 53 : 34 : 2241) -> new exploitation loaded (Methanisation.Exploitation) -> f# 17/53
+LOG [35] (17 : 53 : 34 : 2251) -> new exploitation loaded (Methanisation.Exploitation) -> f# 18/53
+LOG [36] (17 : 53 : 34 : 2261) -> new exploitation loaded (Methanisation.Exploitation) -> f# 19/53
+LOG [37] (17 : 53 : 34 : 2261) -> new exploitation loaded (Methanisation.Exploitation) -> f# 20/53
+LOG [38] (17 : 53 : 34 : 2271) -> new exploitation loaded (Methanisation.Exploitation) -> f# 21/53
+LOG [39] (17 : 53 : 34 : 2271) -> new exploitation loaded (Methanisation.Exploitation) -> f# 22/53
+LOG [40] (17 : 53 : 34 : 2281) -> new exploitation loaded (Methanisation.Exploitation) -> f# 23/53
+LOG [41] (17 : 53 : 34 : 2291) -> new exploitation loaded (Methanisation.Exploitation) -> f# 24/53
+LOG [42] (17 : 53 : 34 : 2291) -> new exploitation loaded (Methanisation.Exploitation) -> f# 25/53
+LOG [43] (17 : 53 : 34 : 2301) -> new exploitation loaded (Methanisation.Exploitation) -> f# 26/53
+LOG [44] (17 : 53 : 34 : 2311) -> new exploitation loaded (Methanisation.Exploitation) -> f# 27/53
+LOG [45] (17 : 53 : 34 : 2321) -> new exploitation loaded (Methanisation.Exploitation) -> f# 28/53
+LOG [46] (17 : 53 : 34 : 2321) -> new exploitation loaded (Methanisation.Exploitation) -> f# 29/53
+LOG [47] (17 : 53 : 34 : 2331) -> new exploitation loaded (Methanisation.Exploitation) -> f# 30/53
+LOG [48] (17 : 53 : 34 : 2341) -> new exploitation loaded (Methanisation.Exploitation) -> f# 31/53
+LOG [49] (17 : 53 : 34 : 2341) -> new exploitation loaded (Methanisation.Exploitation) -> f# 32/53
+LOG [50] (17 : 53 : 34 : 2351) -> new exploitation loaded (Methanisation.Exploitation) -> f# 33/53
+LOG [51] (17 : 53 : 34 : 2361) -> new exploitation loaded (Methanisation.Exploitation) -> f# 34/53
+LOG [52] (17 : 53 : 34 : 2361) -> new exploitation loaded (Methanisation.Exploitation) -> f# 35/53
+LOG [53] (17 : 53 : 34 : 2371) -> new exploitation loaded (Methanisation.Exploitation) -> f# 36/53
+LOG [54] (17 : 53 : 34 : 2381) -> new exploitation loaded (Methanisation.Exploitation) -> f# 37/53
+LOG [55] (17 : 53 : 34 : 2381) -> new exploitation loaded (Methanisation.Exploitation) -> f# 38/53
+LOG [56] (17 : 53 : 34 : 2391) -> new exploitation loaded (Methanisation.Exploitation) -> f# 39/53
+LOG [57] (17 : 53 : 34 : 2401) -> new exploitation loaded (Methanisation.Exploitation) -> f# 40/53
+LOG [58] (17 : 53 : 34 : 2401) -> new exploitation loaded (Methanisation.Exploitation) -> f# 41/53
+LOG [59] (17 : 53 : 34 : 2411) -> new exploitation loaded (Methanisation.Exploitation) -> f# 42/53
+LOG [60] (17 : 53 : 34 : 2421) -> new exploitation loaded (Methanisation.Exploitation) -> f# 43/53
+LOG [61] (17 : 53 : 34 : 2431) -> new exploitation loaded (Methanisation.Exploitation) -> f# 44/53
+LOG [62] (17 : 53 : 34 : 2431) -> new exploitation loaded (Methanisation.Exploitation) -> f# 45/53
+LOG [63] (17 : 53 : 34 : 2441) -> new exploitation loaded (Methanisation.Exploitation) -> f# 46/53
+LOG [64] (17 : 53 : 34 : 2451) -> new exploitation loaded (Methanisation.Exploitation) -> f# 47/53
+LOG [65] (17 : 53 : 34 : 2451) -> new exploitation loaded (Methanisation.Exploitation) -> f# 48/53
+LOG [66] (17 : 53 : 34 : 2461) -> new exploitation loaded (Methanisation.Exploitation) -> f# 49/53
+LOG [67] (17 : 53 : 34 : 2471) -> new exploitation loaded (Methanisation.Exploitation) -> f# 50/53
+LOG [68] (17 : 53 : 34 : 2481) -> new exploitation loaded (Methanisation.Exploitation) -> f# 51/53
+LOG [69] (17 : 53 : 34 : 2481) -> new exploitation loaded (Methanisation.Exploitation) -> f# 52/53
+LOG [70] (17 : 53 : 34 : 2491) -> new exploitation loaded (Methanisation.Exploitation) -> f# 53/53
+LOG [71] (17 : 53 : 35 : 9514) -> new exploitation saved (Methanisation.Exploitation)
+LOG [72] (17 : 53 : 35 : 9514) -> new exploitation saved (Methanisation.Exploitation)
+LOG [73] (17 : 53 : 35 : 9524) -> new exploitation saved (Methanisation.Exploitation)
+LOG [74] (17 : 53 : 35 : 9524) -> new exploitation saved (Methanisation.Exploitation)
+LOG [75] (17 : 53 : 35 : 9524) -> new exploitation saved (Methanisation.Exploitation)
+LOG [76] (17 : 53 : 35 : 9534) -> new exploitation saved (Methanisation.Exploitation)
+LOG [77] (17 : 53 : 35 : 9534) -> new exploitation saved (Methanisation.Exploitation)
+LOG [78] (17 : 53 : 35 : 9534) -> new exploitation saved (Methanisation.Exploitation)
+LOG [79] (17 : 53 : 35 : 9544) -> new exploitation saved (Methanisation.Exploitation)
+LOG [80] (17 : 53 : 35 : 9544) -> new exploitation saved (Methanisation.Exploitation)
+LOG [81] (17 : 53 : 35 : 9544) -> new exploitation saved (Methanisation.Exploitation)
+LOG [82] (17 : 53 : 35 : 9554) -> new exploitation saved (Methanisation.Exploitation)
+LOG [83] (17 : 53 : 35 : 9554) -> new exploitation saved (Methanisation.Exploitation)
+LOG [84] (17 : 53 : 35 : 9554) -> new exploitation saved (Methanisation.Exploitation)
+LOG [85] (17 : 53 : 35 : 9564) -> new exploitation saved (Methanisation.Exploitation)
+LOG [86] (17 : 53 : 35 : 9564) -> new exploitation saved (Methanisation.Exploitation)
+LOG [87] (17 : 53 : 35 : 9564) -> new exploitation saved (Methanisation.Exploitation)
+LOG [88] (17 : 53 : 35 : 9574) -> new exploitation saved (Methanisation.Exploitation)
+LOG [89] (17 : 53 : 35 : 9574) -> new exploitation saved (Methanisation.Exploitation)
+LOG [90] (17 : 53 : 35 : 9574) -> new exploitation saved (Methanisation.Exploitation)
+LOG [91] (17 : 53 : 35 : 9584) -> new exploitation saved (Methanisation.Exploitation)
+LOG [92] (17 : 53 : 35 : 9584) -> new exploitation saved (Methanisation.Exploitation)
+LOG [93] (17 : 53 : 35 : 9584) -> new exploitation saved (Methanisation.Exploitation)
+LOG [94] (17 : 53 : 35 : 9584) -> new exploitation saved (Methanisation.Exploitation)
+LOG [95] (17 : 53 : 35 : 9594) -> new exploitation saved (Methanisation.Exploitation)
+LOG [96] (17 : 53 : 35 : 9594) -> new exploitation saved (Methanisation.Exploitation)
+LOG [97] (17 : 53 : 35 : 9604) -> new exploitation saved (Methanisation.Exploitation)
+LOG [98] (17 : 53 : 35 : 9604) -> new exploitation saved (Methanisation.Exploitation)
+LOG [99] (17 : 53 : 35 : 9604) -> new exploitation saved (Methanisation.Exploitation)
+LOG [100] (17 : 53 : 35 : 9614) -> new exploitation saved (Methanisation.Exploitation)
+LOG [101] (17 : 53 : 35 : 9634) -> new exploitation saved (Methanisation.Exploitation)
+LOG [102] (17 : 53 : 35 : 9634) -> new exploitation saved (Methanisation.Exploitation)
+LOG [103] (17 : 53 : 35 : 9644) -> new exploitation saved (Methanisation.Exploitation)
+LOG [104] (17 : 53 : 35 : 9644) -> new exploitation saved (Methanisation.Exploitation)
+LOG [105] (17 : 53 : 35 : 9644) -> new exploitation saved (Methanisation.Exploitation)
+LOG [106] (17 : 53 : 35 : 9654) -> new exploitation saved (Methanisation.Exploitation)
+LOG [107] (17 : 53 : 35 : 9654) -> new exploitation saved (Methanisation.Exploitation)
+LOG [108] (17 : 53 : 35 : 9654) -> new exploitation saved (Methanisation.Exploitation)
+LOG [109] (17 : 53 : 35 : 9664) -> new exploitation saved (Methanisation.Exploitation)
+LOG [110] (17 : 53 : 35 : 9664) -> new exploitation saved (Methanisation.Exploitation)
+LOG [111] (17 : 53 : 35 : 9664) -> new exploitation saved (Methanisation.Exploitation)
+LOG [112] (17 : 53 : 35 : 9674) -> new exploitation saved (Methanisation.Exploitation)
+LOG [113] (17 : 53 : 35 : 9674) -> new exploitation saved (Methanisation.Exploitation)
+LOG [114] (17 : 53 : 35 : 9674) -> new exploitation saved (Methanisation.Exploitation)
+LOG [115] (17 : 53 : 35 : 9684) -> new exploitation saved (Methanisation.Exploitation)
+LOG [116] (17 : 53 : 35 : 9684) -> new exploitation saved (Methanisation.Exploitation)
+LOG [117] (17 : 53 : 35 : 9684) -> new exploitation saved (Methanisation.Exploitation)
+LOG [118] (17 : 53 : 35 : 9694) -> new exploitation saved (Methanisation.Exploitation)
+LOG [119] (17 : 53 : 35 : 9694) -> new exploitation saved (Methanisation.Exploitation)
+LOG [120] (17 : 53 : 35 : 9694) -> new exploitation saved (Methanisation.Exploitation)
+LOG [121] (17 : 53 : 35 : 9704) -> new exploitation saved (Methanisation.Exploitation)
+LOG [122] (17 : 53 : 35 : 9704) -> new exploitation saved (Methanisation.Exploitation)
+LOG [123] (17 : 53 : 35 : 9704) -> new exploitation saved (Methanisation.Exploitation)
+LOG [124] (17 : 53 : 36 : 7220) -> Show Fumier _win_
+LOG [125] (17 : 53 : 36 : 7607) -> new fumier loaded ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 1/98
+LOG [126] (17 : 53 : 36 : 7607) -> new fumier loaded ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 2/98
+LOG [127] (17 : 53 : 36 : 7617) -> new fumier loaded ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/98
+LOG [128] (17 : 53 : 36 : 7617) -> new fumier loaded ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/98
+LOG [129] (17 : 53 : 36 : 7627) -> new fumier loaded ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 5/98
+LOG [130] (17 : 53 : 36 : 7627) -> new fumier loaded ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 6/98
+LOG [131] (17 : 53 : 36 : 7627) -> new fumier loaded ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 7/98
+LOG [132] (17 : 53 : 36 : 7637) -> new fumier loaded ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 8/98
+LOG [133] (17 : 53 : 36 : 7637) -> new fumier loaded ([ fumier nom::non defini (4), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 9/98
+LOG [134] (17 : 53 : 36 : 7637) -> new fumier loaded ([ fumier nom::non defini (5), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 10/98
+LOG [135] (17 : 53 : 36 : 7649) -> new fumier loaded ([ fumier nom::non defini (6), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 11/98
+LOG [136] (17 : 53 : 36 : 7649) -> new fumier loaded ([ fumier nom::non defini (7), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 12/98
+LOG [137] (17 : 53 : 36 : 7657) -> new fumier loaded ([ fumier nom::non defini (8), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 13/98
+LOG [138] (17 : 53 : 36 : 7657) -> new fumier loaded ([ fumier nom::non defini (9), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 14/98
+LOG [139] (17 : 53 : 36 : 7657) -> new fumier loaded ([ fumier nom::non defini (10), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 15/98
+LOG [140] (17 : 53 : 36 : 7667) -> new fumier loaded ([ fumier nom::non defini (11), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 16/98
+LOG [141] (17 : 53 : 36 : 7667) -> new fumier loaded ([ fumier nom::non defini (12), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 17/98
+LOG [142] (17 : 53 : 36 : 7677) -> new fumier loaded ([ fumier nom::non defini (13), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 18/98
+LOG [143] (17 : 53 : 36 : 7677) -> new fumier loaded ([ fumier nom::non defini (14), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 19/98
+LOG [144] (17 : 53 : 36 : 7677) -> new fumier loaded ([ fumier nom::non defini (15), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 20/98
+LOG [145] (17 : 53 : 36 : 7687) -> new fumier loaded ([ fumier nom::non defini (16), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 21/98
+LOG [146] (17 : 53 : 36 : 7687) -> new fumier loaded ([ fumier nom::non defini (17), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 22/98
+LOG [147] (17 : 53 : 36 : 7697) -> new fumier loaded ([ fumier nom::non defini (18), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 23/98
+LOG [148] (17 : 53 : 36 : 7697) -> new fumier loaded ([ fumier nom::non defini (19), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 24/98
+LOG [149] (17 : 53 : 36 : 7697) -> new fumier loaded ([ fumier nom::non defini (20), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 25/98
+LOG [150] (17 : 53 : 36 : 7707) -> new fumier loaded ([ fumier nom::non defini (21), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 26/98
+LOG [151] (17 : 53 : 36 : 7707) -> new fumier loaded ([ fumier nom::non defini (22), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 27/98
+LOG [152] (17 : 53 : 36 : 7717) -> new fumier loaded ([ fumier nom::non defini (23), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 28/98
+LOG [153] (17 : 53 : 36 : 7717) -> new fumier loaded ([ fumier nom::non defini (24), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 29/98
+LOG [154] (17 : 53 : 36 : 7717) -> new fumier loaded ([ fumier nom::non defini (25), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 30/98
+LOG [155] (17 : 53 : 36 : 7727) -> new fumier loaded ([ fumier nom::non defini (26), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 31/98
+LOG [156] (17 : 53 : 36 : 7727) -> new fumier loaded ([ fumier nom::non defini (27), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 32/98
+LOG [157] (17 : 53 : 36 : 7727) -> new fumier loaded ([ fumier nom::non defini (28), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 33/98
+LOG [158] (17 : 53 : 36 : 7737) -> new fumier loaded ([ fumier nom::non defini (29), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 34/98
+LOG [159] (17 : 53 : 36 : 7737) -> new fumier loaded ([ fumier nom::non defini (30), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 35/98
+LOG [160] (17 : 53 : 36 : 7737) -> new fumier loaded ([ fumier nom::non defini (31), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 36/98
+LOG [161] (17 : 53 : 36 : 7747) -> new fumier loaded ([ fumier nom::non defini (32), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 37/98
+LOG [162] (17 : 53 : 36 : 7747) -> new fumier loaded ([ fumier nom::non defini (33), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 38/98
+LOG [163] (17 : 53 : 36 : 7757) -> new fumier loaded ([ fumier nom::non defini (34), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 39/98
+LOG [164] (17 : 53 : 36 : 7757) -> new fumier loaded ([ fumier nom::non defini (35), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 40/98
+LOG [165] (17 : 53 : 36 : 7767) -> new fumier loaded ([ fumier nom::non defini (36), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 41/98
+LOG [166] (17 : 53 : 36 : 7767) -> new fumier loaded ([ fumier nom::non defini (37), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 42/98
+LOG [167] (17 : 53 : 36 : 7777) -> new fumier loaded ([ fumier nom::non defini (38), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 43/98
+LOG [168] (17 : 53 : 36 : 7777) -> new fumier loaded ([ fumier nom::non defini (39), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 44/98
+LOG [169] (17 : 53 : 36 : 7777) -> new fumier loaded ([ fumier nom::non defini (40), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 45/98
+LOG [170] (17 : 53 : 36 : 7787) -> new fumier loaded ([ fumier nom::non defini (41), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 46/98
+LOG [171] (17 : 53 : 36 : 7787) -> new fumier loaded ([ fumier nom::non defini (42), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 47/98
+LOG [172] (17 : 53 : 36 : 7797) -> new fumier loaded ([ fumier nom::non defini (43), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 48/98
+LOG [173] (17 : 53 : 36 : 7797) -> new fumier loaded ([ fumier nom::non defini (44), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 49/98
+LOG [174] (17 : 53 : 36 : 7797) -> new fumier loaded ([ fumier nom::non defini (45), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 50/98
+LOG [175] (17 : 53 : 36 : 7807) -> new fumier loaded ([ fumier nom::non defini (46), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 51/98
+LOG [176] (17 : 53 : 36 : 7807) -> new fumier loaded ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 52/98
+LOG [177] (17 : 53 : 36 : 7817) -> new fumier loaded ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 53/98
+LOG [178] (17 : 53 : 36 : 7817) -> new fumier loaded ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 54/98
+LOG [179] (17 : 53 : 36 : 7817) -> new fumier loaded ([ fumier nom::non defini (4), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 55/98
+LOG [180] (17 : 53 : 36 : 7827) -> new fumier loaded ([ fumier nom::non defini (5), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 56/98
+LOG [181] (17 : 53 : 36 : 7827) -> new fumier loaded ([ fumier nom::non defini (6), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 57/98
+LOG [182] (17 : 53 : 36 : 7827) -> new fumier loaded ([ fumier nom::non defini (7), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 58/98
+LOG [183] (17 : 53 : 36 : 7837) -> new fumier loaded ([ fumier nom::non defini (8), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 59/98
+LOG [184] (17 : 53 : 36 : 7837) -> new fumier loaded ([ fumier nom::non defini (9), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 60/98
+LOG [185] (17 : 53 : 36 : 7837) -> new fumier loaded ([ fumier nom::non defini (10), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 61/98
+LOG [186] (17 : 53 : 36 : 7847) -> new fumier loaded ([ fumier nom::non defini (11), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 62/98
+LOG [187] (17 : 53 : 36 : 7847) -> new fumier loaded ([ fumier nom::non defini (12), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 63/98
+LOG [188] (17 : 53 : 36 : 7857) -> new fumier loaded ([ fumier nom::non defini (13), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 64/98
+LOG [189] (17 : 53 : 36 : 7857) -> new fumier loaded ([ fumier nom::non defini (14), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 65/98
+LOG [190] (17 : 53 : 36 : 7857) -> new fumier loaded ([ fumier nom::non defini (15), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 66/98
+LOG [191] (17 : 53 : 36 : 7867) -> new fumier loaded ([ fumier nom::non defini (16), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 67/98
+LOG [192] (17 : 53 : 36 : 7867) -> new fumier loaded ([ fumier nom::non defini (17), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 68/98
+LOG [193] (17 : 53 : 36 : 7867) -> new fumier loaded ([ fumier nom::non defini (18), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 69/98
+LOG [194] (17 : 53 : 36 : 7877) -> new fumier loaded ([ fumier nom::non defini (19), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 70/98
+LOG [195] (17 : 53 : 36 : 7877) -> new fumier loaded ([ fumier nom::non defini (20), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 71/98
+LOG [196] (17 : 53 : 36 : 7887) -> new fumier loaded ([ fumier nom::non defini (21), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 72/98
+LOG [197] (17 : 53 : 36 : 7887) -> new fumier loaded ([ fumier nom::non defini (22), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 73/98
+LOG [198] (17 : 53 : 36 : 7887) -> new fumier loaded ([ fumier nom::non defini (23), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 74/98
+LOG [199] (17 : 53 : 36 : 7897) -> new fumier loaded ([ fumier nom::non defini (24), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 75/98
+LOG [200] (17 : 53 : 36 : 7897) -> new fumier loaded ([ fumier nom::non defini (25), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 76/98
+LOG [201] (17 : 53 : 36 : 7907) -> new fumier loaded ([ fumier nom::non defini (26), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 77/98
+LOG [202] (17 : 53 : 36 : 7907) -> new fumier loaded ([ fumier nom::non defini (27), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 78/98
+LOG [203] (17 : 53 : 36 : 7917) -> new fumier loaded ([ fumier nom::non defini (28), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 79/98
+LOG [204] (17 : 53 : 36 : 7917) -> new fumier loaded ([ fumier nom::non defini (29), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 80/98
+LOG [205] (17 : 53 : 36 : 7927) -> new fumier loaded ([ fumier nom::non defini (30), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 81/98
+LOG [206] (17 : 53 : 36 : 7927) -> new fumier loaded ([ fumier nom::non defini (31), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 82/98
+LOG [207] (17 : 53 : 36 : 7937) -> new fumier loaded ([ fumier nom::non defini (32), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 83/98
+LOG [208] (17 : 53 : 36 : 7937) -> new fumier loaded ([ fumier nom::non defini (33), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 84/98
+LOG [209] (17 : 53 : 36 : 7937) -> new fumier loaded ([ fumier nom::non defini (34), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 85/98
+LOG [210] (17 : 53 : 36 : 7947) -> new fumier loaded ([ fumier nom::non defini (35), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 86/98
+LOG [211] (17 : 53 : 36 : 7947) -> new fumier loaded ([ fumier nom::non defini (36), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 87/98
+LOG [212] (17 : 53 : 36 : 7947) -> new fumier loaded ([ fumier nom::non defini (37), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 88/98
+LOG [213] (17 : 53 : 36 : 7957) -> new fumier loaded ([ fumier nom::non defini (38), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 89/98
+LOG [214] (17 : 53 : 36 : 7957) -> new fumier loaded ([ fumier nom::non defini (39), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 90/98
+LOG [215] (17 : 53 : 36 : 7967) -> new fumier loaded ([ fumier nom::non defini (40), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 91/98
+LOG [216] (17 : 53 : 36 : 7967) -> new fumier loaded ([ fumier nom::non defini (41), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 92/98
+LOG [217] (17 : 53 : 36 : 7967) -> new fumier loaded ([ fumier nom::non defini (42), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 93/98
+LOG [218] (17 : 53 : 36 : 7977) -> new fumier loaded ([ fumier nom::non defini (43), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 94/98
+LOG [219] (17 : 53 : 36 : 7977) -> new fumier loaded ([ fumier nom::non defini (44), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 95/98
+LOG [220] (17 : 53 : 36 : 7987) -> new fumier loaded ([ fumier nom::non defini (45), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 96/98
+LOG [221] (17 : 53 : 36 : 7987) -> new fumier loaded ([ fumier nom::non defini (46), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 97/98
+LOG [222] (17 : 53 : 36 : 7987) -> new fumier loaded ([ fumier nom::non defini (47), poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 98/98
+LOG [223] (17 : 53 : 40 : 7833) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [224] (17 : 53 : 40 : 7843) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [225] (17 : 53 : 40 : 7843) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [226] (17 : 53 : 40 : 7843) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [227] (17 : 53 : 40 : 7853) -> new fumier saved ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [228] (17 : 53 : 40 : 7853) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [229] (17 : 53 : 40 : 7853) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [230] (17 : 53 : 40 : 7863) -> new fumier saved ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [231] (17 : 53 : 40 : 7863) -> new fumier saved ([ fumier nom::non defini (4), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [232] (17 : 53 : 40 : 7863) -> new fumier saved ([ fumier nom::non defini (5), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [233] (17 : 53 : 40 : 7873) -> new fumier saved ([ fumier nom::non defini (6), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [234] (17 : 53 : 40 : 7873) -> new fumier saved ([ fumier nom::non defini (7), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [235] (17 : 53 : 40 : 7873) -> new fumier saved ([ fumier nom::non defini (8), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [236] (17 : 53 : 40 : 7883) -> new fumier saved ([ fumier nom::non defini (9), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [237] (17 : 53 : 40 : 7883) -> new fumier saved ([ fumier nom::non defini (10), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [238] (17 : 53 : 40 : 7883) -> new fumier saved ([ fumier nom::non defini (11), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [239] (17 : 53 : 40 : 7893) -> new fumier saved ([ fumier nom::non defini (12), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [240] (17 : 53 : 40 : 7893) -> new fumier saved ([ fumier nom::non defini (13), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [241] (17 : 53 : 40 : 7893) -> new fumier saved ([ fumier nom::non defini (14), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [242] (17 : 53 : 40 : 7903) -> new fumier saved ([ fumier nom::non defini (15), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [243] (17 : 53 : 40 : 7903) -> new fumier saved ([ fumier nom::non defini (16), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [244] (17 : 53 : 40 : 7903) -> new fumier saved ([ fumier nom::non defini (17), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [245] (17 : 53 : 40 : 7913) -> new fumier saved ([ fumier nom::non defini (18), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [246] (17 : 53 : 40 : 7913) -> new fumier saved ([ fumier nom::non defini (19), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [247] (17 : 53 : 40 : 7913) -> new fumier saved ([ fumier nom::non defini (20), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [248] (17 : 53 : 40 : 7923) -> new fumier saved ([ fumier nom::non defini (21), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [249] (17 : 53 : 40 : 7923) -> new fumier saved ([ fumier nom::non defini (22), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [250] (17 : 53 : 40 : 7943) -> new fumier saved ([ fumier nom::non defini (23), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [251] (17 : 53 : 40 : 7953) -> new fumier saved ([ fumier nom::non defini (24), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [252] (17 : 53 : 40 : 7953) -> new fumier saved ([ fumier nom::non defini (25), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [253] (17 : 53 : 40 : 7953) -> new fumier saved ([ fumier nom::non defini (26), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [254] (17 : 53 : 40 : 7963) -> new fumier saved ([ fumier nom::non defini (27), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [255] (17 : 53 : 40 : 7963) -> new fumier saved ([ fumier nom::non defini (28), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [256] (17 : 53 : 40 : 7963) -> new fumier saved ([ fumier nom::non defini (29), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [257] (17 : 53 : 40 : 7973) -> new fumier saved ([ fumier nom::non defini (30), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [258] (17 : 53 : 40 : 7973) -> new fumier saved ([ fumier nom::non defini (31), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [259] (17 : 53 : 40 : 7973) -> new fumier saved ([ fumier nom::non defini (32), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [260] (17 : 53 : 40 : 7983) -> new fumier saved ([ fumier nom::non defini (33), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [261] (17 : 53 : 40 : 7983) -> new fumier saved ([ fumier nom::non defini (34), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [262] (17 : 53 : 40 : 7983) -> new fumier saved ([ fumier nom::non defini (35), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [263] (17 : 53 : 40 : 7993) -> new fumier saved ([ fumier nom::non defini (36), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [264] (17 : 53 : 40 : 7993) -> new fumier saved ([ fumier nom::non defini (37), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [265] (17 : 53 : 40 : 7993) -> new fumier saved ([ fumier nom::non defini (38), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [266] (17 : 53 : 40 : 8003) -> new fumier saved ([ fumier nom::non defini (39), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [267] (17 : 53 : 40 : 8003) -> new fumier saved ([ fumier nom::non defini (40), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [268] (17 : 53 : 40 : 8003) -> new fumier saved ([ fumier nom::non defini (41), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [269] (17 : 53 : 40 : 8013) -> new fumier saved ([ fumier nom::non defini (42), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [270] (17 : 53 : 40 : 8013) -> new fumier saved ([ fumier nom::non defini (43), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [271] (17 : 53 : 40 : 8013) -> new fumier saved ([ fumier nom::non defini (44), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [272] (17 : 53 : 40 : 8023) -> new fumier saved ([ fumier nom::non defini (45), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [273] (17 : 53 : 40 : 8023) -> new fumier saved ([ fumier nom::non defini (46), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [274] (17 : 53 : 40 : 8023) -> new fumier saved ([ fumier nom::non defini (1), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [275] (17 : 53 : 40 : 8033) -> new fumier saved ([ fumier nom::non defini (2), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [276] (17 : 53 : 40 : 8033) -> new fumier saved ([ fumier nom::non defini (3), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [277] (17 : 53 : 40 : 8033) -> new fumier saved ([ fumier nom::non defini (4), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [278] (17 : 53 : 40 : 8043) -> new fumier saved ([ fumier nom::non defini (5), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [279] (17 : 53 : 40 : 8043) -> new fumier saved ([ fumier nom::non defini (6), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [280] (17 : 53 : 40 : 8043) -> new fumier saved ([ fumier nom::non defini (7), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [281] (17 : 53 : 40 : 8053) -> new fumier saved ([ fumier nom::non defini (8), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [282] (17 : 53 : 40 : 8053) -> new fumier saved ([ fumier nom::non defini (9), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [283] (17 : 53 : 40 : 8053) -> new fumier saved ([ fumier nom::non defini (10), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [284] (17 : 53 : 40 : 8063) -> new fumier saved ([ fumier nom::non defini (11), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [285] (17 : 53 : 40 : 8063) -> new fumier saved ([ fumier nom::non defini (12), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [286] (17 : 53 : 40 : 8063) -> new fumier saved ([ fumier nom::non defini (13), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [287] (17 : 53 : 40 : 8073) -> new fumier saved ([ fumier nom::non defini (14), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [288] (17 : 53 : 40 : 8073) -> new fumier saved ([ fumier nom::non defini (15), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [289] (17 : 53 : 40 : 8073) -> new fumier saved ([ fumier nom::non defini (16), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [290] (17 : 53 : 40 : 8083) -> new fumier saved ([ fumier nom::non defini (17), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [291] (17 : 53 : 40 : 8083) -> new fumier saved ([ fumier nom::non defini (18), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [292] (17 : 53 : 40 : 8083) -> new fumier saved ([ fumier nom::non defini (19), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [293] (17 : 53 : 40 : 8093) -> new fumier saved ([ fumier nom::non defini (20), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [294] (17 : 53 : 40 : 8093) -> new fumier saved ([ fumier nom::non defini (21), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [295] (17 : 53 : 40 : 8093) -> new fumier saved ([ fumier nom::non defini (22), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [296] (17 : 53 : 40 : 8103) -> new fumier saved ([ fumier nom::non defini (23), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [297] (17 : 53 : 40 : 8103) -> new fumier saved ([ fumier nom::non defini (24), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [298] (17 : 53 : 40 : 8103) -> new fumier saved ([ fumier nom::non defini (25), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [299] (17 : 53 : 40 : 8113) -> new fumier saved ([ fumier nom::non defini (26), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [300] (17 : 53 : 40 : 8113) -> new fumier saved ([ fumier nom::non defini (27), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [301] (17 : 53 : 40 : 8113) -> new fumier saved ([ fumier nom::non defini (28), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [302] (17 : 53 : 40 : 8123) -> new fumier saved ([ fumier nom::non defini (29), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [303] (17 : 53 : 40 : 8123) -> new fumier saved ([ fumier nom::non defini (30), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [304] (17 : 53 : 40 : 8123) -> new fumier saved ([ fumier nom::non defini (31), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [305] (17 : 53 : 40 : 8133) -> new fumier saved ([ fumier nom::non defini (32), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [306] (17 : 53 : 40 : 8133) -> new fumier saved ([ fumier nom::non defini (33), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [307] (17 : 53 : 40 : 8133) -> new fumier saved ([ fumier nom::non defini (34), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [308] (17 : 53 : 40 : 8143) -> new fumier saved ([ fumier nom::non defini (35), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [309] (17 : 53 : 40 : 8143) -> new fumier saved ([ fumier nom::non defini (36), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [310] (17 : 53 : 40 : 8143) -> new fumier saved ([ fumier nom::non defini (37), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [311] (17 : 53 : 40 : 8153) -> new fumier saved ([ fumier nom::non defini (38), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [312] (17 : 53 : 40 : 8153) -> new fumier saved ([ fumier nom::non defini (39), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [313] (17 : 53 : 40 : 8163) -> new fumier saved ([ fumier nom::non defini (40), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [314] (17 : 53 : 40 : 8163) -> new fumier saved ([ fumier nom::non defini (41), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [315] (17 : 53 : 40 : 8163) -> new fumier saved ([ fumier nom::non defini (42), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [316] (17 : 53 : 40 : 8173) -> new fumier saved ([ fumier nom::non defini (43), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [317] (17 : 53 : 40 : 8173) -> new fumier saved ([ fumier nom::non defini (44), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [318] (17 : 53 : 40 : 8173) -> new fumier saved ([ fumier nom::non defini (45), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [319] (17 : 53 : 40 : 8183) -> new fumier saved ([ fumier nom::non defini (46), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [320] (17 : 53 : 40 : 8183) -> new fumier saved ([ fumier nom::non defini (47), poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [321] (17 : 53 : 43 : 6153) -> Show BLModifWin _win_
+LOG [322] (17 : 53 : 43 : 6153) -> BOX #NOT_IMPLEMENTED
+LOG [323] (17 : 53 : 45 : 6034) -> STOP application.

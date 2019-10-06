@@ -1,0 +1,6 @@
+LOGS :: 
+index 0 ! -> a
+index 1 ! -> 0
+index 2 ! -> 0
+index 3 ! -> 0
+index 4 ! -> 0

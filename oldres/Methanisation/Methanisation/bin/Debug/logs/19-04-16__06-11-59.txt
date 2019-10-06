@@ -1,0 +1,35 @@
+LOG [0] (18 : 11 : 59 : 5052) -> LOGS METHANISATION APP (logs\19-04-16__06-11-59.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 11 : 59 : 504272~~ >> 
+LOG [1] (18 : 11 : 59 : 5052) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 11 : 59 : 5062) -> Application.EnableVisualStyles()
+LOG [3] (18 : 11 : 59 : 5072) -> success
+LOG [4] (18 : 11 : 59 : 5082) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 11 : 59 : 5082) -> success
+LOG [6] (18 : 11 : 59 : 5092) -> INIT...
+LOG [7] (18 : 11 : 59 : 5092) -> Lists...
+LOG [8] (18 : 11 : 59 : 5122) -> OK
+LOG [9] (18 : 11 : 59 : 5122) -> Objects...
+LOG [10] (18 : 11 : 59 : 6162) -> OK
+LOG [11] (18 : 11 : 59 : 6172) -> Delegates...
+LOG [12] (18 : 11 : 59 : 6172) -> OK
+LOG [13] (18 : 11 : 59 : 6182) -> INIT end
+LOG [14] (18 : 11 : 59 : 6182) -> Loading lists...
+LOG [15] (18 : 11 : 59 : 7043) -> Application.Run(new MainForm())
+LOG [16] (18 : 12 : 01 : 1186) -> Show BLWin _win_
+LOG [17] (18 : 12 : 03 : 4549) -> MSG_BOX #INFO > BON DE LIVRAISON #4B9 <NOM_defaut_GV2TID34M> du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 18 h 12 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [18] (18 : 12 : 09 : 6085) -> saving..
+LOG [19] (18 : 12 : 16 : 7954) -> Show BLWin _win_
+LOG [20] (18 : 12 : 19 : 2500) -> MSG_BOX #INFO > BON DE LIVRAISON #4BA <NOM_defaut_VKURMX0OC> du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 18 h 12 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [21] (18 : 12 : 19 : 6135) -> saving..
+LOG [22] (18 : 12 : 20 : 7108) -> MSG_BOX #INFO > BON DE LIVRAISON #4BB <NOM_defaut_VKURMX0OC> du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 18 h 12 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [23] (18 : 12 : 29 : 6047) -> saving..
+LOG [24] (18 : 12 : 39 : 6128) -> saving..
+LOG [25] (18 : 12 : 49 : 6137) -> saving..
+LOG [26] (18 : 12 : 59 : 6072) -> saving..
+LOG [27] (18 : 13 : 09 : 6056) -> saving..
+LOG [28] (18 : 13 : 16 : 6850) -> START finish with success result.
+LOG [29] (18 : 13 : 16 : 6860) -> Saving lists...
+LOG [30] (18 : 13 : 16 : 6860) -> saving..
+LOG [31] (18 : 13 : 16 : 6920) -> Application stopping...
+LOG [32] (18 : 13 : 16 : 6920) -> Closing opened forms...
+LOG [33] (18 : 13 : 16 : 6930) -> application STOPED.

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBonLivraison xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BonLivraison>
+    <Description>&lt;description indéfinie&gt;</Description>
+    <DateDeLivraison>0001-01-01T00:00:00</DateDeLivraison>
+    <DateDeCreation>0001-01-01T00:00:00</DateDeCreation>
+    <Exploitation>
+      <Nom>&lt;nom indéfini&gt;</Nom>
+      <Adresse>&lt;adresse indéfinie&gt;</Adresse>
+      <Exploitants>&lt;exploitant(e)(s) indéfini(e)(s)&gt;</Exploitants>
+    </Exploitation>
+    <Fumier>
+      <TxCh4>0</TxCh4>
+      <MSeche>0</MSeche>
+      <Poids>0</Poids>
+      <Nom>&lt;inconnu&gt;</Nom>
+      <Observations>&lt;aucune&gt;</Observations>
+      <Valeur>0</Valeur>
+    </Fumier>
+    <Chauffeur>
+      <Nom>&lt;nom non defini&gt;</Nom>
+      <Prenom>&lt;prenom non defini&gt;</Prenom>
+      <Description>&lt;description non définie&gt;</Description>
+    </Chauffeur>
+    <Observations>&lt;observations indéfinies&gt;</Observations>
+    <Remarques>&lt;remarques indéfinies&gt;</Remarques>
+  </BonLivraison>
+  <BonLivraison>
+    <Description>&lt;description indéfinie&gt;</Description>
+    <DateDeLivraison>0001-01-01T00:00:00</DateDeLivraison>
+    <DateDeCreation>0001-01-01T00:00:00</DateDeCreation>
+    <Exploitation>
+      <Nom>&lt;nom indéfini&gt;</Nom>
+      <Adresse>&lt;adresse indéfinie&gt;</Adresse>
+      <Exploitants>&lt;exploitant(e)(s) indéfini(e)(s)&gt;</Exploitants>
+    </Exploitation>
+    <Fumier>
+      <TxCh4>0</TxCh4>
+      <MSeche>0</MSeche>
+      <Poids>0</Poids>
+      <Nom>&lt;inconnu&gt;</Nom>
+      <Observations>&lt;aucune&gt;</Observations>
+      <Valeur>0</Valeur>
+    </Fumier>
+    <Chauffeur>
+      <Nom>&lt;nom non defini&gt;</Nom>
+      <Prenom>&lt;prenom non defini&gt;</Prenom>
+      <Description>&lt;description non définie&gt;</Description>
+    </Chauffeur>
+    <Observations>&lt;observations indéfinies&gt;</Observations>
+    <Remarques>&lt;remarques indéfinies&gt;</Remarques>
+  </BonLivraison>
+  <BonLivraison>
+    <Description>&lt;description indéfinie&gt;</Description>
+    <DateDeLivraison>0001-01-01T00:00:00</DateDeLivraison>
+    <DateDeCreation>0001-01-01T00:00:00</DateDeCreation>
+    <Exploitation>
+      <Nom>&lt;nom indéfini&gt;</Nom>
+      <Adresse>&lt;adresse indéfinie&gt;</Adresse>
+      <Exploitants>&lt;exploitant(e)(s) indéfini(e)(s)&gt;</Exploitants>
+    </Exploitation>
+    <Fumier>
+      <TxCh4>0</TxCh4>
+      <MSeche>0</MSeche>
+      <Poids>0</Poids>
+      <Nom>&lt;inconnu&gt;</Nom>
+      <Observations>&lt;aucune&gt;</Observations>
+      <Valeur>0</Valeur>
+    </Fumier>
+    <Chauffeur>
+      <Nom>&lt;nom non defini&gt;</Nom>
+      <Prenom>&lt;prenom non defini&gt;</Prenom>
+      <Description>&lt;description non définie&gt;</Description>
+    </Chauffeur>
+    <Observations>&lt;observations indéfinies&gt;</Observations>
+    <Remarques>&lt;remarques indéfinies&gt;</Remarques>
+  </BonLivraison>
+</ArrayOfBonLivraison>

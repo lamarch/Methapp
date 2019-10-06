@@ -1,0 +1,130 @@
+LOGS :: 
+Cpt rows -- 1 :: 1
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }
+item : 2/1
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=0 }
+item : 3/1
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=0 }
+item : 4/1
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=0 }
+item : 1/2
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }
+item : 2/2
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=1 }
+item : 3/2
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=1 }
+item : 4/2
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=1 }
+item : 1/3
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }
+item : 2/3
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=2 }
+item : 3/3
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=2 }
+item : 4/3
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=2 }
+item : 1/4
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=3 }
+item : 2/4
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=3 }
+item : 3/4
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=3 }
+item : 4/4
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=3 }
+item : 1/5
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=4 }
+item : 2/5
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=4 }
+item : 3/5
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=4 }
+item : 4/5
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=4 }
+item : 1/6
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=5 }
+item : 2/6
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=5 }
+item : 3/6
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=5 }
+item : 4/6
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=5 }
+item : 1/7
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=6 }
+item : 2/7
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=6 }
+item : 3/7
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=6 }
+item : 4/7
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=6 }
+item : 1/8
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=7 }
+item : 2/8
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=7 }
+item : 3/8
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=7 }
+item : 4/8
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=7 }
+item : 1/9
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=8 }
+item : 2/9
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=8 }
+item : 3/9
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=8 }
+item : 4/9
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=8 }
+item : 1/10
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=9 }
+item : 2/10
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=9 }
+item : 3/10
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=9 }
+item : 4/10
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=9 }
+item : 1/11
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=10 }
+item : 2/11
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=10 }
+item : 3/11
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=10 }
+item : 4/11
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=10 }
+item : 1/12
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=11 }
+item : 2/12
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=11 }
+item : 3/12
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=11 }
+item : 4/12
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=11 }
+item : 1/13
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=12 }
+item : 2/13
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=12 }
+item : 3/13
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=12 }
+item : 4/13
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=12 }
+item : 1/14
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=13 }
+item : 2/14
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=13 }
+item : 3/14
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=13 }
+item : 4/14
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=13 }
+item : 1/15
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=14 }
+item : 2/15
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=14 }
+item : 3/15
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=14 }
+item : 4/15
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=14 }
+item : 1/16
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=15 }
+item : 2/16
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=15 }
+item : 3/16
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=15 }
+item : 4/16
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=15 }

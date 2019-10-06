@@ -1,0 +1,55 @@
+LOG [0] (17 : 27 : 41 : 5006) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-27-41__499__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 27 : 41 : 500630 >> 
+LOG [1] (17 : 27 : 41 : 5016) -> START ::
+LOG [2] (17 : 27 : 41 : 5026) -> Init files & dir : 
+LOG [3] (17 : 27 : 41 : 5026) -> CREATE DIR
+LOG [4] (17 : 27 : 41 : 5036) -> success
+LOG [5] (17 : 27 : 41 : 5046) -> Application.EnableVisualStyles()
+LOG [6] (17 : 27 : 41 : 5056) -> success
+LOG [7] (17 : 27 : 41 : 5066) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 27 : 41 : 5136) -> success
+LOG [9] (17 : 27 : 41 : 5136) -> Application.Run(new MainForm())
+LOG [10] (17 : 27 : 41 : 5146) -> START finish with success result.
+LOG [11] (17 : 27 : 42 : 9752) -> Show CHF _win_
+LOG [12] (17 : 27 : 43 : 0462) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/5
+LOG [13] (17 : 27 : 43 : 0472) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/5
+LOG [14] (17 : 27 : 43 : 0482) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".) -> f# 3/5
+LOG [15] (17 : 27 : 43 : 0512) -> new chauffeur loaded (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".) -> f# 4/5
+LOG [16] (17 : 27 : 43 : 0512) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/5
+LOG [17] (17 : 27 : 46 : 5676) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [18] (17 : 27 : 46 : 5676) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [19] (17 : 27 : 46 : 5686) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [20] (17 : 27 : 46 : 5686) -> new chauffeur saved (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".)
+LOG [21] (17 : 27 : 46 : 5686) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [22] (17 : 27 : 46 : 5696) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [23] (17 : 27 : 46 : 5696) -> new chauffeur saved (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".)
+LOG [24] (17 : 27 : 46 : 5736) -> BOX #WARNING > la sauvegarde est ok!
+LOG [25] (17 : 27 : 47 : 9607) -> end save cancelFormClose = False
+LOG [26] (17 : 27 : 47 : 9607) -> Form closing
+LOG [27] (17 : 27 : 48 : 9271) -> Show CHF _win_
+LOG [28] (17 : 27 : 48 : 9331) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/7
+LOG [29] (17 : 27 : 48 : 9341) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/7
+LOG [30] (17 : 27 : 48 : 9341) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".) -> f# 3/7
+LOG [31] (17 : 27 : 48 : 9351) -> new chauffeur loaded (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".) -> f# 4/7
+LOG [32] (17 : 27 : 48 : 9351) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/7
+LOG [33] (17 : 27 : 48 : 9361) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 6/7
+LOG [34] (17 : 27 : 48 : 9371) -> new chauffeur loaded (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".) -> f# 7/7
+LOG [35] (17 : 28 : 01 : 0448) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [36] (17 : 28 : 01 : 0448) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [37] (17 : 28 : 01 : 0458) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [38] (17 : 28 : 01 : 0458) -> new chauffeur saved (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".)
+LOG [39] (17 : 28 : 01 : 0458) -> new chauffeur saved (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".)
+LOG [40] (17 : 28 : 01 : 0468) -> new chauffeur saved (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".)
+LOG [41] (17 : 28 : 01 : 0468) -> new chauffeur saved (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".)
+LOG [42] (17 : 28 : 01 : 0468) -> new chauffeur saved (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".)
+LOG [43] (17 : 28 : 01 : 0478) -> new chauffeur saved (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".)
+LOG [44] (17 : 28 : 01 : 0478) -> new chauffeur saved (CHAUFFEUR nom : non defini (10), prenom : non defini (10), description : "-".)
+LOG [45] (17 : 28 : 01 : 0478) -> new chauffeur saved (CHAUFFEUR nom : non defini (11), prenom : non defini (11), description : "-".)
+LOG [46] (17 : 28 : 01 : 0488) -> new chauffeur saved (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".)
+LOG [47] (17 : 28 : 01 : 0488) -> new chauffeur saved (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".)
+LOG [48] (17 : 28 : 01 : 0488) -> new chauffeur saved (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".)
+LOG [49] (17 : 28 : 01 : 0498) -> new chauffeur saved (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".)
+LOG [50] (17 : 28 : 01 : 0518) -> BOX #WARNING > la sauvegarde est ok!
+LOG [51] (17 : 28 : 02 : 3189) -> end save cancelFormClose = False
+LOG [52] (17 : 28 : 02 : 3199) -> Form closing
+LOG [53] (17 : 28 : 04 : 6936) -> STOP application.

@@ -1,0 +1,27 @@
+LOG [0] (10 : 56 : 12 : 9183) -> LOGS METHANISATION APP (logs\19-04-15__10-56-12.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 10 [+02:00 / +02:00] : 56 : 12 : 917379~~ >> 
+LOG [1] (10 : 56 : 12 : 9183) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (10 : 56 : 12 : 9193) -> INIT end
+LOG [3] (10 : 56 : 12 : 9193) -> Application.EnableVisualStyles()
+LOG [4] (10 : 56 : 12 : 9263) -> success
+LOG [5] (10 : 56 : 12 : 9273) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (10 : 56 : 12 : 9273) -> success
+LOG [7] (10 : 56 : 12 : 9283) -> Instanciation of MainForm object
+LOG [8] (10 : 56 : 13 : 0344) -> mainForm.Text = ...
+LOG [9] (10 : 56 : 13 : 0354) -> Loading lists...
+LOG [10] (10 : 56 : 38 : 6030) -> MSG_BOX #ERROR > Une erreur est survenue lors du chargement d'un fichier, message : " System.IO.FileNotFoundException: Le fichier 'C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\cfg\bl_id.txt' est introuvable.
+Nom de fichier : 'C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\cfg\bl_id.txt'
+   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   à System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   à System.IO.File.ReadAllText(String path)
+   à Methanisation.DataCore.LoadBL_ID() dans C:\Users\Xavier\source\repos\Methanisation\Methanisation\DataCore.cs:ligne 178 ". > OK
+LOG [11] (10 : 56 : 42 : 9411) -> MSG_BOX #ERROR > Une erreur est survenue lors de la lecture d'un fichier. > OK
+LOG [12] (10 : 56 : 43 : 0171) -> Application.Run(new MainForm())
+LOG [13] (10 : 56 : 45 : 7398) -> START finish with success result.
+LOG [14] (10 : 56 : 45 : 7408) -> Saving lists...
+LOG [15] (10 : 56 : 45 : 7478) -> Application stopping...
+LOG [16] (10 : 56 : 45 : 7478) -> Closing opened forms...
+LOG [17] (10 : 56 : 45 : 7488) -> application STOPED.

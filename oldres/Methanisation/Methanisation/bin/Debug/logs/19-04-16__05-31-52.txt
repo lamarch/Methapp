@@ -1,0 +1,23 @@
+LOG [0] (17 : 31 : 52 : 2886) -> LOGS METHANISATION APP (logs\19-04-16__05-31-52.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 17 [+02:00 / +02:00] : 31 : 52 : 287607~~ >> 
+LOG [1] (17 : 31 : 52 : 2896) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 31 : 52 : 2896) -> INIT LISTS...
+LOG [3] (17 : 31 : 52 : 2916) -> INIT end
+LOG [4] (17 : 31 : 52 : 2926) -> Application.EnableVisualStyles()
+LOG [5] (17 : 31 : 52 : 2936) -> success
+LOG [6] (17 : 31 : 52 : 2936) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (17 : 31 : 52 : 2946) -> success
+LOG [8] (17 : 31 : 52 : 2946) -> Instanciation of MainForm object
+LOG [9] (17 : 31 : 52 : 3666) -> mainForm.Text = ...
+LOG [10] (17 : 31 : 52 : 3666) -> Loading lists...
+LOG [11] (17 : 31 : 52 : 4736) -> Application.Run(new MainForm())
+LOG [12] (17 : 31 : 53 : 7559) -> Show BLWin _win_
+LOG [13] (17 : 31 : 56 : 9402) -> MSG_BOX #INFO > BON DE LIVRAISON #1DC 1DB du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 31 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [14] (17 : 32 : 00 : 5044) -> MSG_BOX #INFO > BON DE LIVRAISON #1DE 1DD du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 31 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [15] (17 : 32 : 04 : 2859) -> Show BLWin _win_
+LOG [16] (17 : 32 : 08 : 3239) -> ShowInExplorer()
+LOG [17] (17 : 32 : 15 : 9673) -> START finish with success result.
+LOG [18] (17 : 32 : 15 : 9683) -> Saving lists...
+LOG [19] (17 : 32 : 15 : 9733) -> Application stopping...
+LOG [20] (17 : 32 : 15 : 9733) -> Closing opened forms...
+LOG [21] (17 : 32 : 15 : 9733) -> application STOPED.

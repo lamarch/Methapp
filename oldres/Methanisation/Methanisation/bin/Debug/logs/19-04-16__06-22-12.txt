@@ -1,0 +1,28 @@
+LOG [0] (18 : 22 : 12 : 1445) -> LOGS METHANISATION APP (logs\19-04-16__06-22-12.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 22 : 12 : 143528~~ >> 
+LOG [1] (18 : 22 : 12 : 1445) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 22 : 12 : 1445) -> Application.EnableVisualStyles()
+LOG [3] (18 : 22 : 12 : 1456) -> success
+LOG [4] (18 : 22 : 12 : 1465) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 22 : 12 : 1465) -> success
+LOG [6] (18 : 22 : 12 : 1476) -> INIT...
+LOG [7] (18 : 22 : 12 : 1476) -> Lists...
+LOG [8] (18 : 22 : 12 : 1495) -> OK
+LOG [9] (18 : 22 : 12 : 1495) -> Objects...
+LOG [10] (18 : 22 : 12 : 2325) -> OK
+LOG [11] (18 : 22 : 12 : 2325) -> Delegates...
+LOG [12] (18 : 22 : 12 : 2335) -> OK
+LOG [13] (18 : 22 : 12 : 2335) -> INIT end
+LOG [14] (18 : 22 : 12 : 2335) -> Loading lists...
+LOG [15] (18 : 22 : 12 : 3945) -> Application.Run(new MainForm())
+LOG [16] (18 : 22 : 13 : 1250) -> Show BLWin _win_
+LOG [17] (18 : 22 : 22 : 2316) -> saving..
+LOG [18] (18 : 22 : 29 : 7950) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [19] (18 : 22 : 32 : 2386) -> saving..
+LOG [20] (18 : 22 : 34 : 9403) -> MSG_BOX #ERROR > Tout les champs ne sont pas correctement rempli ! > OK
+LOG [21] (18 : 22 : 39 : 3278) -> START finish with success result.
+LOG [22] (18 : 22 : 39 : 3288) -> Saving lists...
+LOG [23] (18 : 22 : 39 : 3288) -> saving..
+LOG [24] (18 : 22 : 39 : 3868) -> Application stopping...
+LOG [25] (18 : 22 : 39 : 3878) -> Closing opened forms...
+LOG [26] (18 : 22 : 39 : 3878) -> application STOPED.

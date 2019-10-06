@@ -1,0 +1,19 @@
+LOG [0] (11 : 26 : 46 : 4219) -> LOGS METHANISATION APP (logs\19-04-15__11-26-46.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 11 [+02:00 / +02:00] : 26 : 46 : 420949~~ >> 
+LOG [1] (11 : 26 : 46 : 4219) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 26 : 46 : 4229) -> INIT end
+LOG [3] (11 : 26 : 46 : 4229) -> Application.EnableVisualStyles()
+LOG [4] (11 : 26 : 46 : 4239) -> success
+LOG [5] (11 : 26 : 46 : 4239) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 26 : 46 : 4249) -> success
+LOG [7] (11 : 26 : 46 : 4249) -> Instanciation of MainForm object
+LOG [8] (11 : 26 : 46 : 4959) -> mainForm.Text = ...
+LOG [9] (11 : 26 : 46 : 4969) -> Loading lists...
+LOG [10] (11 : 26 : 55 : 5789) -> MSG_BOX #ERROR > Une erreur est survenue lors du chargement d'un fichier. > OK
+LOG [11] (11 : 26 : 58 : 2665) -> MSG_BOX #ERROR > Une erreur est survenue lors de la lecture d'un fichier. > OK
+LOG [12] (11 : 26 : 58 : 3425) -> Application.Run(new MainForm())
+LOG [13] (11 : 26 : 59 : 7077) -> START finish with success result.
+LOG [14] (11 : 26 : 59 : 7087) -> Saving lists...
+LOG [15] (11 : 26 : 59 : 7187) -> Application stopping...
+LOG [16] (11 : 26 : 59 : 7187) -> Closing opened forms...
+LOG [17] (11 : 26 : 59 : 7187) -> application STOPED.

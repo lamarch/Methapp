@@ -1,0 +1,3 @@
+LOG [0] (19:17:12) -> LOGS METHANISATION logs\lundi-8-avril-2019__19-17-12__184__.txt :: 
+LOG [0] (19:17:20) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (19:17:20) -> new exploitation saved (Methanisation.Exploitation)

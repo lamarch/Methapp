@@ -1,0 +1,31 @@
+LOG [0] (17 : 30 : 09 : 9862) -> LOGS METHANISATION APP (logs\19-04-16__05-30-09.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 17 [+02:00 / +02:00] : 30 : 09 : 985294~~ >> 
+LOG [1] (17 : 30 : 09 : 9872) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 30 : 09 : 9882) -> INIT LISTS...
+LOG [3] (17 : 30 : 09 : 9912) -> INIT end
+LOG [4] (17 : 30 : 09 : 9922) -> Application.EnableVisualStyles()
+LOG [5] (17 : 30 : 09 : 9932) -> success
+LOG [6] (17 : 30 : 09 : 9942) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (17 : 30 : 09 : 9942) -> success
+LOG [8] (17 : 30 : 10 : 0012) -> Instanciation of MainForm object
+LOG [9] (17 : 30 : 10 : 0763) -> mainForm.Text = ...
+LOG [10] (17 : 30 : 10 : 0773) -> Loading lists...
+LOG [11] (17 : 30 : 10 : 1593) -> Application.Run(new MainForm())
+LOG [12] (17 : 30 : 11 : 2615) -> Show BLWin _win_
+LOG [13] (17 : 30 : 16 : 7786) -> MSG_BOX #INFO > BON DE LIVRAISON #1D4 1D3 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 30 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [14] (17 : 30 : 20 : 3322) -> MSG_BOX #WARNING > Le fichier C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\saves\1D3.xml n'éxiste plus, impossible de récupérer les informations. > OK
+LOG [15] (17 : 30 : 28 : 8795) -> MSG_BOX #ERROR > La sauvegarde du bon de livraison "1D3" a échouée. > OK
+LOG [16] (17 : 30 : 29 : 9712) -> MSG_BOX #INFO > BON DE LIVRAISON #1D6 1D5 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 30 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [17] (17 : 30 : 33 : 8569) -> MSG_BOX #WARNING > Le fichier C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\saves\1D3.xml n'éxiste plus, impossible de récupérer les informations. > OK
+LOG [18] (17 : 30 : 34 : 9669) -> MSG_BOX #ERROR > La sauvegarde du bon de livraison "1D3" a échouée. > OK
+LOG [19] (17 : 30 : 35 : 9291) -> MSG_BOX #WARNING > Le fichier C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\saves\1D5.xml n'éxiste plus, impossible de récupérer les informations. > OK
+LOG [20] (17 : 30 : 37 : 4388) -> MSG_BOX #ERROR > La sauvegarde du bon de livraison "1D5" a échouée. > OK
+LOG [21] (17 : 30 : 39 : 5953) -> START finish with success result.
+LOG [22] (17 : 30 : 39 : 5953) -> Saving lists...
+LOG [23] (17 : 30 : 43 : 6183) -> MSG_BOX #WARNING > Le fichier C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\saves\1D3.xml n'éxiste plus, impossible de récupérer les informations. > OK
+LOG [24] (17 : 30 : 46 : 2614) -> MSG_BOX #ERROR > La sauvegarde du bon de livraison "1D3" a échouée. > OK
+LOG [25] (17 : 30 : 47 : 5017) -> MSG_BOX #WARNING > Le fichier C:\Users\Xavier\source\repos\Methanisation\Methanisation\bin\Debug\saves\1D5.xml n'éxiste plus, impossible de récupérer les informations. > OK
+LOG [26] (17 : 30 : 48 : 3931) -> MSG_BOX #ERROR > La sauvegarde du bon de livraison "1D5" a échouée. > OK
+LOG [27] (17 : 30 : 48 : 3951) -> Application stopping...
+LOG [28] (17 : 30 : 48 : 3961) -> Closing opened forms...
+LOG [29] (17 : 30 : 48 : 3961) -> application STOPED.

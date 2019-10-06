@@ -1,0 +1,25 @@
+LOG [0] (14 : 22 : 26 : 4830) -> LOGS METHANISATION APP (logs\19-04-14__02-22-26.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 22 : 26 : 482020~~ >> 
+LOG [1] (14 : 22 : 26 : 4850) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (14 : 22 : 26 : 4860) -> INIT end
+LOG [3] (14 : 22 : 26 : 4860) -> Application.EnableVisualStyles()
+LOG [4] (14 : 22 : 26 : 4870) -> success
+LOG [5] (14 : 22 : 26 : 4880) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (14 : 22 : 26 : 4890) -> success
+LOG [7] (14 : 22 : 26 : 4890) -> Instanciation of MainForm object
+LOG [8] (14 : 22 : 26 : 5710) -> mainForm.Text = ...
+LOG [9] (14 : 22 : 26 : 5720) -> Loading lists...
+LOG [10] (14 : 22 : 26 : 6730) -> Application.Run(new MainForm())
+LOG [11] (14 : 22 : 28 : 2361) -> Show CHF _win_
+LOG [12] (14 : 22 : 29 : 5765) -> Form closing
+LOG [13] (14 : 22 : 29 : 5775) -> Waiting form closing
+LOG [14] (14 : 22 : 31 : 4602) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [15] (14 : 22 : 32 : 1579) -> Show CHF _win_
+LOG [16] (14 : 22 : 33 : 0184) -> Form closing
+LOG [17] (14 : 22 : 33 : 0184) -> Waiting form closing
+LOG [18] (14 : 22 : 33 : 8429) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [19] (14 : 22 : 34 : 6640) -> START finish with success result.
+LOG [20] (14 : 22 : 34 : 6650) -> Saving lists...
+LOG [21] (14 : 22 : 34 : 6730) -> Application stopping...
+LOG [22] (14 : 22 : 34 : 6730) -> Closing opened forms...
+LOG [23] (14 : 22 : 34 : 6740) -> application STOPED.

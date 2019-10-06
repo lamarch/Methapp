@@ -1,0 +1,12 @@
+LOG [0] (16 : 48 : 23 : 8481) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__16-48-23__847__.txt)2019 -> avril (#04) -> mardi(#09) -> 16 [] [+02:00 / +02:00] : 48 : 23 : 847113 >> 
+LOG [1] (16 : 48 : 23 : 8481) -> START ::
+LOG [2] (16 : 48 : 23 : 8491) -> Init files & dir : 
+LOG [3] (16 : 48 : 23 : 8491) -> success
+LOG [4] (16 : 48 : 23 : 8501) -> Application.EnableVisualStyles()
+LOG [5] (16 : 48 : 23 : 8511) -> success
+LOG [6] (16 : 48 : 23 : 8521) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (16 : 48 : 23 : 8521) -> success
+LOG [8] (16 : 48 : 23 : 8531) -> Application.Run(new MainForm())
+LOG [9] (16 : 48 : 29 : 9425) -> success
+LOG [10] (16 : 48 : 29 : 9435) -> START finish with success result.

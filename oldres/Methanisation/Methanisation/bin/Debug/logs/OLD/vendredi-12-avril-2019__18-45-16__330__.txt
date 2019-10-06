@@ -1,0 +1,173 @@
+LOG [0] (18 : 45 : 16 : 3310) -> LOGS METHANISATION >>
+(logs\vendredi-12-avril-2019__18-45-16__330__.txt)2019 -> avril (#04) -> vendredi(#12) -> 18 [+02:00 / +02:00] : 45 : 16 : 331067 >> 
+LOG [1] (18 : 45 : 16 : 3320) -> application[version = " 0.0.37 "] STARTING ::
+LOG [2] (18 : 45 : 16 : 3330) -> Init files & dir : 
+LOG [3] (18 : 45 : 16 : 3330) -> CREATE DIR
+LOG [4] (18 : 45 : 16 : 3350) -> success
+LOG [5] (18 : 45 : 16 : 3350) -> Application.EnableVisualStyles()
+LOG [6] (18 : 45 : 16 : 3360) -> success
+LOG [7] (18 : 45 : 16 : 3370) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (18 : 45 : 16 : 3380) -> success
+LOG [9] (18 : 45 : 16 : 3390) -> Application.Run(new MainForm())
+LOG [10] (18 : 45 : 16 : 3390) -> Instanciation of MainForm object
+LOG [11] (18 : 45 : 16 : 4080) -> mainForm.Text = ...
+LOG [12] (18 : 45 : 16 : 4090) -> Loading lists...
+LOG [13] (18 : 45 : 16 : 5131) -> START finish with success result.
+LOG [14] (18 : 45 : 17 : 5181) -> Show Expl _win_
+LOG [15] (18 : 45 : 17 : 5311) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/17
+LOG [16] (18 : 45 : 17 : 5321) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/17
+LOG [17] (18 : 45 : 17 : 5331) -> new exploitation loaded (Methanisation.Exploitation) -> f# 3/17
+LOG [18] (18 : 45 : 17 : 5341) -> new exploitation loaded (Methanisation.Exploitation) -> f# 4/17
+LOG [19] (18 : 45 : 17 : 5351) -> new exploitation loaded (Methanisation.Exploitation) -> f# 5/17
+LOG [20] (18 : 45 : 17 : 5361) -> new exploitation loaded (Methanisation.Exploitation) -> f# 6/17
+LOG [21] (18 : 45 : 17 : 5361) -> new exploitation loaded (Methanisation.Exploitation) -> f# 7/17
+LOG [22] (18 : 45 : 17 : 5371) -> new exploitation loaded (Methanisation.Exploitation) -> f# 8/17
+LOG [23] (18 : 45 : 17 : 5381) -> new exploitation loaded (Methanisation.Exploitation) -> f# 9/17
+LOG [24] (18 : 45 : 17 : 5391) -> new exploitation loaded (Methanisation.Exploitation) -> f# 10/17
+LOG [25] (18 : 45 : 17 : 5401) -> new exploitation loaded (Methanisation.Exploitation) -> f# 11/17
+LOG [26] (18 : 45 : 17 : 5401) -> new exploitation loaded (Methanisation.Exploitation) -> f# 12/17
+LOG [27] (18 : 45 : 17 : 5411) -> new exploitation loaded (Methanisation.Exploitation) -> f# 13/17
+LOG [28] (18 : 45 : 17 : 5421) -> new exploitation loaded (Methanisation.Exploitation) -> f# 14/17
+LOG [29] (18 : 45 : 17 : 5431) -> new exploitation loaded (Methanisation.Exploitation) -> f# 15/17
+LOG [30] (18 : 45 : 17 : 5441) -> new exploitation loaded (Methanisation.Exploitation) -> f# 16/17
+LOG [31] (18 : 45 : 17 : 5441) -> new exploitation loaded (Methanisation.Exploitation) -> f# 17/17
+LOG [32] (18 : 45 : 25 : 9364) -> Form closing
+LOG [33] (18 : 45 : 25 : 9374) -> Waiting form closing
+LOG [34] (18 : 45 : 25 : 9374) -> BOX #WARNING > Voulez-vous sauvegarder avant de quitter ?
+LOG [35] (18 : 45 : 26 : 8313) -> new exploitation saved (Methanisation.Exploitation)
+LOG [36] (18 : 45 : 26 : 8323) -> new exploitation saved (Methanisation.Exploitation)
+LOG [37] (18 : 45 : 26 : 8323) -> new exploitation saved (Methanisation.Exploitation)
+LOG [38] (18 : 45 : 26 : 8323) -> new exploitation saved (Methanisation.Exploitation)
+LOG [39] (18 : 45 : 26 : 8333) -> new exploitation saved (Methanisation.Exploitation)
+LOG [40] (18 : 45 : 26 : 8333) -> new exploitation saved (Methanisation.Exploitation)
+LOG [41] (18 : 45 : 26 : 8333) -> new exploitation saved (Methanisation.Exploitation)
+LOG [42] (18 : 45 : 26 : 8353) -> new exploitation saved (Methanisation.Exploitation)
+LOG [43] (18 : 45 : 26 : 8363) -> new exploitation saved (Methanisation.Exploitation)
+LOG [44] (18 : 45 : 26 : 8363) -> new exploitation saved (Methanisation.Exploitation)
+LOG [45] (18 : 45 : 26 : 8373) -> new exploitation saved (Methanisation.Exploitation)
+LOG [46] (18 : 45 : 26 : 8373) -> new exploitation saved (Methanisation.Exploitation)
+LOG [47] (18 : 45 : 26 : 8373) -> new exploitation saved (Methanisation.Exploitation)
+LOG [48] (18 : 45 : 26 : 8383) -> new exploitation saved (Methanisation.Exploitation)
+LOG [49] (18 : 45 : 26 : 8383) -> new exploitation saved (Methanisation.Exploitation)
+LOG [50] (18 : 45 : 26 : 8393) -> new exploitation saved (Methanisation.Exploitation)
+LOG [51] (18 : 45 : 26 : 8393) -> new exploitation saved (Methanisation.Exploitation)
+LOG [52] (18 : 45 : 26 : 8393) -> new exploitation saved (Methanisation.Exploitation)
+LOG [53] (18 : 45 : 26 : 8403) -> new exploitation saved (Methanisation.Exploitation)
+LOG [54] (18 : 45 : 26 : 8403) -> new exploitation saved (Methanisation.Exploitation)
+LOG [55] (18 : 45 : 26 : 8403) -> new exploitation saved (Methanisation.Exploitation)
+LOG [56] (18 : 45 : 26 : 8413) -> new exploitation saved (Methanisation.Exploitation)
+LOG [57] (18 : 45 : 27 : 6494) -> Show Expl _win_
+LOG [58] (18 : 45 : 27 : 6604) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/22
+LOG [59] (18 : 45 : 27 : 6613) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/22
+LOG [60] (18 : 45 : 27 : 6623) -> new exploitation loaded (Methanisation.Exploitation) -> f# 3/22
+LOG [61] (18 : 45 : 27 : 6623) -> new exploitation loaded (Methanisation.Exploitation) -> f# 4/22
+LOG [62] (18 : 45 : 27 : 6633) -> new exploitation loaded (Methanisation.Exploitation) -> f# 5/22
+LOG [63] (18 : 45 : 27 : 6643) -> new exploitation loaded (Methanisation.Exploitation) -> f# 6/22
+LOG [64] (18 : 45 : 27 : 6653) -> new exploitation loaded (Methanisation.Exploitation) -> f# 7/22
+LOG [65] (18 : 45 : 27 : 6663) -> new exploitation loaded (Methanisation.Exploitation) -> f# 8/22
+LOG [66] (18 : 45 : 27 : 6663) -> new exploitation loaded (Methanisation.Exploitation) -> f# 9/22
+LOG [67] (18 : 45 : 27 : 6673) -> new exploitation loaded (Methanisation.Exploitation) -> f# 10/22
+LOG [68] (18 : 45 : 27 : 6683) -> new exploitation loaded (Methanisation.Exploitation) -> f# 11/22
+LOG [69] (18 : 45 : 27 : 6693) -> new exploitation loaded (Methanisation.Exploitation) -> f# 12/22
+LOG [70] (18 : 45 : 27 : 6704) -> new exploitation loaded (Methanisation.Exploitation) -> f# 13/22
+LOG [71] (18 : 45 : 27 : 6704) -> new exploitation loaded (Methanisation.Exploitation) -> f# 14/22
+LOG [72] (18 : 45 : 27 : 6714) -> new exploitation loaded (Methanisation.Exploitation) -> f# 15/22
+LOG [73] (18 : 45 : 27 : 6724) -> new exploitation loaded (Methanisation.Exploitation) -> f# 16/22
+LOG [74] (18 : 45 : 27 : 6734) -> new exploitation loaded (Methanisation.Exploitation) -> f# 17/22
+LOG [75] (18 : 45 : 27 : 6734) -> new exploitation loaded (Methanisation.Exploitation) -> f# 18/22
+LOG [76] (18 : 45 : 27 : 6744) -> new exploitation loaded (Methanisation.Exploitation) -> f# 19/22
+LOG [77] (18 : 45 : 27 : 6754) -> new exploitation loaded (Methanisation.Exploitation) -> f# 20/22
+LOG [78] (18 : 45 : 27 : 6764) -> new exploitation loaded (Methanisation.Exploitation) -> f# 21/22
+LOG [79] (18 : 45 : 27 : 6774) -> new exploitation loaded (Methanisation.Exploitation) -> f# 22/22
+LOG [80] (18 : 45 : 35 : 9689) -> Form closing
+LOG [81] (18 : 45 : 35 : 9699) -> Waiting form closing
+LOG [82] (18 : 45 : 35 : 9699) -> BOX #WARNING > Voulez-vous sauvegarder avant de quitter ?
+LOG [83] (18 : 45 : 37 : 1042) -> new exploitation saved (Methanisation.Exploitation)
+LOG [84] (18 : 45 : 37 : 1052) -> new exploitation saved (Methanisation.Exploitation)
+LOG [85] (18 : 45 : 37 : 1052) -> new exploitation saved (Methanisation.Exploitation)
+LOG [86] (18 : 45 : 37 : 1052) -> new exploitation saved (Methanisation.Exploitation)
+LOG [87] (18 : 45 : 37 : 1062) -> new exploitation saved (Methanisation.Exploitation)
+LOG [88] (18 : 45 : 37 : 1062) -> new exploitation saved (Methanisation.Exploitation)
+LOG [89] (18 : 45 : 37 : 1062) -> new exploitation saved (Methanisation.Exploitation)
+LOG [90] (18 : 45 : 37 : 1072) -> new exploitation saved (Methanisation.Exploitation)
+LOG [91] (18 : 45 : 37 : 1072) -> new exploitation saved (Methanisation.Exploitation)
+LOG [92] (18 : 45 : 37 : 1072) -> new exploitation saved (Methanisation.Exploitation)
+LOG [93] (18 : 45 : 37 : 1082) -> new exploitation saved (Methanisation.Exploitation)
+LOG [94] (18 : 45 : 37 : 1082) -> new exploitation saved (Methanisation.Exploitation)
+LOG [95] (18 : 45 : 37 : 1092) -> new exploitation saved (Methanisation.Exploitation)
+LOG [96] (18 : 45 : 37 : 1092) -> new exploitation saved (Methanisation.Exploitation)
+LOG [97] (18 : 45 : 37 : 1092) -> new exploitation saved (Methanisation.Exploitation)
+LOG [98] (18 : 45 : 37 : 1102) -> new exploitation saved (Methanisation.Exploitation)
+LOG [99] (18 : 45 : 37 : 1102) -> new exploitation saved (Methanisation.Exploitation)
+LOG [100] (18 : 45 : 37 : 1112) -> new exploitation saved (Methanisation.Exploitation)
+LOG [101] (18 : 45 : 37 : 1112) -> new exploitation saved (Methanisation.Exploitation)
+LOG [102] (18 : 45 : 37 : 1112) -> new exploitation saved (Methanisation.Exploitation)
+LOG [103] (18 : 45 : 37 : 1122) -> new exploitation saved (Methanisation.Exploitation)
+LOG [104] (18 : 45 : 37 : 1122) -> new exploitation saved (Methanisation.Exploitation)
+LOG [105] (18 : 45 : 37 : 1122) -> new exploitation saved (Methanisation.Exploitation)
+LOG [106] (18 : 45 : 37 : 1132) -> new exploitation saved (Methanisation.Exploitation)
+LOG [107] (18 : 45 : 37 : 1132) -> new exploitation saved (Methanisation.Exploitation)
+LOG [108] (18 : 45 : 37 : 1142) -> new exploitation saved (Methanisation.Exploitation)
+LOG [109] (18 : 45 : 37 : 1142) -> new exploitation saved (Methanisation.Exploitation)
+LOG [110] (18 : 45 : 37 : 9829) -> Show Expl _win_
+LOG [111] (18 : 45 : 37 : 9999) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/27
+LOG [112] (18 : 45 : 38 : 0009) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/27
+LOG [113] (18 : 45 : 38 : 0029) -> new exploitation loaded (Methanisation.Exploitation) -> f# 3/27
+LOG [114] (18 : 45 : 38 : 0029) -> new exploitation loaded (Methanisation.Exploitation) -> f# 4/27
+LOG [115] (18 : 45 : 38 : 0039) -> new exploitation loaded (Methanisation.Exploitation) -> f# 5/27
+LOG [116] (18 : 45 : 38 : 0049) -> new exploitation loaded (Methanisation.Exploitation) -> f# 6/27
+LOG [117] (18 : 45 : 38 : 0059) -> new exploitation loaded (Methanisation.Exploitation) -> f# 7/27
+LOG [118] (18 : 45 : 38 : 0069) -> new exploitation loaded (Methanisation.Exploitation) -> f# 8/27
+LOG [119] (18 : 45 : 38 : 0069) -> new exploitation loaded (Methanisation.Exploitation) -> f# 9/27
+LOG [120] (18 : 45 : 38 : 0079) -> new exploitation loaded (Methanisation.Exploitation) -> f# 10/27
+LOG [121] (18 : 45 : 38 : 0089) -> new exploitation loaded (Methanisation.Exploitation) -> f# 11/27
+LOG [122] (18 : 45 : 38 : 0099) -> new exploitation loaded (Methanisation.Exploitation) -> f# 12/27
+LOG [123] (18 : 45 : 38 : 0099) -> new exploitation loaded (Methanisation.Exploitation) -> f# 13/27
+LOG [124] (18 : 45 : 38 : 0109) -> new exploitation loaded (Methanisation.Exploitation) -> f# 14/27
+LOG [125] (18 : 45 : 38 : 0119) -> new exploitation loaded (Methanisation.Exploitation) -> f# 15/27
+LOG [126] (18 : 45 : 38 : 0129) -> new exploitation loaded (Methanisation.Exploitation) -> f# 16/27
+LOG [127] (18 : 45 : 38 : 0139) -> new exploitation loaded (Methanisation.Exploitation) -> f# 17/27
+LOG [128] (18 : 45 : 38 : 0149) -> new exploitation loaded (Methanisation.Exploitation) -> f# 18/27
+LOG [129] (18 : 45 : 38 : 0159) -> new exploitation loaded (Methanisation.Exploitation) -> f# 19/27
+LOG [130] (18 : 45 : 38 : 0159) -> new exploitation loaded (Methanisation.Exploitation) -> f# 20/27
+LOG [131] (18 : 45 : 38 : 0169) -> new exploitation loaded (Methanisation.Exploitation) -> f# 21/27
+LOG [132] (18 : 45 : 38 : 0179) -> new exploitation loaded (Methanisation.Exploitation) -> f# 22/27
+LOG [133] (18 : 45 : 38 : 0189) -> new exploitation loaded (Methanisation.Exploitation) -> f# 23/27
+LOG [134] (18 : 45 : 38 : 0199) -> new exploitation loaded (Methanisation.Exploitation) -> f# 24/27
+LOG [135] (18 : 45 : 38 : 0209) -> new exploitation loaded (Methanisation.Exploitation) -> f# 25/27
+LOG [136] (18 : 45 : 38 : 0219) -> new exploitation loaded (Methanisation.Exploitation) -> f# 26/27
+LOG [137] (18 : 45 : 38 : 0219) -> new exploitation loaded (Methanisation.Exploitation) -> f# 27/27
+LOG [138] (18 : 45 : 43 : 0999) -> Form closing
+LOG [139] (18 : 45 : 43 : 0999) -> Waiting form closing
+LOG [140] (18 : 45 : 43 : 1009) -> BOX #WARNING > Voulez-vous sauvegarder avant de quitter ?
+LOG [141] (18 : 45 : 44 : 5342) -> new exploitation saved (Methanisation.Exploitation)
+LOG [142] (18 : 45 : 44 : 5362) -> new exploitation saved (Methanisation.Exploitation)
+LOG [143] (18 : 45 : 44 : 5362) -> new exploitation saved (Methanisation.Exploitation)
+LOG [144] (18 : 45 : 44 : 5362) -> new exploitation saved (Methanisation.Exploitation)
+LOG [145] (18 : 45 : 44 : 5372) -> new exploitation saved (Methanisation.Exploitation)
+LOG [146] (18 : 45 : 44 : 5372) -> new exploitation saved (Methanisation.Exploitation)
+LOG [147] (18 : 45 : 44 : 5382) -> new exploitation saved (Methanisation.Exploitation)
+LOG [148] (18 : 45 : 44 : 5382) -> new exploitation saved (Methanisation.Exploitation)
+LOG [149] (18 : 45 : 44 : 5382) -> new exploitation saved (Methanisation.Exploitation)
+LOG [150] (18 : 45 : 44 : 5392) -> new exploitation saved (Methanisation.Exploitation)
+LOG [151] (18 : 45 : 44 : 5392) -> new exploitation saved (Methanisation.Exploitation)
+LOG [152] (18 : 45 : 44 : 5392) -> new exploitation saved (Methanisation.Exploitation)
+LOG [153] (18 : 45 : 44 : 5402) -> new exploitation saved (Methanisation.Exploitation)
+LOG [154] (18 : 45 : 44 : 5402) -> new exploitation saved (Methanisation.Exploitation)
+LOG [155] (18 : 45 : 44 : 5402) -> new exploitation saved (Methanisation.Exploitation)
+LOG [156] (18 : 45 : 44 : 5412) -> new exploitation saved (Methanisation.Exploitation)
+LOG [157] (18 : 45 : 44 : 5412) -> new exploitation saved (Methanisation.Exploitation)
+LOG [158] (18 : 45 : 44 : 5412) -> new exploitation saved (Methanisation.Exploitation)
+LOG [159] (18 : 45 : 44 : 5422) -> new exploitation saved (Methanisation.Exploitation)
+LOG [160] (18 : 45 : 44 : 5422) -> new exploitation saved (Methanisation.Exploitation)
+LOG [161] (18 : 45 : 44 : 5422) -> new exploitation saved (Methanisation.Exploitation)
+LOG [162] (18 : 45 : 44 : 5432) -> new exploitation saved (Methanisation.Exploitation)
+LOG [163] (18 : 45 : 44 : 5432) -> new exploitation saved (Methanisation.Exploitation)
+LOG [164] (18 : 45 : 44 : 5432) -> new exploitation saved (Methanisation.Exploitation)
+LOG [165] (18 : 45 : 44 : 5442) -> new exploitation saved (Methanisation.Exploitation)
+LOG [166] (18 : 45 : 44 : 5442) -> new exploitation saved (Methanisation.Exploitation)
+LOG [167] (18 : 45 : 44 : 5442) -> new exploitation saved (Methanisation.Exploitation)
+LOG [168] (18 : 45 : 45 : 3682) -> Saving lists...
+LOG [169] (18 : 45 : 45 : 3802) -> Application stopping...
+LOG [170] (18 : 45 : 45 : 3812) -> Closing opened forms...
+LOG [171] (18 : 45 : 45 : 3812) -> application STOPED.

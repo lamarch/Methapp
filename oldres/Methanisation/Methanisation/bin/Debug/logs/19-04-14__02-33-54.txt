@@ -1,0 +1,33 @@
+LOG [0] (14 : 33 : 54 : 1619) -> LOGS METHANISATION APP (logs\19-04-14__02-33-54.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 33 : 54 : 160974~~ >> 
+LOG [1] (14 : 33 : 54 : 1629) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (14 : 33 : 54 : 1629) -> INIT end
+LOG [3] (14 : 33 : 54 : 1639) -> Application.EnableVisualStyles()
+LOG [4] (14 : 33 : 54 : 1649) -> success
+LOG [5] (14 : 33 : 54 : 1659) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (14 : 33 : 54 : 1669) -> success
+LOG [7] (14 : 33 : 54 : 1669) -> Instanciation of MainForm object
+LOG [8] (14 : 33 : 54 : 2469) -> mainForm.Text = ...
+LOG [9] (14 : 33 : 54 : 2479) -> Loading lists...
+LOG [10] (14 : 33 : 54 : 3530) -> Application.Run(new MainForm())
+LOG [11] (14 : 33 : 55 : 2983) -> Show CHF _win_
+LOG [12] (14 : 33 : 56 : 9396) -> Form closing
+LOG [13] (14 : 33 : 57 : 9197) -> Show CHF _win_
+LOG [14] (14 : 34 : 00 : 5614) -> Form closing
+LOG [15] (14 : 34 : 04 : 2246) -> Show CHF _win_
+LOG [16] (14 : 34 : 07 : 2768) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [17] (14 : 34 : 07 : 2768) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [18] (14 : 34 : 07 : 2778) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [19] (14 : 34 : 07 : 2778) -> new chauffeur saved (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".)
+LOG [20] (14 : 34 : 08 : 2661) -> Form closing
+LOG [21] (14 : 34 : 09 : 1602) -> Show CHF _win_
+LOG [22] (14 : 34 : 09 : 1662) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/4
+LOG [23] (14 : 34 : 09 : 1662) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/4
+LOG [24] (14 : 34 : 09 : 1672) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 3/4
+LOG [25] (14 : 34 : 09 : 1682) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 4/4
+LOG [26] (14 : 34 : 11 : 7668) -> Form closing
+LOG [27] (14 : 34 : 15 : 8475) -> START finish with success result.
+LOG [28] (14 : 34 : 15 : 8475) -> Saving lists...
+LOG [29] (14 : 34 : 15 : 8555) -> Application stopping...
+LOG [30] (14 : 34 : 15 : 8565) -> Closing opened forms...
+LOG [31] (14 : 34 : 15 : 8565) -> application STOPED.

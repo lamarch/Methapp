@@ -1,0 +1,36 @@
+LOG [0] (17 : 02 : 00 : 8639) -> LOGS METHANISATION APP (logs\19-04-14__05-02-00.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 17 [+02:00 / +02:00] : 02 : 00 : 863973~~ >> 
+LOG [1] (17 : 02 : 00 : 8649) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 02 : 00 : 8649) -> INIT end
+LOG [3] (17 : 02 : 00 : 8659) -> Application.EnableVisualStyles()
+LOG [4] (17 : 02 : 00 : 8669) -> success
+LOG [5] (17 : 02 : 00 : 8669) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (17 : 02 : 00 : 8679) -> success
+LOG [7] (17 : 02 : 00 : 8679) -> Instanciation of MainForm object
+LOG [8] (17 : 02 : 00 : 9403) -> mainForm.Text = ...
+LOG [9] (17 : 02 : 00 : 9403) -> Loading lists...
+LOG [10] (17 : 02 : 01 : 0293) -> Application.Run(new MainForm())
+LOG [11] (17 : 02 : 01 : 7884) -> Show BLWin _win_
+LOG [12] (17 : 02 : 08 : 9129) -> Show Expl _win_
+LOG [13] (17 : 02 : 08 : 9229) -> new exploitation loaded (exploitation #ID_defaut_1B1 - non défini à non definie (System.String[])) -> f# 1/1
+LOG [14] (17 : 02 : 11 : 9739) -> Form closing
+LOG [15] (17 : 02 : 11 : 9749) -> Waiting form closing because unsaved
+LOG [16] (17 : 02 : 13 : 1489) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [17] (17 : 02 : 13 : 1509) -> new exploitation saved (exploitation #ID_defaut_1B1 - non défini à non definie (System.String[]))
+LOG [18] (17 : 02 : 13 : 8471) -> Show Expl _win_
+LOG [19] (17 : 02 : 13 : 8511) -> new exploitation loaded (exploitation #ID_defaut_1B1 - non défini à non definie (System.String[])) -> f# 1/1
+LOG [20] (17 : 02 : 17 : 8204) -> new exploitation saved (exploitation #ID_defaut_220 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [21] (17 : 02 : 17 : 8214) -> new exploitation saved (exploitation #ID_defaut_342 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [22] (17 : 02 : 17 : 8214) -> new exploitation saved (exploitation #ID_defaut_A2F - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [23] (17 : 02 : 18 : 9411) -> Form closing
+LOG [24] (17 : 02 : 18 : 9418) -> Waiting form closing because unsaved
+LOG [25] (17 : 02 : 20 : 1061) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [26] (17 : 02 : 20 : 1061) -> new exploitation saved (exploitation #ID_defaut_904 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [27] (17 : 02 : 20 : 1071) -> new exploitation saved (exploitation #ID_defaut_B65 - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [28] (17 : 02 : 20 : 1071) -> new exploitation saved (exploitation #ID_defaut_D1C - nom inconnu à adresse inconnue (exploitant(s) inconn(s)))
+LOG [29] (17 : 02 : 23 : 0960) -> Show BLWin _win_
+LOG [30] (17 : 02 : 35 : 6964) -> START finish with success result.
+LOG [31] (17 : 02 : 35 : 6974) -> Saving lists...
+LOG [32] (17 : 02 : 35 : 7045) -> Application stopping...
+LOG [33] (17 : 02 : 35 : 7054) -> Closing opened forms...
+LOG [34] (17 : 02 : 35 : 7054) -> application STOPED.

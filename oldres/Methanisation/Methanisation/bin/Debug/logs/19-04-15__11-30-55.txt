@@ -1,0 +1,34 @@
+LOG [0] (11 : 30 : 55 : 4795) -> LOGS METHANISATION APP (logs\19-04-15__11-30-55.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 11 [+02:00 / +02:00] : 30 : 55 : 478577~~ >> 
+LOG [1] (11 : 30 : 55 : 4805) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 30 : 55 : 4805) -> INIT end
+LOG [3] (11 : 30 : 55 : 4805) -> Application.EnableVisualStyles()
+LOG [4] (11 : 30 : 55 : 4825) -> success
+LOG [5] (11 : 30 : 55 : 4825) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 30 : 55 : 4825) -> success
+LOG [7] (11 : 30 : 55 : 4835) -> Instanciation of MainForm object
+LOG [8] (11 : 30 : 55 : 5505) -> mainForm.Text = ...
+LOG [9] (11 : 30 : 55 : 5515) -> Loading lists...
+LOG [10] (11 : 30 : 58 : 6163) -> MSG_BOX #ERROR > Une erreur est survenue lors du chargement d'un fichier. > OK
+LOG [11] (11 : 31 : 00 : 0444) -> MSG_BOX #ERROR > Une erreur est survenue lors de la lecture d'un fichier. > OK
+LOG [12] (11 : 31 : 00 : 1214) -> Application.Run(new MainForm())
+LOG [13] (11 : 31 : 02 : 8515) -> Show BLWin _win_
+LOG [14] (11 : 31 : 13 : 0875) -> Show Expl _win_
+LOG [15] (11 : 31 : 13 : 0985) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/6
+LOG [16] (11 : 31 : 13 : 0995) -> new exploitation loaded (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/6
+LOG [17] (11 : 31 : 13 : 1005) -> new exploitation loaded (E #ID_defaut_D1C - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 3/6
+LOG [18] (11 : 31 : 13 : 1005) -> new exploitation loaded (E #ID_defaut_BE5 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 4/6
+LOG [19] (11 : 31 : 13 : 1015) -> new exploitation loaded (E #ID_defaut_D35 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 5/6
+LOG [20] (11 : 31 : 13 : 1025) -> new exploitation loaded (E #ID_defaut_1CD - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 6/6
+LOG [21] (11 : 31 : 16 : 3801) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [22] (11 : 31 : 16 : 3801) -> new exploitation saved (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)))
+LOG [23] (11 : 31 : 17 : 5283) -> Form closing
+LOG [24] (11 : 31 : 17 : 5292) -> Waiting form closing because unsaved
+LOG [25] (11 : 31 : 18 : 6932) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [26] (11 : 31 : 18 : 6942) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [27] (11 : 31 : 18 : 6942) -> new exploitation saved (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)))
+LOG [28] (11 : 31 : 19 : 5761) -> START finish with success result.
+LOG [29] (11 : 31 : 19 : 5771) -> Saving lists...
+LOG [30] (11 : 31 : 19 : 5851) -> Application stopping...
+LOG [31] (11 : 31 : 19 : 5861) -> Closing opened forms...
+LOG [32] (11 : 31 : 19 : 5861) -> application STOPED.

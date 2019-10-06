@@ -1,0 +1,35 @@
+LOGS :: 
+Cpt rows -- 1 :: 1
+item : 1/1
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }
+item : 2/1
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=0 }
+item : 3/1
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=0 }
+item : 4/1
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=0 }
+item : 1/2
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }
+item : 2/2
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=1 }
+item : 3/2
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=1 }
+item : 4/2
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=1 }
+item : 1/3
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }
+item : 2/3
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=2 }
+item : 3/3
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=2 }
+item : 4/3
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=2 }
+item : 1/4
+DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=3 }
+item : 2/4
+DataGridViewTextBoxCell { ColumnIndex=1, RowIndex=3 }
+item : 3/4
+DataGridViewTextBoxCell { ColumnIndex=2, RowIndex=3 }
+item : 4/4
+DataGridViewTextBoxCell { ColumnIndex=3, RowIndex=3 }
+Cpt rows -- 1 :: 12

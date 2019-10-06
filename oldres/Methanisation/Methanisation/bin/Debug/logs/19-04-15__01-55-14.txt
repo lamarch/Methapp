@@ -1,0 +1,26 @@
+LOG [0] (13 : 55 : 14 : 3264) -> LOGS METHANISATION APP (logs\19-04-15__01-55-14.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 13 [+02:00 / +02:00] : 55 : 14 : 326420~~ >> 
+LOG [1] (13 : 55 : 14 : 3274) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (13 : 55 : 14 : 3274) -> INIT end
+LOG [3] (13 : 55 : 14 : 3284) -> Application.EnableVisualStyles()
+LOG [4] (13 : 55 : 14 : 3294) -> success
+LOG [5] (13 : 55 : 14 : 3294) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (13 : 55 : 14 : 3304) -> success
+LOG [7] (13 : 55 : 14 : 3304) -> Instanciation of MainForm object
+LOG [8] (13 : 55 : 14 : 4014) -> mainForm.Text = ...
+LOG [9] (13 : 55 : 14 : 4014) -> Loading lists...
+LOG [10] (13 : 55 : 14 : 4924) -> Application.Run(new MainForm())
+LOG [11] (13 : 55 : 15 : 4136) -> Show Expl _win_
+LOG [12] (13 : 55 : 15 : 4326) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/2
+LOG [13] (13 : 55 : 15 : 4336) -> new exploitation loaded (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/2
+LOG [14] (13 : 55 : 16 : 9230) -> Form closing
+LOG [15] (13 : 55 : 16 : 9240) -> Waiting form closing because unsaved
+LOG [16] (13 : 55 : 18 : 1684) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [17] (13 : 55 : 18 : 1694) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [18] (13 : 55 : 18 : 1694) -> new exploitation saved (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)))
+LOG [19] (13 : 55 : 18 : 7265) -> Show BLWin _win_
+LOG [20] (13 : 55 : 22 : 1558) -> START finish with success result.
+LOG [21] (13 : 55 : 22 : 1568) -> Saving lists...
+LOG [22] (13 : 55 : 22 : 1688) -> Application stopping...
+LOG [23] (13 : 55 : 22 : 1708) -> Closing opened forms...
+LOG [24] (13 : 55 : 22 : 1718) -> application STOPED.

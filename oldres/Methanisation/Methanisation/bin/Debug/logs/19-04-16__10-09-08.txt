@@ -1,0 +1,19 @@
+LOG [0] (10 : 09 : 08 : 6955) -> LOGS METHANISATION APP (logs\19-04-16__10-09-08.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 10 [+02:00 / +02:00] : 09 : 08 : 694591~~ >> 
+LOG [1] (10 : 09 : 08 : 6955) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (10 : 09 : 08 : 6965) -> INIT end
+LOG [3] (10 : 09 : 08 : 6965) -> Application.EnableVisualStyles()
+LOG [4] (10 : 09 : 08 : 6975) -> success
+LOG [5] (10 : 09 : 08 : 6985) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (10 : 09 : 08 : 6985) -> success
+LOG [7] (10 : 09 : 08 : 6985) -> Instanciation of MainForm object
+LOG [8] (10 : 09 : 08 : 7666) -> mainForm.Text = ...
+LOG [9] (10 : 09 : 08 : 7666) -> Loading lists...
+LOG [10] (10 : 09 : 14 : 0928) -> MSG_BOX #INFO > bl 0 > OK
+LOG [11] (10 : 09 : 16 : 8380) -> MSG_BOX #ERROR > Une erreur est survenue lors de la lecture des id. > OK
+LOG [12] (10 : 09 : 16 : 9120) -> Application.Run(new MainForm())
+LOG [13] (10 : 09 : 17 : 9814) -> START finish with success result.
+LOG [14] (10 : 09 : 17 : 9814) -> Saving lists...
+LOG [15] (10 : 09 : 17 : 9934) -> Application stopping...
+LOG [16] (10 : 09 : 17 : 9944) -> Closing opened forms...
+LOG [17] (10 : 09 : 17 : 9944) -> application STOPED.

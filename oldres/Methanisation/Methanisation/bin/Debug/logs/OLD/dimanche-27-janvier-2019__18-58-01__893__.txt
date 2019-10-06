@@ -1,0 +1,2 @@
+LOGS :: 
+Cpt rows (==) -- r#1 :: f#1

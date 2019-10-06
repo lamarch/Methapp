@@ -1,0 +1,15 @@
+LOG [0] (14 : 32 : 12 : 0553) -> LOGS METHANISATION >>
+(logs\vendredi-12-avril-2019__14-32-12__54__.txt)2019 -> avril (#04) -> vendredi(#12) -> 14 [+02:00 / +02:00] : 32 : 12 : 055321 >> 
+LOG [1] (14 : 32 : 12 : 0563) -> application[version = " 0.0.37 "] STARTING ::
+LOG [2] (14 : 32 : 12 : 0563) -> Init files & dir : 
+LOG [3] (14 : 32 : 12 : 0573) -> CREATE DIR
+LOG [4] (14 : 32 : 12 : 0573) -> success
+LOG [5] (14 : 32 : 12 : 0583) -> Application.EnableVisualStyles()
+LOG [6] (14 : 32 : 12 : 0593) -> success
+LOG [7] (14 : 32 : 12 : 0603) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (14 : 32 : 12 : 0613) -> success
+LOG [9] (14 : 32 : 12 : 0613) -> Application.Run(new MainForm())
+LOG [10] (14 : 32 : 12 : 0623) -> START finish with success result.
+LOG [11] (14 : 32 : 38 : 0698) -> Application stopping...
+LOG [12] (14 : 32 : 38 : 0698) -> Closing opened forms...
+LOG [13] (14 : 32 : 38 : 0708) -> application STOPED.

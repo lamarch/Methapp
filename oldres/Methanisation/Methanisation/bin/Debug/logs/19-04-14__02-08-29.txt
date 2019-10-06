@@ -1,0 +1,14 @@
+LOG [6] (14 : 08 : 32 : 4805) -> 	success
+LOG [7] (14 : 08 : 32 : 4805) -> 	LOGS FILES -> Debug
+LOG [8] (14 : 08 : 32 : 4825) -> LOGS METHANISATION APP (logs\19-04-14__02-08-29.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 08 : 32 : 481580~~ >> 
+LOG [9] (14 : 08 : 32 : 4825) -> 	success
+LOG [10] (14 : 08 : 32 : 4825) -> Application.EnableVisualStyles()
+LOG [11] (14 : 08 : 32 : 4835) -> success
+LOG [12] (14 : 08 : 32 : 4845) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [13] (14 : 08 : 32 : 4845) -> success
+LOG [14] (14 : 08 : 32 : 4855) -> Instanciation of MainForm object
+LOG [15] (14 : 08 : 32 : 5425) -> mainForm.Text = ...
+LOG [16] (14 : 08 : 32 : 5435) -> Loading lists...
+LOG [17] (14 : 08 : 32 : 6236) -> Application.Run(new MainForm())
+LOG [18] (14 : 08 : 34 : 8979) -> Show BLWin _win_

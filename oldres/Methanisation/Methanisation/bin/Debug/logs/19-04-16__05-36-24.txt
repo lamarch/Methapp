@@ -1,0 +1,24 @@
+LOG [0] (17 : 36 : 24 : 3306) -> LOGS METHANISATION APP (logs\19-04-16__05-36-24.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 17 [+02:00 / +02:00] : 36 : 24 : 329693~~ >> 
+LOG [1] (17 : 36 : 24 : 3317) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (17 : 36 : 24 : 3317) -> INIT LISTS...
+LOG [3] (17 : 36 : 24 : 3337) -> INIT end
+LOG [4] (17 : 36 : 24 : 3347) -> Application.EnableVisualStyles()
+LOG [5] (17 : 36 : 24 : 3356) -> success
+LOG [6] (17 : 36 : 24 : 3356) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (17 : 36 : 24 : 3366) -> success
+LOG [8] (17 : 36 : 24 : 3376) -> Instanciation of MainForm object
+LOG [9] (17 : 36 : 24 : 4067) -> mainForm.Text = ...
+LOG [10] (17 : 36 : 24 : 4067) -> Loading lists...
+LOG [11] (17 : 36 : 24 : 5107) -> Application.Run(new MainForm())
+LOG [12] (17 : 36 : 25 : 5530) -> Show BLWin _win_
+LOG [13] (17 : 36 : 29 : 2676) -> MSG_BOX #INFO > BON DE LIVRAISON #1E2 1E1 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 36 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [14] (17 : 36 : 30 : 7806) -> MSG_BOX #INFO > BON DE LIVRAISON #1E4 1E3 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 36 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [15] (17 : 36 : 32 : 0609) -> MSG_BOX #INFO > BON DE LIVRAISON #1E6 1E5 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 36 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [16] (17 : 36 : 44 : 1727) -> MSG_BOX #INFO > BON DE LIVRAISON #1E8 1E7 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 36 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [17] (17 : 36 : 52 : 2216) -> MSG_BOX #INFO > BON DE LIVRAISON #1EA 1E9 du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 17 h 36 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [18] (17 : 36 : 58 : 1127) -> START finish with success result.
+LOG [19] (17 : 36 : 58 : 1127) -> Saving lists...
+LOG [20] (17 : 36 : 58 : 1207) -> Application stopping...
+LOG [21] (17 : 36 : 58 : 1217) -> Closing opened forms...
+LOG [22] (17 : 36 : 58 : 1217) -> application STOPED.

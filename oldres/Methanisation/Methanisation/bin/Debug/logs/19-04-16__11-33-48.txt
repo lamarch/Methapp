@@ -1,0 +1,24 @@
+LOG [0] (11 : 33 : 48 : 2395) -> LOGS METHANISATION APP (logs\19-04-16__11-33-48.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 33 : 48 : 239572~~ >> 
+LOG [1] (11 : 33 : 48 : 2405) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 33 : 48 : 2405) -> INIT LISTS...
+LOG [3] (11 : 33 : 49 : 3098) -> MSG_BOX #INFO > System.Collections.Generic.List`1[Methanisation.Fumier] > OK
+LOG [4] (11 : 33 : 49 : 3098) -> INIT end
+LOG [5] (11 : 33 : 49 : 3108) -> Application.EnableVisualStyles()
+LOG [6] (11 : 33 : 49 : 3118) -> success
+LOG [7] (11 : 33 : 49 : 3128) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (11 : 33 : 49 : 3138) -> success
+LOG [9] (11 : 33 : 49 : 3138) -> Instanciation of MainForm object
+LOG [10] (11 : 33 : 49 : 3838) -> mainForm.Text = ...
+LOG [11] (11 : 33 : 49 : 3838) -> Loading lists...
+LOG [12] (11 : 33 : 49 : 4778) -> Application.Run(new MainForm())
+LOG [13] (11 : 33 : 51 : 7660) -> Show Fumier _win_
+LOG [14] (11 : 33 : 53 : 0698) -> Form closing
+LOG [15] (11 : 33 : 53 : 0708) -> Waiting form closing because unsaved
+LOG [16] (11 : 33 : 54 : 0768) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [17] (11 : 33 : 57 : 4254) -> MSG_BOX #ERROR > Il y a eu une erreur, la sauvegarde n'a donc pas eu lieu. Corrigez les erreurs et réessayez  :  > OK
+LOG [18] (11 : 33 : 59 : 0535) -> START finish with success result.
+LOG [19] (11 : 33 : 59 : 0535) -> Saving lists...
+LOG [20] (11 : 33 : 59 : 0625) -> Application stopping...
+LOG [21] (11 : 33 : 59 : 0625) -> Closing opened forms...
+LOG [22] (11 : 33 : 59 : 0625) -> application STOPED.

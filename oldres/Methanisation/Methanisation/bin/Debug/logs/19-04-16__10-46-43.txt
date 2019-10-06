@@ -1,0 +1,8 @@
+LOG [0] (10 : 47 : 02 : 9986) -> LOGS METHANISATION APP (logs\19-04-16__10-46-43.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 10 [+02:00 / +02:00] : 46 : 59 : 283160~~ >> 
+LOG [1] (10 : 47 : 17 : 4770) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (10 : 47 : 18 : 8450) -> INIT end
+LOG [3] (10 : 47 : 19 : 5120) -> Application.EnableVisualStyles()
+LOG [4] (10 : 47 : 20 : 2091) -> success
+LOG [5] (10 : 47 : 20 : 7742) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (10 : 47 : 21 : 4769) -> success

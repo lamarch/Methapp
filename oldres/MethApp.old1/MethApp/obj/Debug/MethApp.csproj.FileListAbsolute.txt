@@ -1,0 +1,25 @@
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.exe.config
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.exe
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.pdb
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\App.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp_MarkupCompile.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp_MarkupCompile.lref
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.g.resources
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.Properties.Resources.resources
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.exe
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.pdb
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\PM-Utils.dll
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\PM-Utils.pdb
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csproj.CopyComplete
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\ModifBL.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\win_EXP.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\ModifBL.baml
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\win_EXP.baml
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MainWindow.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MainWindow.baml
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\user controls\DateTimePicker.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\user controls\DateTimePicker.baml
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\win_PARAM.g.cs
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\windows\win_PARAM.baml

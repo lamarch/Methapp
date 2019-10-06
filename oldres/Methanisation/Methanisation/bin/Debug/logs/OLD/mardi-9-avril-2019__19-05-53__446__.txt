@@ -1,0 +1,24 @@
+LOG [0] (19 : 05 : 53 : 4471) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__19-05-53__446__.txt)2019 -> avril (#04) -> mardi(#09) -> 19 [+02:00 / +02:00] : 05 : 53 : 447106 >> 
+LOG [1] (19 : 05 : 53 : 4481) -> START ::
+LOG [2] (19 : 05 : 53 : 4481) -> Init files & dir : 
+LOG [3] (19 : 05 : 53 : 4491) -> CREATE DIR
+LOG [4] (19 : 05 : 53 : 4491) -> success
+LOG [5] (19 : 05 : 53 : 4500) -> Application.EnableVisualStyles()
+LOG [6] (19 : 05 : 53 : 4500) -> success
+LOG [7] (19 : 05 : 53 : 4510) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (19 : 05 : 53 : 4581) -> success
+LOG [9] (19 : 05 : 53 : 4581) -> Application.Run(new MainForm())
+LOG [10] (19 : 05 : 53 : 4581) -> START finish with success result.
+LOG [11] (19 : 05 : 55 : 3983) -> Show CHF _win_
+LOG [12] (19 : 05 : 55 : 4103) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/5
+LOG [13] (19 : 05 : 55 : 4113) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/5
+LOG [14] (19 : 05 : 55 : 4123) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".) -> f# 3/5
+LOG [15] (19 : 05 : 55 : 4123) -> new chauffeur loaded (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".) -> f# 4/5
+LOG [16] (19 : 05 : 55 : 4133) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/5
+LOG [17] (19 : 06 : 05 : 8558) -> new chauffeur saved (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".)
+LOG [18] (19 : 06 : 05 : 8568) -> new chauffeur saved (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".)
+LOG [19] (19 : 06 : 05 : 8568) -> new chauffeur saved (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".)
+LOG [20] (19 : 06 : 05 : 8578) -> new chauffeur saved (CHAUFFEUR nom : test, prenom : ttdt, description : "t".)
+LOG [21] (19 : 06 : 05 : 8618) -> Form closing
+LOG [22] (19 : 06 : 06 : 8363) -> Show CHF _win_

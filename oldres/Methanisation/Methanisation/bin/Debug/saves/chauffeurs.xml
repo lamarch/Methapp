@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChauffeur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chauffeur>
+    <Nom>jean</Nom>
+    <Prenom>sqd</Prenom>
+    <Description>27ans</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+</ArrayOfChauffeur>

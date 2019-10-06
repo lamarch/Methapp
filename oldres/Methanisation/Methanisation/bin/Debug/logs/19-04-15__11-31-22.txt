@@ -1,0 +1,27 @@
+LOG [0] (11 : 31 : 22 : 5288) -> LOGS METHANISATION APP (logs\19-04-15__11-31-22.txt)>>
+~~2019 -> avril (#04) -> lundi(#15) -> 11 [+02:00 / +02:00] : 31 : 22 : 527803~~ >> 
+LOG [1] (11 : 31 : 22 : 5298) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 31 : 22 : 5298) -> INIT end
+LOG [3] (11 : 31 : 22 : 5298) -> Application.EnableVisualStyles()
+LOG [4] (11 : 31 : 22 : 5308) -> success
+LOG [5] (11 : 31 : 22 : 5318) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 31 : 22 : 5318) -> success
+LOG [7] (11 : 31 : 22 : 5328) -> Instanciation of MainForm object
+LOG [8] (11 : 31 : 22 : 6288) -> mainForm.Text = ...
+LOG [9] (11 : 31 : 22 : 6288) -> Loading lists...
+LOG [10] (11 : 31 : 24 : 4303) -> MSG_BOX #ERROR > Une erreur est survenue lors du chargement d'un fichier. > OK
+LOG [11] (11 : 31 : 25 : 8274) -> MSG_BOX #ERROR > Une erreur est survenue lors de la lecture d'un fichier. > OK
+LOG [12] (11 : 31 : 25 : 9064) -> Application.Run(new MainForm())
+LOG [13] (11 : 31 : 27 : 8245) -> Show Expl _win_
+LOG [14] (11 : 31 : 27 : 8335) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/2
+LOG [15] (11 : 31 : 27 : 8345) -> new exploitation loaded (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/2
+LOG [16] (11 : 31 : 29 : 6453) -> Form closing
+LOG [17] (11 : 31 : 29 : 6463) -> Waiting form closing because unsaved
+LOG [18] (11 : 31 : 30 : 8893) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [19] (11 : 31 : 30 : 8903) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [20] (11 : 31 : 30 : 8913) -> new exploitation saved (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)))
+LOG [21] (11 : 31 : 31 : 9314) -> START finish with success result.
+LOG [22] (11 : 31 : 31 : 9314) -> Saving lists...
+LOG [23] (11 : 31 : 31 : 9394) -> Application stopping...
+LOG [24] (11 : 31 : 31 : 9404) -> Closing opened forms...
+LOG [25] (11 : 31 : 31 : 9404) -> application STOPED.

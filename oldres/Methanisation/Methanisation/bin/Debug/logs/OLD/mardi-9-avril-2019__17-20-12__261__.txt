@@ -1,0 +1,39 @@
+LOG [0] (17 : 20 : 12 : 2632) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-20-12__261__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 20 : 12 : 262299 >> 
+LOG [1] (17 : 20 : 12 : 2632) -> START ::
+LOG [2] (17 : 20 : 12 : 2632) -> Init files & dir : 
+LOG [3] (17 : 20 : 12 : 2642) -> CREATE DIR
+LOG [4] (17 : 20 : 12 : 2652) -> success
+LOG [5] (17 : 20 : 12 : 2663) -> Application.EnableVisualStyles()
+LOG [6] (17 : 20 : 12 : 2673) -> success
+LOG [7] (17 : 20 : 12 : 2683) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 20 : 12 : 2693) -> success
+LOG [9] (17 : 20 : 12 : 2693) -> Application.Run(new MainForm())
+LOG [10] (17 : 20 : 12 : 2703) -> START finish with success result.
+LOG [11] (17 : 20 : 13 : 3245) -> Show CHF _win_
+LOG [12] (17 : 20 : 13 : 4055) -> new chauffeur loaded (CHAUFFEUR non defini (1) non defini (1) description-.) -> f# 1/3
+LOG [13] (17 : 20 : 13 : 4065) -> new chauffeur loaded (CHAUFFEUR non defini (2) non defini (2) description-.) -> f# 2/3
+LOG [14] (17 : 20 : 13 : 4075) -> new chauffeur loaded (CHAUFFEUR non defini (3) non defini (3) description-.) -> f# 3/3
+LOG [15] (17 : 20 : 16 : 1454) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [16] (17 : 20 : 16 : 1464) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest.
+LOG [17] (17 : 20 : 17 : 1784) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [18] (17 : 20 : 17 : 1794) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest.
+LOG [19] (17 : 20 : 17 : 6388) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [20] (17 : 20 : 17 : 6388) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest.
+LOG [21] (17 : 20 : 18 : 2032) -> BOX #WARNING > la sauvegarde est ok!
+LOG [22] (17 : 20 : 19 : 0500) -> end save cancelFormClose = False
+LOG [23] (17 : 20 : 19 : 0500) -> Form closing
+LOG [24] (17 : 20 : 22 : 7697) -> Show CHF _win_
+LOG [25] (17 : 20 : 22 : 7747) -> new chauffeur loaded (CHAUFFEUR nom non défini prenom non défini descriptiontest.) -> f# 1/3
+LOG [26] (17 : 20 : 22 : 7757) -> new chauffeur loaded (CHAUFFEUR nom non défini prenom non défini descriptiontest.) -> f# 2/3
+LOG [27] (17 : 20 : 22 : 7757) -> new chauffeur loaded (CHAUFFEUR nom non défini prenom non défini descriptiontest.) -> f# 3/3
+LOG [28] (17 : 20 : 24 : 3508) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [29] (17 : 20 : 24 : 3508) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest.
+LOG [30] (17 : 20 : 25 : 5344) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [31] (17 : 20 : 25 : 5354) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest.
+LOG [32] (17 : 20 : 25 : 6944) -> new chauffeur saved (CHAUFFEUR   descriptiontest.)
+LOG [33] (17 : 20 : 25 : 6954) -> BOX #WARNING > CHFs CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest. - CHAUFFEUR   descriptiontest.
+LOG [34] (17 : 20 : 25 : 8482) -> BOX #WARNING > la sauvegarde est ok!
+LOG [35] (17 : 20 : 26 : 5060) -> end save cancelFormClose = False
+LOG [36] (17 : 20 : 26 : 5070) -> Form closing
+LOG [37] (17 : 20 : 27 : 3204) -> STOP application.

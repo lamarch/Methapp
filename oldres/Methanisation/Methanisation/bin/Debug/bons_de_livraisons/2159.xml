@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BonLivraison xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>&lt;NOM_defaut_U3929TH06&gt;</Nom>
+  <LivraisonTime>2019-04-14T02:02:00</LivraisonTime>
+  <CreateTime>2019-05-17T18:58:47.5369454+02:00</CreateTime>
+  <Exploitation>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Adresse>&lt;adresse indéfinie&gt;</Adresse>
+    <Cle>&lt;ID_defaut_39C1&gt;</Cle>
+    <Exploitants>&lt;exploitant(e)(s) indéfini(e)(s)&gt;</Exploitants>
+  </Exploitation>
+  <Fumier>
+    <TxCh4>0</TxCh4>
+    <MSeche>0</MSeche>
+    <Poids>0</Poids>
+    <Nom>&lt;non défini&gt;</Nom>
+    <Valeur>0</Valeur>
+  </Fumier>
+  <Chauffeur>
+    <Nom>&lt;nom indéfini&gt;</Nom>
+    <Prenom>&lt;prenom indéfini&gt;</Prenom>
+    <Description>&lt;description indéfinie&gt;</Description>
+  </Chauffeur>
+</BonLivraison>

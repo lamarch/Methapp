@@ -1,0 +1,6 @@
+LOG [0] (18:16:35) -> LOGS METHANISATION logs\lundi-28-janvier-2019__18-16-35__238__.txt :: 
+LOG [0] (18:16:39) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 1/5
+LOG [0] (18:16:39) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 2/5
+LOG [0] (18:16:39) -> new fumier loaded ([ fumier nom::   al, poids::    0, mSeche::    4, txCh4::    0 ]) -> f# 3/5
+LOG [0] (18:16:39) -> new fumier loaded ([ fumier nom::465456, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ]) -> f# 4/5
+LOG [0] (18:16:39) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 5/5

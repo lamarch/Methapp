@@ -1,0 +1,29 @@
+LOG [0] (13:49:18) -> LOGS METHANISATION logs\lundi-8-avril-2019__13-49-18__246__.txt :: 
+LOG [0] (13:49:19) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ]) -> f# 1/4
+LOG [0] (13:49:19) -> new fumier loaded ([ fumier nom::   al, poids::  456, mSeche::    4, txCh4::    0 ]) -> f# 2/4
+LOG [0] (13:49:19) -> new fumier loaded ([ fumier nom::465456, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ]) -> f# 3/4
+LOG [0] (13:49:19) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/4
+LOG [0] (13:49:21) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:49:21) -> new fumier saved ([ fumier nom::   al, poids::  456, mSeche::    4, txCh4::    0 ])
+LOG [0] (13:49:21) -> new fumier saved ([ fumier nom::465456, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ])
+LOG [0] (13:49:21) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:10) -> new fumier saved ([ fumier nom::aizoduh, poids::7,845967E+18, mSeche::4,566512E+13, txCh4::    0 ])
+LOG [0] (13:50:10) -> new fumier saved ([ fumier nom::theyk, poids::  456, mSeche::    4, txCh4::    0 ])
+LOG [0] (13:50:10) -> new fumier saved ([ fumier nom::  azd, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ])
+LOG [0] (13:50:10) -> new fumier saved ([ fumier nom::  dsq, poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:10) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:14) -> new fumier loaded ([ fumier nom::aizoduh, poids::7,845967E+18, mSeche::4,566512E+13, txCh4::    0 ]) -> f# 1/5
+LOG [0] (13:50:14) -> new fumier loaded ([ fumier nom::theyk, poids::  456, mSeche::    4, txCh4::    0 ]) -> f# 2/5
+LOG [0] (13:50:14) -> new fumier loaded ([ fumier nom::  azd, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ]) -> f# 3/5
+LOG [0] (13:50:14) -> new fumier loaded ([ fumier nom::  dsq, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/5
+LOG [0] (13:50:14) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 5/5
+LOG [0] (13:50:20) -> new fumier saved ([ fumier nom::theyk, poids::  456, mSeche::    4, txCh4::    0 ])
+LOG [0] (13:50:20) -> new fumier saved ([ fumier nom::  azd, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ])
+LOG [0] (13:50:20) -> new fumier saved ([ fumier nom::  dsq, poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:20) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:22) -> new fumier loaded ([ fumier nom::theyk, poids::  456, mSeche::    4, txCh4::    0 ]) -> f# 1/4
+LOG [0] (13:50:22) -> new fumier loaded ([ fumier nom::  azd, poids::0,123456, mSeche::4,564565E+20, txCh4::    0 ]) -> f# 2/4
+LOG [0] (13:50:22) -> new fumier loaded ([ fumier nom::  dsq, poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 3/4
+LOG [0] (13:50:22) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 4/4
+LOG [0] (13:50:28) -> new fumier saved ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ])
+LOG [0] (13:50:30) -> new fumier loaded ([ fumier nom::     , poids::    0, mSeche::    0, txCh4::    0 ]) -> f# 1/1

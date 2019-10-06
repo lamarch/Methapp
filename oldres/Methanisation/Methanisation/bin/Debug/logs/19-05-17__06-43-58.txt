@@ -1,0 +1,38 @@
+LOG [0] (18 : 43 : 58 : 8746) -> LOGS METHANISATION APP (logs\19-05-17__06-43-58.txt)>>
+~~2019 -> mai (#05) -> vendredi(#17) -> 18 [+02:00 / +02:00] : 43 : 58 : 873696~~ >> 
+LOG [1] (18 : 43 : 58 : 8746) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 43 : 58 : 8756) -> Application.EnableVisualStyles()
+LOG [3] (18 : 43 : 58 : 8816) -> success
+LOG [4] (18 : 43 : 58 : 8826) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 43 : 58 : 8826) -> success
+LOG [6] (18 : 43 : 58 : 8836) -> INIT...
+LOG [7] (18 : 43 : 58 : 8836) -> Objects...
+LOG [8] (18 : 43 : 58 : 9427) -> OK
+LOG [9] (18 : 43 : 58 : 9427) -> Delegates...
+LOG [10] (18 : 43 : 58 : 9437) -> OK
+LOG [11] (18 : 43 : 58 : 9437) -> INIT end
+LOG [12] (18 : 43 : 58 : 9437) -> Loading lists...
+LOG [13] (18 : 43 : 59 : 1117) -> Application.Run(new MainForm())
+LOG [14] (18 : 44 : 01 : 5334) -> Show BLWin _win_
+LOG [15] (18 : 44 : 05 : 1472) -> MSG_BOX #INFO > #20D9 <NOM_defaut_CS du " 14/04/2019 " à " 02 h 02 " fait le " 17/05/2019 " à " 18 h 44 " (exploitation : " Methanisation.Exploitation " , chauffeur : " Methanisation.Chauffeur ", fumier : " Methanisation.Fumier "). > OK
+LOG [16] (18 : 44 : 11 : 4860) -> MSG_BOX #INFO > #20DA <NOM_defaut_CS du " 14/04/2019 " à " 02 h 02 " fait le " 17/05/2019 " à " 18 h 44 " (exploitation : " Methanisation.Exploitation " , chauffeur : " Methanisation.Chauffeur ", fumier : " Methanisation.Fumier "). > OK
+LOG [17] (18 : 44 : 13 : 7994) -> Show Fumier _win_
+LOG [18] (18 : 44 : 13 : 8084) -> new fumier loaded (Methanisation.Fumier) -> f# 1/6
+LOG [19] (18 : 44 : 13 : 8084) -> new fumier loaded (Methanisation.Fumier) -> f# 2/6
+LOG [20] (18 : 44 : 13 : 8094) -> new fumier loaded (Methanisation.Fumier) -> f# 3/6
+LOG [21] (18 : 44 : 13 : 8094) -> new fumier loaded (Methanisation.Fumier) -> f# 4/6
+LOG [22] (18 : 44 : 13 : 8094) -> new fumier loaded (Methanisation.Fumier) -> f# 5/6
+LOG [23] (18 : 44 : 13 : 8104) -> new fumier loaded (Methanisation.Fumier) -> f# 6/6
+LOG [24] (18 : 44 : 15 : 2740) -> Form closing
+LOG [25] (18 : 44 : 15 : 2740) -> Waiting form closing because unsaved
+LOG [26] (18 : 44 : 17 : 7425) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > No
+LOG [27] (18 : 44 : 20 : 7026) -> MSG_BOX #ERROR > Merci de ne sélectionner qu'un bon de livraison à la fois ! > OK
+LOG [28] (18 : 44 : 23 : 2179) -> Show Options _win_
+LOG [29] (18 : 44 : 33 : 7496) -> Show Options _win_
+LOG [30] (18 : 44 : 35 : 8149) -> ShowHelp()
+LOG [31] (18 : 44 : 36 : 9117) -> MSG_BOX #NOT_IMPLEMENTED >> OK
+LOG [32] (18 : 44 : 37 : 8886) -> START finish with success result.
+LOG [33] (18 : 44 : 37 : 8896) -> Saving lists...
+LOG [34] (18 : 44 : 37 : 8926) -> Application stopping...
+LOG [35] (18 : 44 : 37 : 8926) -> Closing opened forms...
+LOG [36] (18 : 44 : 37 : 8936) -> application STOPED.

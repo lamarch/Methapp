@@ -1,0 +1,37 @@
+LOG [0] (17 : 15 : 37 : 1964) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-15-37__194__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 15 : 37 : 195404 >> 
+LOG [1] (17 : 15 : 37 : 1974) -> START ::
+LOG [2] (17 : 15 : 37 : 1974) -> Init files & dir : 
+LOG [3] (17 : 15 : 37 : 1984) -> CREATE DIR
+LOG [4] (17 : 15 : 37 : 1994) -> success
+LOG [5] (17 : 15 : 37 : 2004) -> Application.EnableVisualStyles()
+LOG [6] (17 : 15 : 37 : 2024) -> success
+LOG [7] (17 : 15 : 37 : 2024) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 15 : 37 : 2094) -> success
+LOG [9] (17 : 15 : 37 : 2094) -> Application.Run(new MainForm())
+LOG [10] (17 : 15 : 37 : 2104) -> START finish with success result.
+LOG [11] (17 : 15 : 38 : 4626) -> Show CHF _win_
+LOG [12] (17 : 15 : 40 : 1807) -> BOX #WARNING > ser ok
+LOG [13] (17 : 15 : 41 : 2262) -> BOX #WARNING > fe!
+LOG [14] (17 : 15 : 41 : 9673) -> BOX #WARNING > la sauvegarde est ok!
+LOG [15] (17 : 15 : 42 : 7761) -> end save cancelFormClose = False
+LOG [16] (17 : 15 : 42 : 7771) -> Form closing
+LOG [17] (17 : 15 : 43 : 6855) -> Show CHF _win_
+LOG [18] (17 : 15 : 46 : 0548) -> new chauffeur saved (CHAUFFEUR non defini (1) non defini (1) description-.)
+LOG [19] (17 : 15 : 46 : 0558) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-.
+LOG [20] (17 : 15 : 47 : 1787) -> new chauffeur saved (CHAUFFEUR non defini (2) non defini (2) description-.)
+LOG [21] (17 : 15 : 47 : 1797) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-.
+LOG [22] (17 : 15 : 47 : 6490) -> new chauffeur saved (CHAUFFEUR non defini (3) non defini (3) description-.)
+LOG [23] (17 : 15 : 47 : 6490) -> BOX #WARNING > CHFs CHAUFFEUR non defini (1) non defini (1) description-. - CHAUFFEUR non defini (2) non defini (2) description-. - CHAUFFEUR non defini (3) non defini (3) description-.
+LOG [24] (17 : 15 : 48 : 0419) -> BOX #WARNING > ser ok
+LOG [25] (17 : 15 : 48 : 9403) -> BOX #WARNING > fe!
+LOG [26] (17 : 15 : 49 : 4601) -> BOX #WARNING > la sauvegarde est ok!
+LOG [27] (17 : 15 : 50 : 2993) -> end save cancelFormClose = False
+LOG [28] (17 : 15 : 50 : 3003) -> Form closing
+LOG [29] (17 : 16 : 00 : 9234) -> Show CHF _win_
+LOG [30] (17 : 16 : 28 : 0825) -> BOX #WARNING > ser ok
+LOG [31] (17 : 16 : 29 : 4958) -> BOX #WARNING > fe!
+LOG [32] (17 : 16 : 30 : 9153) -> BOX #WARNING > la sauvegarde est ok!
+LOG [33] (17 : 16 : 31 : 6155) -> end save cancelFormClose = False
+LOG [34] (17 : 16 : 31 : 6165) -> Form closing
+LOG [35] (17 : 16 : 38 : 9959) -> STOP application.

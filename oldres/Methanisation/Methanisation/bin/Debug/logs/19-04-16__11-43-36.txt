@@ -1,0 +1,29 @@
+LOG [0] (11 : 43 : 36 : 2159) -> LOGS METHANISATION APP (logs\19-04-16__11-43-36.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 43 : 36 : 215929~~ >> 
+LOG [1] (11 : 43 : 36 : 2170) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 43 : 36 : 2170) -> INIT LISTS...
+LOG [3] (11 : 43 : 36 : 2189) -> INIT end
+LOG [4] (11 : 43 : 36 : 2200) -> Application.EnableVisualStyles()
+LOG [5] (11 : 43 : 36 : 2209) -> success
+LOG [6] (11 : 43 : 36 : 2209) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (11 : 43 : 36 : 2219) -> success
+LOG [8] (11 : 43 : 36 : 2229) -> Instanciation of MainForm object
+LOG [9] (11 : 43 : 36 : 3109) -> mainForm.Text = ...
+LOG [10] (11 : 43 : 36 : 3119) -> Loading lists...
+LOG [11] (11 : 43 : 36 : 4019) -> Application.Run(new MainForm())
+LOG [12] (11 : 43 : 40 : 8146) -> Show Expl _win_
+LOG [13] (11 : 43 : 40 : 8246) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/2
+LOG [14] (11 : 43 : 40 : 8256) -> new exploitation loaded (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/2
+LOG [15] (11 : 44 : 13 : 2039) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [16] (11 : 44 : 13 : 2039) -> new exploitation saved (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard))
+LOG [17] (11 : 44 : 14 : 6060) -> Form closing
+LOG [18] (11 : 44 : 14 : 6070) -> Waiting form closing because unsaved
+LOG [19] (11 : 44 : 15 : 8137) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [20] (11 : 44 : 15 : 8137) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [21] (11 : 44 : 15 : 8147) -> new exploitation saved (E #TEST Jen - "GAEC des 12 vaches" à 45 rue de la fi (jean-michelle Renard))
+LOG [22] (11 : 44 : 17 : 4561) -> Show BLWin _win_
+LOG [23] (11 : 44 : 58 : 7864) -> START finish with success result.
+LOG [24] (11 : 44 : 58 : 7874) -> Saving lists...
+LOG [25] (11 : 44 : 58 : 7974) -> Application stopping...
+LOG [26] (11 : 44 : 58 : 7974) -> Closing opened forms...
+LOG [27] (11 : 44 : 58 : 7984) -> application STOPED.

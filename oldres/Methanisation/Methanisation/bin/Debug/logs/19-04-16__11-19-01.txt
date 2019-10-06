@@ -1,0 +1,14 @@
+LOG [0] (11 : 19 : 01 : 8278) -> LOGS METHANISATION APP (logs\19-04-16__11-19-01.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 19 : 01 : 826805~~ >> 
+LOG [1] (11 : 19 : 01 : 8288) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 19 : 01 : 8288) -> INIT end
+LOG [3] (11 : 19 : 01 : 8298) -> Application.EnableVisualStyles()
+LOG [4] (11 : 19 : 01 : 8308) -> success
+LOG [5] (11 : 19 : 01 : 8318) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 19 : 01 : 8328) -> success
+LOG [7] (11 : 19 : 01 : 8328) -> Instanciation of MainForm object
+LOG [8] (11 : 19 : 01 : 9088) -> mainForm.Text = ...
+LOG [9] (11 : 19 : 01 : 9098) -> Loading lists...
+LOG [10] (11 : 19 : 04 : 1927) -> MSG_BOX #ERROR > Il y a eu une erreur lors du chargements de la liste des fumiers. > OK
+LOG [11] (11 : 19 : 04 : 1947) -> Application.Run(new MainForm())
+LOG [12] (11 : 19 : 06 : 1321) -> Show Fumier _win_

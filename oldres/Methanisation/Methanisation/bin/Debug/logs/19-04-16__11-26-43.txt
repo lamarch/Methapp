@@ -1,0 +1,22 @@
+LOG [0] (11 : 26 : 43 : 4432) -> LOGS METHANISATION APP (logs\19-04-16__11-26-43.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 26 : 43 : 443250~~ >> 
+LOG [1] (11 : 26 : 43 : 4442) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 26 : 43 : 4442) -> INIT end
+LOG [3] (11 : 26 : 43 : 4452) -> Application.EnableVisualStyles()
+LOG [4] (11 : 26 : 43 : 4462) -> success
+LOG [5] (11 : 26 : 43 : 4462) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 26 : 43 : 4472) -> success
+LOG [7] (11 : 26 : 43 : 4472) -> Instanciation of MainForm object
+LOG [8] (11 : 26 : 43 : 5372) -> mainForm.Text = ...
+LOG [9] (11 : 26 : 43 : 5382) -> Loading lists...
+LOG [10] (11 : 26 : 45 : 0282) -> MSG_BOX #ERROR > Il y a eu une erreur lors du chargements de la liste des fumiers. > OK
+LOG [11] (11 : 26 : 45 : 0302) -> Application.Run(new MainForm())
+LOG [12] (11 : 26 : 46 : 4953) -> Show Expl _win_
+LOG [13] (11 : 26 : 46 : 5093) -> new exploitation loaded (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier)) -> f# 1/2
+LOG [14] (11 : 26 : 46 : 5103) -> new exploitation loaded (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s))) -> f# 2/2
+LOG [15] (11 : 26 : 47 : 7678) -> Form closing
+LOG [16] (11 : 26 : 47 : 7688) -> Waiting form closing because unsaved
+LOG [17] (11 : 26 : 48 : 9340) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [18] (11 : 26 : 48 : 9350) -> new exploitation saved (E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier))
+LOG [19] (11 : 26 : 48 : 9350) -> new exploitation saved (E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)))
+LOG [20] (11 : 26 : 49 : 6540) -> Show Fumier _win_

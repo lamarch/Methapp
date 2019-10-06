@@ -1,0 +1,41 @@
+LOG [0] (18 : 26 : 05 : 0445) -> LOGS METHANISATION APP (logs\19-04-16__06-26-05.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 18 [+02:00 / +02:00] : 26 : 05 : 044526~~ >> 
+LOG [1] (18 : 26 : 05 : 0455) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (18 : 26 : 05 : 0465) -> Application.EnableVisualStyles()
+LOG [3] (18 : 26 : 05 : 0475) -> success
+LOG [4] (18 : 26 : 05 : 0475) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [5] (18 : 26 : 05 : 0485) -> success
+LOG [6] (18 : 26 : 05 : 0495) -> INIT...
+LOG [7] (18 : 26 : 05 : 0495) -> Lists...
+LOG [8] (18 : 26 : 05 : 0525) -> OK
+LOG [9] (18 : 26 : 05 : 0525) -> Objects...
+LOG [10] (18 : 26 : 05 : 1205) -> OK
+LOG [11] (18 : 26 : 05 : 1215) -> Delegates...
+LOG [12] (18 : 26 : 05 : 1215) -> OK
+LOG [13] (18 : 26 : 05 : 1215) -> INIT end
+LOG [14] (18 : 26 : 05 : 1225) -> Loading lists...
+LOG [15] (18 : 26 : 05 : 4546) -> Application.Run(new MainForm())
+LOG [16] (18 : 26 : 07 : 4344) -> Show Fumier _win_
+LOG [17] (18 : 26 : 07 : 4434) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 1/6
+LOG [18] (18 : 26 : 07 : 4434) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 2/6
+LOG [19] (18 : 26 : 07 : 4434) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 3/6
+LOG [20] (18 : 26 : 07 : 4444) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 4/6
+LOG [21] (18 : 26 : 07 : 4444) -> new fumier loaded (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0) -> f# 5/6
+LOG [22] (18 : 26 : 07 : 4454) -> new fumier loaded (F caca de mouton poids : 45, mSeche : 1,212121E+07, txCh4 : 0, valeur : 0) -> f# 6/6
+LOG [23] (18 : 26 : 09 : 1756) -> Form closing
+LOG [24] (18 : 26 : 09 : 1767) -> Waiting form closing because unsaved
+LOG [25] (18 : 26 : 10 : 6598) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [26] (18 : 26 : 10 : 6618) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [27] (18 : 26 : 10 : 6618) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [28] (18 : 26 : 10 : 6618) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [29] (18 : 26 : 10 : 6628) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [30] (18 : 26 : 10 : 6628) -> new fumier saved (F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [31] (18 : 26 : 10 : 6648) -> new fumier saved (F caca de mouton poids : 45, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [32] (18 : 26 : 11 : 3887) -> Show BLWin _win_
+LOG [33] (18 : 26 : 15 : 1236) -> saving..
+LOG [34] (18 : 26 : 20 : 5156) -> START finish with success result.
+LOG [35] (18 : 26 : 20 : 5156) -> Saving lists...
+LOG [36] (18 : 26 : 20 : 5166) -> saving..
+LOG [37] (18 : 26 : 20 : 9487) -> Application stopping...
+LOG [38] (18 : 26 : 20 : 9497) -> Closing opened forms...
+LOG [39] (18 : 26 : 20 : 9497) -> application STOPED.

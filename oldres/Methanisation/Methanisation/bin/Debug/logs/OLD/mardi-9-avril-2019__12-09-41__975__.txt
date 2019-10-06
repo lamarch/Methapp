@@ -1,0 +1,9 @@
+LOG [0] (12:09:41) -> LOGS METHANISATION logs\mardi-9-avril-2019__12-09-41__975__.txt :: 
+LOG [0] (12:09:43) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/2
+LOG [0] (12:09:43) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/2
+LOG [0] (12:09:46) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (12:09:46) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (12:09:47) -> new exploitation loaded (Methanisation.Exploitation) -> f# 1/2
+LOG [0] (12:09:47) -> new exploitation loaded (Methanisation.Exploitation) -> f# 2/2
+LOG [0] (12:10:05) -> new exploitation saved (Methanisation.Exploitation)
+LOG [0] (12:10:05) -> new exploitation saved (Methanisation.Exploitation)

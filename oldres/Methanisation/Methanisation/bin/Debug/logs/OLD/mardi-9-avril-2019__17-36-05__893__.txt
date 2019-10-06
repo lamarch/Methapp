@@ -1,0 +1,28 @@
+LOG [0] (17 : 36 : 05 : 8945) -> LOGS METHANISATION >>
+(logs\mardi-9-avril-2019__17-36-05__893__.txt)2019 -> avril (#04) -> mardi(#09) -> 17 [+02:00 / +02:00] : 36 : 05 : 894504 >> 
+LOG [1] (17 : 36 : 05 : 8955) -> START ::
+LOG [2] (17 : 36 : 05 : 8955) -> Init files & dir : 
+LOG [3] (17 : 36 : 05 : 8965) -> CREATE DIR
+LOG [4] (17 : 36 : 05 : 8975) -> success
+LOG [5] (17 : 36 : 05 : 8975) -> Application.EnableVisualStyles()
+LOG [6] (17 : 36 : 05 : 8985) -> success
+LOG [7] (17 : 36 : 05 : 8985) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (17 : 36 : 05 : 8995) -> success
+LOG [9] (17 : 36 : 05 : 9005) -> Application.Run(new MainForm())
+LOG [10] (17 : 36 : 05 : 9005) -> START finish with success result.
+LOG [11] (17 : 36 : 06 : 9797) -> Show CHF _win_
+LOG [12] (17 : 36 : 07 : 0617) -> new chauffeur loaded (CHAUFFEUR nom : Lorange, prenom : mam, description : "27 ans, brun...".) -> f# 1/15
+LOG [13] (17 : 36 : 07 : 0627) -> new chauffeur loaded (CHAUFFEUR nom : non defini (2), prenom : non defini (2), description : "-".) -> f# 2/15
+LOG [14] (17 : 36 : 07 : 0637) -> new chauffeur loaded (CHAUFFEUR nom : non defini (3), prenom : non defini (3), description : "-".) -> f# 3/15
+LOG [15] (17 : 36 : 07 : 0647) -> new chauffeur loaded (CHAUFFEUR nom : non defini (4), prenom : non defini (4), description : "-".) -> f# 4/15
+LOG [16] (17 : 36 : 07 : 0647) -> new chauffeur loaded (CHAUFFEUR nom : non defini (5), prenom : non defini (5), description : "-".) -> f# 5/15
+LOG [17] (17 : 36 : 07 : 0657) -> new chauffeur loaded (CHAUFFEUR nom : non defini (6), prenom : non defini (6), description : "-".) -> f# 6/15
+LOG [18] (17 : 36 : 07 : 0667) -> new chauffeur loaded (CHAUFFEUR nom : non defini (7), prenom : non defini (7), description : "-".) -> f# 7/15
+LOG [19] (17 : 36 : 07 : 0667) -> new chauffeur loaded (CHAUFFEUR nom : non defini (8), prenom : non defini (8), description : "-".) -> f# 8/15
+LOG [20] (17 : 36 : 07 : 0677) -> new chauffeur loaded (CHAUFFEUR nom : non defini (9), prenom : non defini (9), description : "-".) -> f# 9/15
+LOG [21] (17 : 36 : 07 : 0687) -> new chauffeur loaded (CHAUFFEUR nom : non defini (10), prenom : non defini (10), description : "-".) -> f# 10/15
+LOG [22] (17 : 36 : 07 : 0687) -> new chauffeur loaded (CHAUFFEUR nom : non defini (11), prenom : non defini (11), description : "-".) -> f# 11/15
+LOG [23] (17 : 36 : 07 : 0697) -> new chauffeur loaded (CHAUFFEUR nom : non defini (12), prenom : non defini (12), description : "-".) -> f# 12/15
+LOG [24] (17 : 36 : 07 : 0707) -> new chauffeur loaded (CHAUFFEUR nom : non defini (13), prenom : non defini (13), description : "-".) -> f# 13/15
+LOG [25] (17 : 36 : 07 : 0717) -> new chauffeur loaded (CHAUFFEUR nom : non defini (14), prenom : non defini (14), description : "-".) -> f# 14/15
+LOG [26] (17 : 36 : 07 : 0717) -> new chauffeur loaded (CHAUFFEUR nom : non defini (15), prenom : non defini (15), description : "-".) -> f# 15/15

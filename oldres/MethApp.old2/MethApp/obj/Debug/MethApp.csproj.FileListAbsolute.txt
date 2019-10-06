@@ -1,0 +1,10 @@
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.Properties.Resources.resources
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.exe.config
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.exe
+C:\Users\Xavier\source\repos\MethApp\MethApp\bin\Debug\MethApp.pdb
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.exe
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.pdb
+C:\Users\Xavier\source\repos\MethApp\MethApp\obj\Debug\MethApp.DGW_Base.resources

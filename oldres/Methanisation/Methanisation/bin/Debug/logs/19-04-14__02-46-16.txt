@@ -1,0 +1,32 @@
+LOG [0] (14 : 46 : 16 : 5754) -> LOGS METHANISATION APP (logs\19-04-14__02-46-16.txt)>>
+~~2019 -> avril (#04) -> dimanche(#14) -> 14 [+02:00 / +02:00] : 46 : 16 : 574418~~ >> 
+LOG [1] (14 : 46 : 16 : 5764) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (14 : 46 : 16 : 5764) -> INIT end
+LOG [3] (14 : 46 : 16 : 5774) -> Application.EnableVisualStyles()
+LOG [4] (14 : 46 : 16 : 5784) -> success
+LOG [5] (14 : 46 : 16 : 5784) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (14 : 46 : 16 : 5794) -> success
+LOG [7] (14 : 46 : 16 : 5804) -> Instanciation of MainForm object
+LOG [8] (14 : 46 : 16 : 6554) -> mainForm.Text = ...
+LOG [9] (14 : 46 : 16 : 6554) -> Loading lists...
+LOG [10] (14 : 46 : 16 : 7434) -> Application.Run(new MainForm())
+LOG [11] (14 : 46 : 18 : 2039) -> Show CHF _win_
+LOG [12] (14 : 46 : 18 : 2129) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 1/2
+LOG [13] (14 : 46 : 18 : 2129) -> new chauffeur loaded (CHAUFFEUR nom : nom non défini, prenom : prenom non défini, description : "-".) -> f# 2/2
+LOG [14] (14 : 46 : 19 : 8043) -> Form closing
+LOG [15] (14 : 46 : 21 : 9784) -> MSG_BOX #INFO > System.Windows.Forms.DataGridView ts > OK
+LOG [16] (14 : 46 : 22 : 8199) -> MSG_BOX #INFO > System.Windows.Forms.DataGridView ts > OK
+LOG [17] (14 : 46 : 23 : 3292) -> MSG_BOX #INFO > CDGWD - d1.r.count = 2 d2.r.count = 2 > OK
+LOG [18] (14 : 46 : 23 : 4901) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [19] (14 : 46 : 25 : 0077) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [20] (14 : 46 : 25 : 1475) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [21] (14 : 46 : 25 : 3591) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [22] (14 : 46 : 25 : 5681) -> MSG_BOX #INFO > CDGWD - d1.r[i].c.count = 3 d2.r[i].c.count = 3 > OK
+LOG [23] (14 : 46 : 25 : 7784) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = nom non défini d2.r[i].c[j].val = nom non défini > OK
+LOG [24] (14 : 46 : 25 : 9188) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = prenom non défini d2.r[i].c[j].val = prenom non défini > OK
+LOG [25] (14 : 46 : 26 : 0596) -> MSG_BOX #INFO > CDGWD - d1.r[i].c[j].val = - d2.r[i].c[j].val = - > OK
+LOG [26] (14 : 46 : 27 : 5937) -> START finish with success result.
+LOG [27] (14 : 46 : 27 : 5947) -> Saving lists...
+LOG [28] (14 : 46 : 27 : 6017) -> Application stopping...
+LOG [29] (14 : 46 : 27 : 6027) -> Closing opened forms...
+LOG [30] (14 : 46 : 27 : 6027) -> application STOPED.

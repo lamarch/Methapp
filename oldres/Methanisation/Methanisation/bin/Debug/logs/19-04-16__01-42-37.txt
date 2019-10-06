@@ -1,0 +1,20 @@
+LOG [0] (13 : 42 : 37 : 1597) -> LOGS METHANISATION APP (logs\19-04-16__01-42-37.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 13 [+02:00 / +02:00] : 42 : 37 : 158703~~ >> 
+LOG [1] (13 : 42 : 37 : 1597) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (13 : 42 : 37 : 1607) -> INIT LISTS...
+LOG [3] (13 : 42 : 37 : 1627) -> INIT end
+LOG [4] (13 : 42 : 37 : 1637) -> Application.EnableVisualStyles()
+LOG [5] (13 : 42 : 37 : 1647) -> success
+LOG [6] (13 : 42 : 37 : 1647) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [7] (13 : 42 : 37 : 1657) -> success
+LOG [8] (13 : 42 : 37 : 1657) -> Instanciation of MainForm object
+LOG [9] (13 : 42 : 37 : 2337) -> mainForm.Text = ...
+LOG [10] (13 : 42 : 37 : 2347) -> Loading lists...
+LOG [11] (13 : 42 : 37 : 3417) -> Application.Run(new MainForm())
+LOG [12] (13 : 42 : 38 : 5250) -> Show BLWin _win_
+LOG [13] (13 : 42 : 42 : 2495) -> MSG_BOX #INFO > BON DE LIVRAISON #1D0 1CF du " 14/04/2019 " à " 02 h 02 " fait le " 16/04/2019 " à " 13 h 42 " (exploitation : " E #<ID_defaut_1F94> - "<nom indéfini>" à <adresse indéfinie> (<exploitant(e)(s) indéfini(e)(s)>) " , chauffeur : " C <nom indéfini> <prenom indéfini> ("<description indéfinie>"). ", fumier : " F <non défini> poids : 0, mSeche : 0, txCh4 : 0, valeur : 0 "). > OK
+LOG [14] (13 : 42 : 43 : 9773) -> START finish with success result.
+LOG [15] (13 : 42 : 43 : 9783) -> Saving lists...
+LOG [16] (13 : 42 : 43 : 9883) -> Application stopping...
+LOG [17] (13 : 42 : 43 : 9883) -> Closing opened forms...
+LOG [18] (13 : 42 : 43 : 9893) -> application STOPED.

@@ -1,0 +1,27 @@
+LOG [0] (11 : 34 : 39 : 0998) -> LOGS METHANISATION APP (logs\19-04-16__11-34-39.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 34 : 39 : 098857~~ >> 
+LOG [1] (11 : 34 : 39 : 0998) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 34 : 39 : 1008) -> INIT LISTS...
+LOG [3] (11 : 34 : 40 : 5219) -> MSG_BOX #INFO > System.Collections.Generic.List`1[Methanisation.Fumier] > OK
+LOG [4] (11 : 34 : 40 : 5230) -> INIT end
+LOG [5] (11 : 34 : 40 : 5230) -> Application.EnableVisualStyles()
+LOG [6] (11 : 34 : 40 : 5250) -> success
+LOG [7] (11 : 34 : 40 : 5250) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (11 : 34 : 40 : 5320) -> success
+LOG [9] (11 : 34 : 40 : 5320) -> Instanciation of MainForm object
+LOG [10] (11 : 34 : 40 : 5930) -> mainForm.Text = ...
+LOG [11] (11 : 34 : 40 : 5930) -> Loading lists...
+LOG [12] (11 : 34 : 40 : 6650) -> Application.Run(new MainForm())
+LOG [13] (11 : 34 : 42 : 4987) -> Show Fumier _win_
+LOG [14] (11 : 34 : 44 : 7275) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [15] (11 : 34 : 44 : 7284) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [16] (11 : 34 : 45 : 8371) -> Form closing
+LOG [17] (11 : 34 : 45 : 8381) -> Waiting form closing because unsaved
+LOG [18] (11 : 34 : 46 : 7041) -> MSG_BOX #WARNING > Voulez-vous sauvegarder avant de quitter ? > Yes
+LOG [19] (11 : 34 : 46 : 7041) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [20] (11 : 34 : 46 : 7051) -> new fumier saved (F non défini poids : 0, mSeche : 0, txCh4 : 0, valeur : 0)
+LOG [21] (11 : 34 : 48 : 2519) -> START finish with success result.
+LOG [22] (11 : 34 : 48 : 2529) -> Saving lists...
+LOG [23] (11 : 34 : 48 : 2609) -> Application stopping...
+LOG [24] (11 : 34 : 48 : 2619) -> Closing opened forms...
+LOG [25] (11 : 34 : 48 : 2619) -> application STOPED.

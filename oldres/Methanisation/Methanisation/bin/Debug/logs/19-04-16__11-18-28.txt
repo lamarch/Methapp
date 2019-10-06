@@ -1,0 +1,15 @@
+LOG [0] (11 : 18 : 28 : 3523) -> LOGS METHANISATION APP (logs\19-04-16__11-18-28.txt)>>
+~~2019 -> avril (#04) -> mardi(#16) -> 11 [+02:00 / +02:00] : 18 : 28 : 351337~~ >> 
+LOG [1] (11 : 18 : 28 : 3523) -> STARTING application[name = Methapp, version = " 0.057 "] ::
+LOG [2] (11 : 18 : 28 : 3533) -> INIT end
+LOG [3] (11 : 18 : 28 : 3533) -> Application.EnableVisualStyles()
+LOG [4] (11 : 18 : 28 : 3543) -> success
+LOG [5] (11 : 18 : 28 : 3543) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [6] (11 : 18 : 28 : 3553) -> success
+LOG [7] (11 : 18 : 28 : 3553) -> Instanciation of MainForm object
+LOG [8] (11 : 18 : 28 : 4503) -> mainForm.Text = ...
+LOG [9] (11 : 18 : 28 : 4513) -> Loading lists...
+LOG [10] (11 : 18 : 42 : 8093) -> MSG_BOX #ERROR > Il y a eu une erreur lors du chargements de la liste des fumiers. > OK
+LOG [11] (11 : 18 : 42 : 8113) -> Application.Run(new MainForm())
+LOG [12] (11 : 18 : 44 : 2855) -> Show BLWin _win_
+LOG [13] (11 : 18 : 45 : 4522) -> MSG_BOX #INFO > -> E #45-89 - "EARL du grand moulin" à 9 rue de bezange (xavier) // E #ID_defaut_B65 - "nom inconnu" à adresse inconnue (exploitant(s) inconn(s)) > OK

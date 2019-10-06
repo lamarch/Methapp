@@ -1,0 +1,27 @@
+LOG [0] (14 : 15 : 22 : 3925) -> LOGS METHANISATION >>
+(logs\vendredi-12-avril-2019__14-15-22__390__.txt)2019 -> avril (#04) -> vendredi(#12) -> 14 [+02:00 / +02:00] : 15 : 22 : 392515 >> 
+LOG [1] (14 : 15 : 22 : 3935) -> START ::
+LOG [2] (14 : 15 : 22 : 3935) -> Init files & dir : 
+LOG [3] (14 : 15 : 22 : 3935) -> CREATE DIR
+LOG [4] (14 : 15 : 22 : 3955) -> success
+LOG [5] (14 : 15 : 22 : 3955) -> Application.EnableVisualStyles()
+LOG [6] (14 : 15 : 22 : 4015) -> success
+LOG [7] (14 : 15 : 22 : 4025) -> Application.SetCompatibleTextRenderingDefault(false)
+LOG [8] (14 : 15 : 22 : 4035) -> success
+LOG [9] (14 : 15 : 22 : 4045) -> Application.Run(new MainForm())
+LOG [10] (14 : 15 : 22 : 4045) -> START finish with success result.
+LOG [11] (14 : 15 : 23 : 9531) -> Show CHF _win_
+LOG [12] (14 : 15 : 29 : 0466) -> Form closing
+LOG [13] (14 : 15 : 29 : 0476) -> Waiting form closing
+LOG [14] (14 : 15 : 29 : 0476) -> BOX #WARNING > Etes-vous sur de vouloir quitter sans sauvegarder ?
+LOG [15] (14 : 15 : 31 : 7747) -> Show CHF _win_
+LOG [16] (14 : 15 : 34 : 8729) -> Form closing
+LOG [17] (14 : 15 : 34 : 8739) -> Waiting form closing
+LOG [18] (14 : 15 : 34 : 8739) -> BOX #WARNING > Etes-vous sur de vouloir quitter sans sauvegarder ?
+LOG [19] (14 : 15 : 40 : 8611) -> Form closing
+LOG [20] (14 : 15 : 40 : 8621) -> Waiting form closing
+LOG [21] (14 : 15 : 40 : 8621) -> BOX #WARNING > Etes-vous sur de vouloir quitter sans sauvegarder ?
+LOG [22] (14 : 15 : 46 : 0665) -> Form closing
+LOG [23] (14 : 15 : 46 : 0665) -> Waiting form closing
+LOG [24] (14 : 15 : 46 : 0675) -> BOX #WARNING > Etes-vous sur de vouloir quitter sans sauvegarder ?
+LOG [25] (14 : 15 : 54 : 2758) -> STOP application.
