@@ -1,0 +1,14 @@
+C:\Users\Xavier\source\repos\MethApp\Methapp\bin\Debug\Methapp.exe.config
+C:\Users\Xavier\source\repos\MethApp\Methapp\bin\Debug\Methapp.exe
+C:\Users\Xavier\source\repos\MethApp\Methapp\bin\Debug\Methapp.pdb
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\MainWindow.g.cs
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\App.g.cs
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp_MarkupCompile.cache
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp_MarkupCompile.lref
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\MainWindow.baml
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.g.resources
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.Properties.Resources.resources
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.exe
+C:\Users\Xavier\source\repos\MethApp\Methapp\obj\Debug\Methapp.pdb
