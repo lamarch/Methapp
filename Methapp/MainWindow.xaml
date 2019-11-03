@@ -45,64 +45,48 @@
         <Border Grid.Row="0" Margin="10" CornerRadius="5" BorderThickness="2" BorderBrush="Black" Background="LightGray">
             <TabControl Grid.Row="0" Margin="10" >
                 <TabItem Header="Clients">
-                    <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" Margin="10">
-                        <ListView BorderThickness="1" x:Name="lv_clients" ItemsSource="{Binding Clients}" AlternationCount="2">
-                            <ListView.View>
-                                <GridView>
-                                    <GridViewColumn Header="Exploitation" DisplayMemberBinding="{Binding Nom}" Width="200"/>
-                                    <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Proprietaire}" Width="200"/>
-                                    <GridViewColumn Header="Bennes" Width="400">
-                                        <!-- bennes list -->
-                                        <GridViewColumn.CellTemplate>
-                                            <DataTemplate>
-                                                <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch">
-                                                    <ListView ItemsSource="{Binding Bennes}" AlternationCount="2">
-                                                        <ListView.View>
-                                                            <GridView>
-                                                                <GridViewColumn Header="ID" Width="100">
-                                                                    <GridViewColumn.CellTemplate>
-                                                                        <DataTemplate>
-                                                                            <TextBox Text="{Binding Id}"/>
-                                                                        </DataTemplate>
-                                                                    </GridViewColumn.CellTemplate>
-                                                                </GridViewColumn>
-                                                                <GridViewColumn Header="Tare" Width="100">
-                                                                    <GridViewColumn.CellTemplate>
-                                                                        <DataTemplate>
-                                                                            <TextBox Text="{Binding Tare}"/>
-                                                                        </DataTemplate>
-                                                                    </GridViewColumn.CellTemplate>
-                                                                </GridViewColumn>
-                                                                <GridViewColumn Header="Supprimer">
-                                                                    <GridViewColumn.CellTemplate>
-                                                                        <DataTemplate>
-                                                                            <Button Margin="0">
-                                                                                Supprimer
-                                                                            </Button>
-                                                                        </DataTemplate>
-                                                                    </GridViewColumn.CellTemplate>
-                                                                </GridViewColumn>
-                                                            </GridView>
-                                                        </ListView.View>
-                                                    </ListView>
-                                                    <Button>
-                                                        Ajouter une benne
-                                                    </Button>
-                                                </StackPanel>
-                                            </DataTemplate>
-                                        </GridViewColumn.CellTemplate>
-                                    </GridViewColumn>
-                                </GridView>
-                            </ListView.View>
-                            <ListView.ItemTemplate>
-                                <DataTemplate>
-                                            
-                                </DataTemplate>
-                            </ListView.ItemTemplate>
-                        </ListView>
-                        <Button Margin="10">Ajouter un client</Button>
-                        <Button Margin="10">Supprimer un client</Button>
-                    </StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="5*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" Margin="10" Grid.Column="0">
+                            <TextBlock FontWeight="Bold" TextAlignment="Center">Clients :</TextBlock>
+                            
+                            <ListView BorderThickness="1" x:Name="lv_clients" ItemsSource="{Binding Clients}" AlternationCount="2">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Header="Exploitation" DisplayMemberBinding="{Binding Nom}" Width="200"/>
+                                        <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Proprietaire}" Width="200"/>
+                                    </GridView>
+                                </ListView.View>
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <Button Margin="10">Ajouter un client</Button>
+                            <Button Margin="10">Supprimer le client sélectionné</Button>
+                        </StackPanel>
+                        
+                        <StackPanel Grid.Column="1" Margin="10">
+                            <TextBlock FontWeight="Bold" TextAlignment="Center">Bennes du client sélectionné:</TextBlock>
+                            <ListView ItemsSource="{Binding Selected_client.Bennes, UpdateSourceTrigger=PropertyChanged}" x:Name="lv_bennes">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridView.Columns>
+                                            <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}"/>
+                                        </GridView.Columns>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                            <Button Margin="10">Ajouter une benne à ce client</Button>
+                            <Button Margin="10">Supprimer la benne sélectionnée</Button>
+                        </StackPanel>
+                    </Grid>
+                    
                 </TabItem>
                 <TabItem Header="Maïs">
 

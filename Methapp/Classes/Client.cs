@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Methapp.Classes
 {
-    class Client : INotifyPropertyChanged
+    public class Client : INotifyPropertyChanged
     {
         string nom;
         string proprietaire;
@@ -60,7 +60,7 @@ namespace Methapp.Classes
 
     }
 
-    class Benne : INotifyPropertyChanged
+    public class Benne : INotifyPropertyChanged
     {
         int id;
         float tare;

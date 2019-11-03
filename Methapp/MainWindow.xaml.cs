@@ -18,18 +18,29 @@ using Methapp.Classes;
 namespace Methapp
 {
 
-        
+
     public partial class MainWindow : Window
     {
-        ObservableCollection<Client> Clients;
-        public MainWindow()
+
+        public MainWindow ()
         {
-            Clients = new ObservableCollection<Client>();
-            Clients.Add(new Client() { Nom = "Client_test", Proprietaire = "jack de b.", Bennes = new List<Benne>() { new Benne() { Id=125 }, new Benne() { Id = 15 } } });
-            Clients.Add(new Client() { Nom = "Client_test", Proprietaire = "jack de b.", Bennes = new List<Benne>() { new Benne() { Id = 125 }, new Benne() { Id = 15 } } });
-            InitializeComponent();
             DataContext = this;
-            lv_clients.ItemsSource = Clients;
+            Clients = new ObservableCollection<Client>();
+            Clients.Add( new Client() { Nom = "Client_test", Proprietaire = "jack de b.", Bennes = new List<Benne>() { new Benne() { Id = 125 }, new Benne() { Id = 15 } } } );
+            Clients.Add( new Client() { Nom = "Client_test", Proprietaire = "jack de b.", Bennes = new List<Benne>() { new Benne() { Id = 125 }, new Benne() { Id = 15 } } } );
+
+            lv_clients.SelectionChanged += (object sender, SelectionChangedEventArgs e) => {
+                
+            }
+
+            InitializeComponent();
+
         }
+
+        public Client Selected_client {
+            get => lv_clients.SelectedItem as Client;
+        }
+
+        public ObservableCollection<Client> Clients { get; set; }
     }
 }
