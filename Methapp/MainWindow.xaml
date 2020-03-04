@@ -5,88 +5,96 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Methapp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="655" Width="821" MinHeight="700" MinWidth="1100">
+        Title="Methapp" Height="821.5" Width="1499" MinHeight="700" MinWidth="1100" WindowStartupLocation="CenterScreen" WindowState="Maximized">
     <Window.Resources>
         <Style TargetType="TabItem">
             <Setter Property="Foreground" Value="Black"/>
             <Setter Property="FontSize" Value="25"/>
         </Style>
-        
-        <Style TargetType="ListViewItem">
-            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
-            <Style.Triggers>
-                <Trigger Property="ItemsControl.AlternationIndex"  Value="0">
-                    <Setter Property="Background" Value="AntiqueWhite" />
-                </Trigger>
-                <Trigger Property="ItemsControl.AlternationIndex"  Value="1">
-                    <Setter Property="Background" Value="WhiteSmoke" />
-                </Trigger>
 
-            </Style.Triggers>
-        </Style>
-
-        <Style x:Key="ListViewItemDeleteCM" TargetType="ListViewItem">
-            <Setter Property="ContextMenu">
-                <Setter.Value>
-                    <ContextMenu>
-                        <MenuItem Header="Supprimer" />
-                    </ContextMenu>
-                </Setter.Value>
-            </Setter>
+        <Style TargetType="MenuItem">
+            <Setter Property="FontSize" Value="20"/>
         </Style>
 
     </Window.Resources>
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="60"/>
+            <RowDefinition Height="80"/>
         </Grid.RowDefinitions>
 
-        <Border Grid.Row="0" Margin="10" CornerRadius="5" BorderThickness="2" BorderBrush="Black" Background="LightGray">
+        <Menu>
+            <MenuItem Header="Fichier">
+                <MenuItem Header="Sauvegarder" Icon="%SystemRoot%\system32\shell32.dll,-16769"/>
+                <MenuItem Header="Récupérer"/>
+                <MenuItem Header="Options et paramètres"/>
+                <MenuItem Header="Quitter"/>
+            </MenuItem>
+            <MenuItem Header="Saison">
+                <MenuItem Header="Créer une nouvelle saison"/>
+                <MenuItem Header="Importer une nouvelle saison"/>
+                <MenuItem Header="Exporter une saison"/>
+                <MenuItem Header="Supprimer une saison"/>
+            </MenuItem>
+        </Menu>
+        
+        <Border Grid.Row="1" Margin="10" CornerRadius="5" BorderThickness="2" BorderBrush="Black" Background="LightGray" Grid.ColumnSpan="2">
             <TabControl Grid.Row="0" Margin="10" >
-                <TabItem Header="Clients">
+                <TabItem Header="Exploitations">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="5*"/>
-                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="0.1*"/>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="4*"/>
                         </Grid.ColumnDefinitions>
 
                         <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" Margin="10" Grid.Column="0">
-                            <TextBlock FontWeight="Bold" TextAlignment="Center">Clients :</TextBlock>
-                            
-                            <ListView BorderThickness="1" x:Name="lv_clients" ItemsSource="{Binding Clients}" AlternationCount="2">
-                                <ListView.View>
-                                    <GridView>
-                                        <GridViewColumn Header="Exploitation" DisplayMemberBinding="{Binding Nom}" Width="200"/>
-                                        <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Proprietaire}" Width="200"/>
-                                    </GridView>
-                                </ListView.View>
-                                <ListView.ItemTemplate>
-                                    <DataTemplate>
+                            <TextBlock FontWeight="Bold" TextAlignment="Center">Exploitations :</TextBlock>
+                            <DataGrid ItemsSource="{Binding Exploitations}" x:Name="lv_exploitations" AutoGenerateColumns="False">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Exploitation" Binding="{Binding Nom}" Width="Auto"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
 
-                                    </DataTemplate>
-                                </ListView.ItemTemplate>
-                            </ListView>
-                            <Button Margin="10">Ajouter un client</Button>
-                            <Button Margin="10">Supprimer le client sélectionné</Button>
+                            <Button Visibility="Hidden" x:Name="bt_add_expl" Click="bt_add_expl_Click" Margin="10">Ajouter un client</Button>
+                            <Button x:Name="bt_del_expl" Click="bt_del_expl_Click" Margin="10">Supprimer le client sélectionné</Button>
                         </StackPanel>
-                        
-                        <StackPanel Grid.Column="1" Margin="10">
-                            <TextBlock FontWeight="Bold" TextAlignment="Center">Bennes du client sélectionné:</TextBlock>
-                            <ListView ItemsSource="{Binding Selected_client.Bennes, UpdateSourceTrigger=PropertyChanged}" x:Name="lv_bennes">
-                                <ListView.View>
-                                    <GridView>
-                                        <GridView.Columns>
-                                            <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}"/>
-                                        </GridView.Columns>
-                                    </GridView>
-                                </ListView.View>
-                            </ListView>
-                            <Button Margin="10">Ajouter une benne à ce client</Button>
-                            <Button Margin="10">Supprimer la benne sélectionnée</Button>
+
+                        <!--Separator between Clients & Bennes-->
+                        <StackPanel Grid.Column="1" Orientation="Horizontal">
+                            <Separator  Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" Width="3"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="2" Margin="10">
+                            <TextBlock FontWeight="Bold" TextAlignment="Center">Bennes :</TextBlock>
+                            <DataGrid ItemsSource="{Binding Selected_expl.Bennes}" x:Name="lv_bennes" AutoGenerateColumns="False">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Width="150" Header="ID" Binding="{Binding Id}"/>
+                                    <DataGridTextColumn Width="150" Header="Tare" Binding="{Binding Tare}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+
+                            <Button Visibility="Hidden" x:Name="bt_add_benne" Click="bt_add_benne_Click" Margin="10">Ajouter une benne à ce client</Button>
+                            <Button x:Name="bt_del_benne" Click="bt_del_benne_Click" Margin="10">Supprimer la benne sélectionnée</Button>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="3" Margin="10">
+                            <TextBlock FontWeight="Bold" TextAlignment="Center">Champs :</TextBlock>
+                            <DataGrid ItemsSource="{Binding Selected_expl.Champs}" x:Name="lv_champs" AutoGenerateColumns="False">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Nom" Binding="{Binding Nom}"/>
+                                    <DataGridTextColumn Header="Surface" Binding="{Binding Surface}"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
                         </StackPanel>
                     </Grid>
-                    
+
                 </TabItem>
                 <TabItem Header="Maïs">
 
@@ -96,7 +104,7 @@
                 </TabItem>
             </TabControl>
         </Border>
-        <Border Margin="10" Grid.Row="1" BorderBrush="Black" BorderThickness="2" CornerRadius="5" Background="LightGray">
+        <Border Margin="10" Grid.Row="2" BorderBrush="Black" BorderThickness="2" CornerRadius="5" Background="LightGray" Grid.ColumnSpan="2">
             <Button Grid.Row="1" Margin="5" Background="LightGray" BorderThickness="0">
                 Bouton test
             </Button>
